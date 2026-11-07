@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "approvals": {
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS76-09": {
+      "code": "AS76-09",
+      "x": 22485.45649297638,
+      "y": 26833.445401570814,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-07T04:48:58.268Z",
+      "source": "user-reviewed",
+      "scanId": "288b8231-8cc3-44a3-9ad2-7bf38d1627bc"
+    }
+  },
+  "history": [
+    {
+      "at": "2026-11-07T05:03:03.598Z",
+      "action": "sync",
+      "pending": 140,
+      "assigned": 806
+    },
+    {
+      "at": "2026-11-07T05:02:34.051Z",
+      "action": "sync",
+      "pending": 140,
+      "assigned": 806
+    },
+    {
+      "at": "2026-11-07T04:56:57.649Z",
+      "action": "sync",
+      "pending": 140,
+      "assigned": 806
+    },
+    {
+      "at": "2026-11-07T04:54:42.760Z",
+      "action": "sync",
+      "pending": 140,
+      "assigned": 806
+    },
+    {
+      "at": "2026-11-07T04:48:58.268Z",
+      "action": "approve",
+      "codes": [
+        "AS76-09"
+      ]
+    },
+    {
+      "at": "2026-11-07T04:46:45.400Z",
+      "action": "sync",
+      "pending": 140,
+      "assigned": 806
+    },
+    {
+      "at": "2026-11-07T04:33:36.628Z",
+      "action": "sync",
+      "pending": 140,
+      "assigned": 806
+    }
+  ]
+}

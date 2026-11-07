@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="tool-key" content="__TOOL_KEY__" />
+    <title>VHUB · Trợ lý gắn căn</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <span class="brand-icon">V</span>
+        <div><strong>Trợ lý gắn căn</strong><small>VHUB · Công cụ cục bộ</small></div>
+      </div>
+      <div class="project"><span class="dot"></span> VINHOMES SÀI GÒN PARK</div>
+      <div class="header-actions">
+        <span id="connection" class="muted">Chưa kết nối</span
+        ><button id="connect" class="primary">Kết nối & đồng bộ</button>
+      </div>
+    </header>
+    <main>
+      <section class="intro">
+        <div>
+          <p class="eyebrow">MẶT BẰNG QUỸ CĂN</p>
+          <h1>Tìm đúng mã. Gắn đúng ô.</h1>
+          <p>Đọc vùng mặt bằng, xác nhận vị trí một lần và dùng lại cho những ngày sau.</p>
+        </div>
+        <button id="export" class="quiet">↓ Sao lưu vị trí</button>
+      </section>
+      <section class="metrics" aria-label="Tổng quan">
+        <div>
+          <span class="metric-icon">◷</span>
+          <div><strong id="pending-count">—</strong><small>Căn chờ gắn</small></div>
+        </div>
+        <div>
+          <span class="metric-icon green">✓</span>
+          <div><strong id="assigned-count">—</strong><small>Đã gắn trên VHUB</small></div>
+        </div>
+        <div>
+          <span class="metric-icon blue">⌖</span>
+          <div><strong id="approved-count">0</strong><small>Vị trí đã xác nhận</small></div>
+        </div>
+        <div>
+          <span class="metric-icon">▧</span>
+          <div>
+            <strong id="ocr-status">Đang kiểm tra</strong><small>Nhận diện mã trên máy</small>
+          </div>
+        </div>
+      </section>
+      <section id="job-box" class="job" aria-live="polite">
+        <span id="job-symbol">○</span>
+        <div>
+          <strong id="job-title">Bắt đầu bằng Kết nối & đồng bộ</strong>
+          <p id="job-message">Đăng nhập tài khoản có quyền Quản lý hotspot trong cửa sổ Edge.</p>
+        </div>
+        <button id="cancel" hidden>Dừng dò mã</button>
+      </section>
+      <div id="error" class="error" role="alert" hidden></div>
+      <div class="workspace">
+        <aside class="card list-panel">
+          <div class="card-heading">
+            <h2>Căn cần xử lý</h2>
+            <span id="list-count" class="badge">0</span>
+          </div>
+          <label class="search"
+            ><span>⌕</span
+            ><input id="filter" placeholder="Tìm mã, dãy căn…" aria-label="Lọc căn cần xử lý"
+          /></label>
+          <div class="list-tools">
+            <button id="select-approved" class="text-button">Chọn 20 căn đã duyệt</button
+            ><button id="clear-selected" class="text-button">Bỏ chọn</button>
+          </div>
+          <div id="pending-list" class="pending-list">
+            <div class="empty">
+              <span>⌖</span>
+              <p>Kết nối VHUB để đọc danh sách căn đang chờ gắn.</p>
+            </div>
+          </div>
+          <div class="batch-bar">
+            <span id="selected-count">Chưa chọn căn</span>
+            <div>
+              <button id="scan-batch">Dò mã đã chọn</button
+              ><button id="stage-batch" class="primary">Đặt nháp</button>
+            </div>
+          </div>
+        </aside>
+        <section class="card preview-panel">
+          <div class="card-heading">
+            <div>
+              <span class="eyebrow">VÙNG MẶT BẰNG</span>
+              <h2 id="target-title">Chọn một căn để bắt đầu</h2>
+            </div>
+            <span id="target-status" class="badge">Chưa có vị trí</span>
+          </div>
+          <div class="preview-controls">
+            <label
+              >Mốc
+              <select id="anchor" aria-label="Căn đã gắn dùng làm mốc">
+                <option>Chưa chọn căn</option>
+              </select></label
+            ><label
+              >Vùng ảnh
+              <select id="radius" aria-label="Bán kính vùng ảnh">
+                <option value="800">Gần · 1.600 px</option>
+                <option value="1200" selected>Vừa · 2.400 px</option>
+                <option value="1800">Rộng · 3.600 px</option>
+              </select></label
+            ><button id="scan" class="primary">Dò mã</button
+            ><button id="image-only">Chỉ lấy ảnh</button>
+          </div>
+          <div class="viewer-toolbar">
+            <span id="preview-note">Ảnh được đọc từ nguồn mặt bằng gốc</span
+            ><label
+              >Zoom
+              <input
+                id="image-zoom"
+                type="range"
+                min="25"
+                max="160"
+                value="75"
+                aria-label="Zoom ảnh xem trước"
+              /><output id="zoom-value">75%</output></label
+            >
+          </div>
+          <div id="image-viewport" class="image-viewport">
+            <div id="image-empty" class="empty">
+              <span>▧</span>
+              <h3>Chưa có vùng ảnh</h3>
+              <p>
+                Chọn căn ở bên trái, rồi bấm Dò mã.<br />Bạn cũng có thể lấy ảnh và chọn đúng ô trực
+                tiếp.
+              </p>
+            </div>
+            <canvas
+              id="map-canvas"
+              tabindex="0"
+              aria-label="Ảnh mặt bằng. Bấm đúng ô đất để chọn vị trí; dùng phím mũi tên để chỉnh điểm."
+              hidden
+            ></canvas>
+          </div>
+          <div class="preview-footer">
+            <span id="point-label">Chưa chọn điểm trên ảnh</span
+            ><button id="current-view" class="text-button">Lấy vùng đang xem trên VHUB</button>
+          </div>
+        </section>
+        <aside class="card review-panel">
+          <div class="card-heading"><h2>Kiểm tra vị trí</h2></div>
+          <div class="review-content">
+            <p class="step-label">1 · ĐỌC MÃ TRÊN ẢNH</p>
+            <p class="help">
+              Mã trong ô đất phải trùng chính xác với căn đang chọn. Bấm lên ảnh nếu cần chỉnh điểm.
+            </p>
+            <div id="candidates" class="candidates">
+              <p class="muted">Kết quả nhận diện sẽ xuất hiện ở đây.</p>
+            </div>
+            <p class="step-label">2 · XÁC NHẬN ĐÚNG Ô</p>
+            <label class="field-label" for="confirm-code">Nhập lại mã bạn đọc trên ảnh</label
+            ><input
+              id="confirm-code"
+              class="code-input"
+              placeholder="Ví dụ: AS76-09"
+              autocomplete="off"
+            /><button id="approve" class="primary full">Ghi nhớ vị trí</button>
+            <p id="approval-note" class="help">
+              Vị trí lưu trên máy, gắn với phiên bản mặt bằng hiện tại.
+            </p>
+            <div class="divider"></div>
+            <p class="step-label">3 · GẮN TRÊN VHUB</p>
+            <button id="zoom-vhub" class="full">Xem vị trí trên VHUB ↗</button
+            ><button id="stage-one" class="full">Đặt nháp căn này</button>
+            <p class="help">
+              Đặt nháp chưa lưu lên máy chủ. Xem lại các tag trước khi bấm Lưu lên VHUB.
+            </p>
+          </div>
+        </aside>
+      </div>
+      <section class="save-bar">
+        <div>
+          <strong id="draft-title">Chưa có bản nháp do tool tạo</strong>
+          <p id="draft-note">Các căn đã xác nhận vị trí có thể chọn để đặt nháp cùng một lượt.</p>
+        </div>
+        <div>
+          <button id="discard">Hủy nháp của tool</button
+          ><button id="save" class="primary">Lưu lên VHUB</button>
+        </div>
+      </section>
+      <section class="history-section">
+        <div class="card-heading">
+          <h2>Hoạt động gần đây</h2>
+          <span id="sync-time" class="muted">Chưa đồng bộ</span>
+        </div>
+        <div id="history" class="history">
+          <p class="muted">Các lần xác nhận, đặt nháp và lưu sẽ được ghi lại tại đây.</p>
+        </div>
+      </section>
+      <footer>
+        VHUB Hotspot Assistant · v0.1 · Dữ liệu vị trí và ảnh xem trước lưu cục bộ trên máy.
+      </footer>
+    </main>
+    <script type="module" src="/app.js"></script>
+  </body>
+</html>

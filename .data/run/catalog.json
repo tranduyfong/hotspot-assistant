@@ -1,0 +1,2302 @@
+[
+  {
+    "code": "AS47-32",
+    "id": "44badea6-a779-42ec-8ad3-7585df934873",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 7790910372,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": [
+      {
+        "code": "AS47-32",
+        "raw": "AS47-32",
+        "confidence": 0.874,
+        "x": 946.7870591906793,
+        "y": 1189.931551024654,
+        "polygon": [
+          [
+            974,
+            1142
+          ],
+          [
+            971,
+            1141
+          ],
+          [
+            893,
+            1201
+          ],
+          [
+            921,
+            1239
+          ],
+          [
+            1001,
+            1179
+          ]
+        ],
+        "angle": 0,
+        "id": "c12b8edc-9376-48dd-9313-f811e5b83689",
+        "scanId": "49325a6c-2ef9-4079-91c3-18dddc8b2fef",
+        "imageId": "49325a6c-2ef9-4079-91c3-18dddc8b2fef",
+        "left": 30851,
+        "top": 19788,
+        "width": 1601,
+        "height": 1601
+      }
+    ]
+  },
+  {
+    "code": "AS48-08",
+    "id": "9be38793-45db-4dfb-bdc8-973fa33715b5",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 6242308846,
+    "group": "Quỹ chéo",
+    "subdivision": "AS48",
+    "observations": []
+  },
+  {
+    "code": "AS48-10",
+    "id": "226aa42d-f370-4bcf-810d-94ba9d11dd8f",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 6177343428,
+    "group": "Quỹ chéo",
+    "subdivision": "AS48",
+    "observations": [
+      {
+        "code": "AS48-10",
+        "raw": "AS48-10",
+        "confidence": 0.9899,
+        "x": 235.93145266614425,
+        "y": 861.1849322735923,
+        "polygon": [
+          [
+            262,
+            810
+          ],
+          [
+            253,
+            816
+          ],
+          [
+            255,
+            834
+          ],
+          [
+            250,
+            837
+          ],
+          [
+            253,
+            841
+          ],
+          [
+            251,
+            845
+          ],
+          [
+            243,
+            836
+          ],
+          [
+            228,
+            836
+          ],
+          [
+            183,
+            870
+          ],
+          [
+            210,
+            908
+          ],
+          [
+            291,
+            848
+          ]
+        ],
+        "angle": -35,
+        "id": "5f478a1d-7778-4cc9-bd2b-fa3b2f01c0bb",
+        "scanId": "49325a6c-2ef9-4079-91c3-18dddc8b2fef",
+        "imageId": "49325a6c-2ef9-4079-91c3-18dddc8b2fef",
+        "left": 30851,
+        "top": 19788,
+        "width": 1601,
+        "height": 1601
+      }
+    ]
+  },
+  {
+    "code": "AS50-01",
+    "id": "ee8d118e-ff90-4018-ab2e-daf6b0eb365f",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 100.2,
+    "price": 13948944323,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS52A-54",
+    "id": "8ef25c8c-7ff3-49ac-877b-db94b699fe83",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 6187810222,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS54-07",
+    "id": "2dd9802e-deb4-4ad3-8b73-46277ecb7708",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 7110159305,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS55-54",
+    "id": "8e054286-62ca-4519-827e-14a6c187020d",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 6187810222,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS56-13",
+    "id": "aedb1623-0f35-4b34-b81a-1d407b0670ff",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 96,
+    "price": 8933431216,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS56-23",
+    "id": "c0dd6ecd-8fb2-47db-a3b5-1019f35305f0",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6991327943,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS62-05",
+    "id": "5557a398-881b-4602-8fd5-66abb88c5c84",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6605000000,
+    "group": "Quỹ chéo",
+    "subdivision": "CV TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS62-16",
+    "id": "d6f444e3-bf68-461e-9ae1-d987b98c369c",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 80,
+    "price": 7659460293,
+    "group": "Quỹ chéo",
+    "subdivision": "AS62",
+    "observations": []
+  },
+  {
+    "code": "AS69-21",
+    "id": "073ef008-d1c8-4c09-8918-d716dcc9274f",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6712933237,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS72-28",
+    "id": "d7aac2c9-0744-4d70-b0f2-8277e3432c2f",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5645251313,
+    "group": "Quỹ chéo",
+    "subdivision": "CV TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS73-03",
+    "id": "996d2708-6ae4-4210-9148-8b7d80ff75c7",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 7233893406,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS73-05",
+    "id": "c2cf1da0-c295-4a26-83d3-44045f9348e4",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 7233893406,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS73-07",
+    "id": "677a3f2a-280e-40e4-8c71-64fa0157fa44",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 7233893406,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS73-15",
+    "id": "6dc95938-8849-4c72-b3a1-e8667ab333a3",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 7707493480,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS73-16",
+    "id": "09df4fc0-78db-440d-8b5e-eb5ab0633a6a",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 6441741553,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS73-17",
+    "id": "a72c1b63-1423-4544-af55-becae9413176",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 7707493480,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS73-19",
+    "id": "c163a255-b5cc-4b5c-8dad-d1400dd354fc",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 7707493480,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS73-21",
+    "id": "1cff7da5-e3c0-489e-a7ad-eb10c2a7fdc5",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 7462000000,
+    "group": "Quỹ chéo",
+    "subdivision": "CÔNG VIÊN TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS73-33",
+    "id": "8ccfabe6-8f8f-4845-a5ac-03101083682b",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 9327000000,
+    "group": "Quỹ chéo",
+    "subdivision": "CV TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS73-35",
+    "id": "f28d4b3f-c66c-4b75-b4d0-aae1532e12c9",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 9327000000,
+    "group": "Quỹ chéo",
+    "subdivision": "CV TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS73-39",
+    "id": "3f277142-5b3d-48d8-bd9f-c206bdeb8f6c",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 96,
+    "price": 11663082664,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS73-41",
+    "id": "997e7d4c-0119-4de7-a9b6-4ee76f9b9376",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 96,
+    "price": 12854472379,
+    "group": "Quỹ chéo",
+    "subdivision": "CV TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS73-43",
+    "id": "01697124-5738-4c11-9338-e35bb1f3aa44",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 9045000000,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS73-45",
+    "id": "66ba2ea9-d94d-4f23-9908-faacd6a397dc",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 9365093940,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS73-47",
+    "id": "017a0866-91be-44d6-bb9c-aad87a3a0263",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 9365093940,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS73-53",
+    "id": "215277f1-5187-4fb0-9045-0a25fdb018b6",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 9317733923,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS73-55",
+    "id": "31a15994-e96f-44cb-8cef-6844f34e5444",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 84,
+    "price": 15104590463,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS74-09",
+    "id": "a6a43238-55c4-4b99-b884-a0b11b7b0e3d",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6405779564,
+    "group": "Quỹ chéo",
+    "subdivision": "CV TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS74-11",
+    "id": "3341e15b-e2ca-4702-bc84-85705872933f",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6398614467,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS74-13",
+    "id": "8d960cc1-f89e-4159-93d2-66dccfa2d53d",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 96,
+    "price": 8024118920,
+    "group": "Quỹ chéo",
+    "subdivision": "CV TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS74-17",
+    "id": "ba24d9a7-da37-4403-b15e-7db4788772e7",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6246861348,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS74-19",
+    "id": "fd4a411c-43da-4bc3-a24c-e15b92c5aec7",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6810000000,
+    "group": "Quỹ chéo",
+    "subdivision": "CV Tri thức 1",
+    "observations": []
+  },
+  {
+    "code": "AS74-24",
+    "id": "1c843a07-4e3f-46d0-a27c-1d83cae4d88a",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5945000000,
+    "group": "Quỹ chéo",
+    "subdivision": "CV TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS74-25",
+    "id": "0cb39b0b-dadc-4a1c-94ed-adf2052b0f62",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 7214715082,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS74-26",
+    "id": "f3094032-c459-46f4-ad94-c8500f09dc0c",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 6083894904,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS74-27",
+    "id": "a9d5aad2-7e3c-4f9a-897d-5cac32d80d18",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 7298454680,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS74-29",
+    "id": "cc65b502-ea49-4227-94da-0bb25acbcd34",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 76,
+    "price": 12180616148,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS75-02",
+    "id": "d7e62a42-160f-434e-9974-89b82e55ab53",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 69,
+    "price": 8583673473,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": [
+      {
+        "code": "AS75-02",
+        "raw": "AS75-02",
+        "confidence": 0.9865,
+        "x": 934.4700455307931,
+        "y": 449.61277258566975,
+        "polygon": [
+          [
+            977,
+            416
+          ],
+          [
+            918,
+            409
+          ],
+          [
+            872,
+            444
+          ],
+          [
+            922,
+            505
+          ],
+          [
+            1000,
+            445
+          ]
+        ],
+        "angle": -35,
+        "id": "6179f975-906c-4ff0-a7e5-293c33115226",
+        "scanId": "288b8231-8cc3-44a3-9ad2-7bf38d1627bc",
+        "imageId": "a3fd1f1e-3bc4-412d-9756-6b3655fefec8",
+        "left": 21506,
+        "top": 26143,
+        "width": 1601,
+        "height": 1601
+      }
+    ]
+  },
+  {
+    "code": "AS75-13",
+    "id": "79ed4d3b-6b91-41d0-90f9-e810d9d9fa4b",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 96,
+    "price": 8024118920,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": [
+      {
+        "code": "AS75-13",
+        "raw": "AS75-13",
+        "confidence": 0.9949,
+        "x": 1340.1788780571233,
+        "y": 564.5133401744484,
+        "polygon": [
+          [
+            1365,
+            496
+          ],
+          [
+            1268,
+            571
+          ],
+          [
+            1316,
+            633
+          ],
+          [
+            1413,
+            559
+          ]
+        ],
+        "angle": -35,
+        "id": "dbdaf60f-beec-47a0-a25e-2b61b88549b5",
+        "scanId": "288b8231-8cc3-44a3-9ad2-7bf38d1627bc",
+        "imageId": "a3fd1f1e-3bc4-412d-9756-6b3655fefec8",
+        "left": 21506,
+        "top": 26143,
+        "width": 1601,
+        "height": 1601
+      }
+    ]
+  },
+  {
+    "code": "AS75-17",
+    "id": "abfffa0a-e6d7-4a1a-8f6d-6aefe9894d3e",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6824854525,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": [
+      {
+        "code": "AS75-17",
+        "raw": "AS75-17",
+        "confidence": 0.9949,
+        "x": 1431.7389202489505,
+        "y": 682.9482993197279,
+        "polygon": [
+          [
+            1465,
+            627
+          ],
+          [
+            1370,
+            700
+          ],
+          [
+            1397,
+            738
+          ],
+          [
+            1494,
+            665
+          ]
+        ],
+        "angle": -35,
+        "id": "05e7d87f-08f4-4efd-b56d-96010045d26e",
+        "scanId": "288b8231-8cc3-44a3-9ad2-7bf38d1627bc",
+        "imageId": "a3fd1f1e-3bc4-412d-9756-6b3655fefec8",
+        "left": 21506,
+        "top": 26143,
+        "width": 1601,
+        "height": 1601
+      }
+    ]
+  },
+  {
+    "code": "AS75-19",
+    "id": "045e785d-6bd8-49b3-a1aa-dd3cd042a9b3",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6788474943,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": [
+      {
+        "code": "AS75-19",
+        "raw": "AS75-19",
+        "confidence": 0.9972,
+        "x": 1463.0388141547426,
+        "y": 723.8250364150458,
+        "polygon": [
+          [
+            1496,
+            668
+          ],
+          [
+            1401,
+            741
+          ],
+          [
+            1428,
+            779
+          ],
+          [
+            1525,
+            707
+          ]
+        ],
+        "angle": -35,
+        "id": "1bde577d-0096-4f4c-a5f6-6db7c0dc5c60",
+        "scanId": "288b8231-8cc3-44a3-9ad2-7bf38d1627bc",
+        "imageId": "a3fd1f1e-3bc4-412d-9756-6b3655fefec8",
+        "left": 21506,
+        "top": 26143,
+        "width": 1601,
+        "height": 1601
+      }
+    ]
+  },
+  {
+    "code": "AS75-23",
+    "id": "2dd19643-c4d1-4293-876c-7b5168ba652b",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6988000000,
+    "group": "Quỹ chéo",
+    "subdivision": "CV Tri thức 1",
+    "observations": [
+      {
+        "code": "AS75-23",
+        "raw": "AS75-23",
+        "confidence": 0.9599,
+        "x": 1525.5053301913258,
+        "y": 806.2196038826235,
+        "polygon": [
+          [
+            1560,
+            751
+          ],
+          [
+            1463,
+            823
+          ],
+          [
+            1492,
+            862
+          ],
+          [
+            1588,
+            789
+          ]
+        ],
+        "angle": 0,
+        "id": "a570839c-103e-4112-80e2-163e33c9005c",
+        "scanId": "288b8231-8cc3-44a3-9ad2-7bf38d1627bc",
+        "imageId": "a3fd1f1e-3bc4-412d-9756-6b3655fefec8",
+        "left": 21506,
+        "top": 26143,
+        "width": 1601,
+        "height": 1601
+      }
+    ]
+  },
+  {
+    "code": "AS75-25",
+    "id": "5527b22d-506f-4ece-afba-cdcda0c926e6",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 7140000000,
+    "group": "Quỹ chéo",
+    "subdivision": "CV Tri thức 1",
+    "observations": []
+  },
+  {
+    "code": "AS75-29",
+    "id": "d0fd437b-35a0-4809-892c-961cf82e96a5",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 76,
+    "price": 12120626795,
+    "group": "Quỹ chéo",
+    "subdivision": "CV TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS76-09",
+    "id": "f6615369-c689-4531-acf8-50f4d7a92bb8",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6210000000,
+    "group": "Quỹ chéo",
+    "subdivision": "CÔNG VIÊN TRI THỨC 1",
+    "observations": [
+      {
+        "code": "AS76-09",
+        "raw": "AS76-09",
+        "confidence": 0.9921,
+        "x": 979.4564929763814,
+        "y": 690.4454015708133,
+        "polygon": [
+          [
+            1014,
+            635
+          ],
+          [
+            917,
+            707
+          ],
+          [
+            925,
+            722
+          ],
+          [
+            929,
+            723
+          ],
+          [
+            947,
+            746
+          ],
+          [
+            1042,
+            673
+          ]
+        ],
+        "angle": 0,
+        "id": "4b30fea3-9e56-462a-a049-2f62a6b21cf2",
+        "scanId": "288b8231-8cc3-44a3-9ad2-7bf38d1627bc",
+        "imageId": "a3fd1f1e-3bc4-412d-9756-6b3655fefec8",
+        "left": 21506,
+        "top": 26143,
+        "width": 1601,
+        "height": 1601
+      }
+    ]
+  },
+  {
+    "code": "AS76-11",
+    "id": "dd9a16f9-12b4-4318-a260-1a75e20d0789",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6398614467,
+    "group": "Quỹ chéo",
+    "subdivision": "CV TRI THỨC 1",
+    "observations": [
+      {
+        "code": "AS76-11",
+        "raw": "AS76-11",
+        "confidence": 0.984,
+        "x": 1011.8498688118098,
+        "y": 731.3179944064815,
+        "polygon": [
+          [
+            1045,
+            676
+          ],
+          [
+            950,
+            749
+          ],
+          [
+            979,
+            787
+          ],
+          [
+            1074,
+            714
+          ]
+        ],
+        "angle": -35,
+        "id": "c853d430-5372-4930-956e-7de49c931232",
+        "scanId": "288b8231-8cc3-44a3-9ad2-7bf38d1627bc",
+        "imageId": "a3fd1f1e-3bc4-412d-9756-6b3655fefec8",
+        "left": 21506,
+        "top": 26143,
+        "width": 1601,
+        "height": 1601
+      }
+    ]
+  },
+  {
+    "code": "AS76-13",
+    "id": "41b3a85d-618f-467e-bfa8-75f1774f75f0",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 96,
+    "price": 8099894946,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": [
+      {
+        "code": "AS76-13",
+        "raw": "AS76-13",
+        "confidence": 0.9628,
+        "x": 1052.5495867768595,
+        "y": 785.1450814241377,
+        "polygon": [
+          [
+            1077,
+            718
+          ],
+          [
+            981,
+            790
+          ],
+          [
+            1029,
+            853
+          ],
+          [
+            1124,
+            780
+          ]
+        ],
+        "angle": 0,
+        "id": "9ebb3e2a-a561-49c5-b563-c67c30418e97",
+        "scanId": "288b8231-8cc3-44a3-9ad2-7bf38d1627bc",
+        "imageId": "a3fd1f1e-3bc4-412d-9756-6b3655fefec8",
+        "left": 21506,
+        "top": 26143,
+        "width": 1601,
+        "height": 1601
+      }
+    ]
+  },
+  {
+    "code": "AS77-09",
+    "id": "94e738a0-85ec-4ab8-94eb-7c3c9a4336d0",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6453139498,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": [
+      {
+        "code": "AS77-09",
+        "raw": "AS77-09",
+        "confidence": 0.9945,
+        "x": 691.1700615957599,
+        "y": 910.9290646039249,
+        "polygon": [
+          [
+            727,
+            856
+          ],
+          [
+            628,
+            929
+          ],
+          [
+            656,
+            966
+          ],
+          [
+            754,
+            892
+          ]
+        ],
+        "angle": 0,
+        "id": "a9e27206-fd2b-4757-8d8d-ba26c1535327",
+        "scanId": "288b8231-8cc3-44a3-9ad2-7bf38d1627bc",
+        "imageId": "a3fd1f1e-3bc4-412d-9756-6b3655fefec8",
+        "left": 21506,
+        "top": 26143,
+        "width": 1601,
+        "height": 1601
+      }
+    ]
+  },
+  {
+    "code": "AS77-11",
+    "id": "11160ccd-14ba-4101-91da-065e8c3d9c22",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6445974482,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": [
+      {
+        "code": "AS77-11",
+        "raw": "AS77-11",
+        "confidence": 0.9199,
+        "x": 722.3504968383016,
+        "y": 952.2858231707318,
+        "polygon": [
+          [
+            757,
+            896
+          ],
+          [
+            660,
+            970
+          ],
+          [
+            688,
+            1007
+          ],
+          [
+            695,
+            1005
+          ],
+          [
+            785,
+            933
+          ]
+        ],
+        "angle": -35,
+        "id": "f6665e29-183f-4bfd-a47a-b46bbdd37369",
+        "scanId": "288b8231-8cc3-44a3-9ad2-7bf38d1627bc",
+        "imageId": "a3fd1f1e-3bc4-412d-9756-6b3655fefec8",
+        "left": 21506,
+        "top": 26143,
+        "width": 1601,
+        "height": 1601
+      }
+    ]
+  },
+  {
+    "code": "AS77-13",
+    "id": "a9e15028-a2c0-4e34-87fe-4fe0b8cfa1b3",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 96,
+    "price": 7451656862,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": [
+      {
+        "code": "AS77-13",
+        "raw": "AS77-13",
+        "confidence": 0.974,
+        "x": 763.6012241538937,
+        "y": 1005.5673970441998,
+        "polygon": [
+          [
+            788,
+            937
+          ],
+          [
+            692,
+            1011
+          ],
+          [
+            740,
+            1074
+          ],
+          [
+            835,
+            1001
+          ]
+        ],
+        "angle": -35,
+        "id": "0cd66f5c-45e9-46d7-a1ab-0aee1d2db89d",
+        "scanId": "288b8231-8cc3-44a3-9ad2-7bf38d1627bc",
+        "imageId": "a3fd1f1e-3bc4-412d-9756-6b3655fefec8",
+        "left": 21506,
+        "top": 26143,
+        "width": 1601,
+        "height": 1601
+      }
+    ]
+  },
+  {
+    "code": "AS77-17",
+    "id": "36031e6b-bee1-49a7-aff2-76dc3fa7b5af",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6509000000,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": [
+      {
+        "code": "AS77-17",
+        "raw": "AS77-17",
+        "confidence": 0.9906,
+        "x": 854.2890215072363,
+        "y": 1124.8646716254395,
+        "polygon": [
+          [
+            888,
+            1070
+          ],
+          [
+            792,
+            1142
+          ],
+          [
+            819,
+            1179
+          ],
+          [
+            823,
+            1179
+          ],
+          [
+            916,
+            1108
+          ]
+        ],
+        "angle": -35,
+        "id": "efc249db-c16d-47c1-9a70-225cf7e3ad6b",
+        "scanId": "288b8231-8cc3-44a3-9ad2-7bf38d1627bc",
+        "imageId": "a3fd1f1e-3bc4-412d-9756-6b3655fefec8",
+        "left": 21506,
+        "top": 26143,
+        "width": 1601,
+        "height": 1601
+      }
+    ]
+  },
+  {
+    "code": "AS77-28",
+    "id": "da6bb745-2039-4a21-86e1-7d6061046f5a",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5926028251,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": [
+      {
+        "code": "AS77-28",
+        "raw": "AS77-28",
+        "confidence": 0.8986,
+        "x": 815.1055198173894,
+        "y": 1481.0118627654422,
+        "polygon": [
+          [
+            843,
+            1432
+          ],
+          [
+            761,
+            1492
+          ],
+          [
+            789,
+            1530
+          ],
+          [
+            869,
+            1470
+          ],
+          [
+            864,
+            1463
+          ],
+          [
+            866,
+            1462
+          ],
+          [
+            863,
+            1462
+          ],
+          [
+            846,
+            1436
+          ],
+          [
+            841,
+            1433
+          ]
+        ],
+        "angle": 0,
+        "id": "fdc10db7-6cd8-4edf-8ee4-71b082888d77",
+        "scanId": "288b8231-8cc3-44a3-9ad2-7bf38d1627bc",
+        "imageId": "a3fd1f1e-3bc4-412d-9756-6b3655fefec8",
+        "left": 21506,
+        "top": 26143,
+        "width": 1601,
+        "height": 1601
+      }
+    ]
+  },
+  {
+    "code": "AS77-34",
+    "id": "bd9484ed-4b97-4bda-8f4b-48a1924df36d",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 7660000000,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS77-44",
+    "id": "2ec3d92d-7c3f-4687-b477-7f5c5881e0a3",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 80,
+    "price": 9351000000,
+    "group": "Quỹ chéo",
+    "subdivision": "CÔNG VIÊN TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS77-50",
+    "id": "63da9f13-0999-496f-a6ce-c6da3360a31d",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 7231075075,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS77-54",
+    "id": "728c0f99-a6a7-4df6-ad2f-c426ede3e024",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 7188961862,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS77-58",
+    "id": "97f82e4f-b46b-479e-b493-d626f14cd5ed",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 67,
+    "price": 11604206252,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS79-05",
+    "id": "b86aa1c3-0d23-4aba-a5f2-56e9b4810304",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6251000000,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": [
+      {
+        "code": "AS79-05",
+        "raw": "AS79-05",
+        "confidence": 0.864,
+        "x": 340.8054951743327,
+        "y": 1048.9547285743267,
+        "polygon": [
+          [
+            375,
+            994
+          ],
+          [
+            279,
+            1066
+          ],
+          [
+            306,
+            1103
+          ],
+          [
+            311,
+            1102
+          ],
+          [
+            403,
+            1032
+          ]
+        ],
+        "angle": -35,
+        "id": "b4ef6d86-8036-4768-9f12-aaafdfd05720",
+        "scanId": "288b8231-8cc3-44a3-9ad2-7bf38d1627bc",
+        "imageId": "a3fd1f1e-3bc4-412d-9756-6b3655fefec8",
+        "left": 21506,
+        "top": 26143,
+        "width": 1601,
+        "height": 1601
+      }
+    ]
+  },
+  {
+    "code": "AS79-07",
+    "id": "2cad88e3-b2bc-4953-b8b9-e6698165b4bc",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6670333193,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": [
+      {
+        "code": "AS79-07",
+        "raw": "AS79-07",
+        "confidence": 0.981,
+        "x": 372.2015951128457,
+        "y": 1090.2363821483116,
+        "polygon": [
+          [
+            406,
+            1035
+          ],
+          [
+            309,
+            1106
+          ],
+          [
+            339,
+            1145
+          ],
+          [
+            435,
+            1073
+          ]
+        ],
+        "angle": -35,
+        "id": "974347fc-c5d9-4b81-8050-4d6b3304fcf0",
+        "scanId": "288b8231-8cc3-44a3-9ad2-7bf38d1627bc",
+        "imageId": "a3fd1f1e-3bc4-412d-9756-6b3655fefec8",
+        "left": 21506,
+        "top": 26143,
+        "width": 1601,
+        "height": 1601
+      }
+    ]
+  },
+  {
+    "code": "AS79-13",
+    "id": "6eb4038e-4dc1-446f-a172-54f4643e710e",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 96,
+    "price": 8327223019,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": [
+      {
+        "code": "AS79-13",
+        "raw": "AS79-13",
+        "confidence": 0.9903,
+        "x": 476.0722064516129,
+        "y": 1225.890064516129,
+        "polygon": [
+          [
+            500,
+            1158
+          ],
+          [
+            404,
+            1231
+          ],
+          [
+            452,
+            1294
+          ],
+          [
+            548,
+            1221
+          ]
+        ],
+        "angle": -35,
+        "id": "53cec2ac-36b2-48bc-afd3-b8d7c3206b0b",
+        "scanId": "288b8231-8cc3-44a3-9ad2-7bf38d1627bc",
+        "imageId": "a3fd1f1e-3bc4-412d-9756-6b3655fefec8",
+        "left": 21506,
+        "top": 26143,
+        "width": 1601,
+        "height": 1601
+      }
+    ]
+  },
+  {
+    "code": "AS79-20",
+    "id": "ee91e356-e2a7-44e9-ab74-f76c7a323108",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5785308785,
+    "group": "Quỹ chéo",
+    "subdivision": "CV TRI THỨC 1",
+    "observations": [
+      {
+        "code": "AS79-20",
+        "raw": "AS79-20",
+        "confidence": 0.996,
+        "x": 401.8131712048777,
+        "y": 1536.3215201274857,
+        "polygon": [
+          [
+            428,
+            1488
+          ],
+          [
+            348,
+            1548
+          ],
+          [
+            376,
+            1586
+          ],
+          [
+            456,
+            1525
+          ]
+        ],
+        "angle": 0,
+        "id": "fe113659-554f-48ec-a1bc-9b9ecd967df7",
+        "scanId": "288b8231-8cc3-44a3-9ad2-7bf38d1627bc",
+        "imageId": "a3fd1f1e-3bc4-412d-9756-6b3655fefec8",
+        "left": 21506,
+        "top": 26143,
+        "width": 1601,
+        "height": 1601
+      }
+    ]
+  },
+  {
+    "code": "AS79-24",
+    "id": "e2217462-ac0e-4add-9634-2651954740bc",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5728699103,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS79-26",
+    "id": "d381f223-9df1-44c3-adab-85605752203f",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5770808068,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS79-31",
+    "id": "1c519aca-d022-49ce-818d-06569ac9fcdb",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 96,
+    "price": 10297399532,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS79-32",
+    "id": "cff229c1-3bf1-4ea0-a008-bac757de93dc",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5423000000,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS79-39",
+    "id": "10e954d3-8c48-42f1-864e-a20fd9584257",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6919574556,
+    "group": "Quỹ chéo",
+    "subdivision": "Ivy Park",
+    "observations": []
+  },
+  {
+    "code": "AS80-01",
+    "id": "fcecc676-aa85-4a25-b1a0-9f3d5f064a60",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 85.7,
+    "price": 11956554839,
+    "group": "Quỹ chéo",
+    "subdivision": "CV TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS80-05",
+    "id": "7e065e75-7c37-41ba-943b-74a9cc571359",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6689939576,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS80-07",
+    "id": "46e1d7b9-c83a-4cbd-b246-362afe91b236",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6322000000,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS80-11",
+    "id": "9a47b9aa-1619-449f-aa8b-3e6e3c332f5c",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6730134495,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": [
+      {
+        "code": "AS80-11",
+        "raw": "AS80-11",
+        "confidence": 0.9738,
+        "x": 147.13313988222242,
+        "y": 1393.4535859577252,
+        "polygon": [
+          [
+            182,
+            1339
+          ],
+          [
+            178,
+            1339
+          ],
+          [
+            85,
+            1411
+          ],
+          [
+            113,
+            1449
+          ],
+          [
+            210,
+            1376
+          ]
+        ],
+        "angle": 0,
+        "id": "4976a6bc-a95d-417c-a4e7-b562e4f5e554",
+        "scanId": "288b8231-8cc3-44a3-9ad2-7bf38d1627bc",
+        "imageId": "a3fd1f1e-3bc4-412d-9756-6b3655fefec8",
+        "left": 21506,
+        "top": 26143,
+        "width": 1601,
+        "height": 1601
+      }
+    ]
+  },
+  {
+    "code": "AS80-36",
+    "id": "e4711224-9a61-4d56-983e-abc0fa62c1c8",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5869110646,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS81-01",
+    "id": "7dbc6d85-f077-4f3d-a74a-f2b4099f1ea3",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 136.2,
+    "price": 19589887601,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS82-07",
+    "id": "e17c7fdf-12db-4a73-ba0e-2d5e914b6ec0",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6725815327,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS82-14",
+    "id": "28b69f6c-9fef-43e1-b5ee-87fd9dcd07e6",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 80,
+    "price": 7048755769,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS82-18",
+    "id": "9cc08218-fdc1-4366-9ebb-715ea2b68ae1",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5905000000,
+    "group": "Quỹ chéo",
+    "subdivision": "CV Tri thức 1",
+    "observations": []
+  },
+  {
+    "code": "AS82-30",
+    "id": "4a90b8fe-5786-43dd-8129-9d2439efb4a0",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 80,
+    "price": 7174000000,
+    "group": "Quỹ chéo",
+    "subdivision": "CÔNG VIÊN TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS82-32",
+    "id": "7c693cea-24fe-49d8-b0be-0fa50dfccbc4",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5663000000,
+    "group": "Quỹ chéo",
+    "subdivision": "CÔNG VIÊN TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS82-34",
+    "id": "e9c7cf34-8a25-4a79-b4cd-834cb7cb2549",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5606000000,
+    "group": "Quỹ chéo",
+    "subdivision": "CÔNG VIÊN TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS82-36",
+    "id": "2d181cc7-daad-4387-8013-350fd072012e",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5682000000,
+    "group": "Quỹ chéo",
+    "subdivision": "CÔNG VIÊN TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS82-44",
+    "id": "16e1b4c2-278f-4ec1-b1ae-795bc8c7cfb7",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 80,
+    "price": 7140000000,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS82-45",
+    "id": "38e1711e-ff2f-4004-b915-86545135f930",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6413224814,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS82-46",
+    "id": "30195582-c371-4366-867a-914a7a8e66aa",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5950186831,
+    "group": "Quỹ chéo",
+    "subdivision": "CV TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS82-48",
+    "id": "342d7f90-90cf-4b23-81e1-86c8fc1935ff",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 6006651122,
+    "group": "Quỹ chéo",
+    "subdivision": "CV TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS82-50",
+    "id": "2af62feb-aec6-41d2-bd6a-f1fae7947def",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5902394155,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS83-18",
+    "id": "f6c2641b-fe67-4e6f-9ffe-fc1f90b91b57",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5888251084,
+    "group": "Quỹ chéo",
+    "subdivision": "CV TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS83-20",
+    "id": "8c4da0aa-30ce-40ca-89ee-ac0785869736",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5831786793,
+    "group": "Quỹ chéo",
+    "subdivision": "CV Tri thức 1",
+    "observations": []
+  },
+  {
+    "code": "AS83-22",
+    "id": "c88b9887-2d80-4808-884c-70dc8bd452d7",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5831786793,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS83-28",
+    "id": "2246f3cf-014c-4695-8464-fdcb2a14c5fa",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 80,
+    "price": 7365446229,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS83-32",
+    "id": "a68d61b5-e9c9-4a79-a43e-025eecc70a57",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5809317725,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS83-36",
+    "id": "340e0fea-8ebe-4a1b-a630-c84e6846f59f",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5644000000,
+    "group": "Quỹ chéo",
+    "subdivision": "CÔNG VIÊN TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS83-39",
+    "id": "49211b02-e494-4283-a218-7a4c8a8eae40",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6971719681,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS83-44",
+    "id": "592442ee-8a0e-4bf6-8c32-5ed5b98df028",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 80,
+    "price": 7617075849,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS83-48",
+    "id": "16823af1-a81f-4fc5-8266-7cfc82cffdde",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5578000000,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS83-53",
+    "id": "8044b237-5525-45d6-a1b8-9a45b304e343",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 7056378414,
+    "group": "Quỹ chéo",
+    "subdivision": "CV TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS84-13",
+    "id": "3b9827a5-899e-4496-8132-07044febe9b7",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 96,
+    "price": 8337921555,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS84-20",
+    "id": "e3cd0ade-66b8-4e5e-ae3c-fa224ba6c77a",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5831786793,
+    "group": "Quỹ chéo",
+    "subdivision": "CV Tri thức 1",
+    "observations": []
+  },
+  {
+    "code": "AS84-22",
+    "id": "c6619fd4-6983-42f6-a1cc-97b8b207a87b",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5831786793,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS84-38",
+    "id": "397d2922-6b4c-4a81-bbff-e111894c90de",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5809000000,
+    "group": "Quỹ chéo",
+    "subdivision": "CV Tri thức 1",
+    "observations": []
+  },
+  {
+    "code": "AS84-41",
+    "id": "e26c299c-80e2-47e0-95e1-c73e42cb9808",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 96,
+    "price": 9877088424,
+    "group": "Quỹ chéo",
+    "subdivision": "Tri Thức (I)",
+    "observations": []
+  },
+  {
+    "code": "AS85-07",
+    "id": "25e7c031-76a1-42c8-acd0-6c17f8ba5187",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6583735282,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS85-09",
+    "id": "f5c7499d-e174-4236-ad10-e9a94c3b2322",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6687559588,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS85-11",
+    "id": "1c483642-b787-4298-80ae-735e67043af0",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 6583735282,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS85-13",
+    "id": "b35a3ef1-48a2-42e2-80dd-ba3170201338",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 96,
+    "price": 8413697579,
+    "group": "Quỹ chéo",
+    "subdivision": "CV TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS85-14",
+    "id": "54a8b5e4-9208-4cc9-a9a2-c2b457075ba5",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 80,
+    "price": 7048755769,
+    "group": "Quỹ chéo",
+    "subdivision": "CV TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS85-22",
+    "id": "2aca9650-df8f-447d-937b-1a91badade39",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5871253472,
+    "group": "Quỹ chéo",
+    "subdivision": "CV TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS85-28",
+    "id": "c2fa0be2-3252-494d-9fe8-7bad856c66e0",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 80,
+    "price": 6763024297,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS85-32",
+    "id": "b1828305-2641-4dd3-bd93-6e90e757d57b",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5848784406,
+    "group": "Quỹ chéo",
+    "subdivision": "CV TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS85-36",
+    "id": "b9ccf55d-296a-4f6b-9a44-f93bf520f700",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5871253472,
+    "group": "Quỹ chéo",
+    "subdivision": "CV TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS86-03",
+    "id": "a92002f1-fafc-4506-a167-22d3ee8af8b3",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 8383415706,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "AS86-11",
+    "id": "52429a9d-bb41-4184-b1cf-8def3556c6fd",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 8105000000,
+    "group": "Quỹ chéo",
+    "subdivision": "CÔNG VIÊN TRI THỨC 1",
+    "observations": []
+  },
+  {
+    "code": "AS86-55",
+    "id": "3ffdbb0b-4168-4574-93aa-9636c32e71a7",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 60,
+    "price": 8857015859,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "ĐLCV1-01",
+    "id": "9bd1ba95-16ec-427a-b7ac-638976e1ae2f",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 112.2,
+    "price": 19023601282,
+    "group": "Quỹ chéo",
+    "subdivision": "CV Quốc tế",
+    "observations": []
+  },
+  {
+    "code": "ĐLCV1-05",
+    "id": "9c80742d-5814-4df3-8c49-1a89fa4944be",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 112.5,
+    "price": 19836700831,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "ĐLCV1-07",
+    "id": "0ec18dd3-532a-454e-b65d-98a1a22e2f57",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 112.5,
+    "price": 19836700831,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "ĐLCV2-02",
+    "id": "1ea5e85e-2ad9-4c2e-a3c0-9a03007bd7cf",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 172,
+    "price": 31504638198,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "ĐLCV2-16",
+    "id": "eb073321-2b37-4a30-aa55-6a6e53a09dc1",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 112,
+    "price": 17340524710,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "ĐLCV2-38",
+    "id": "8193d702-5882-4357-a829-9ae7c5972530",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 112,
+    "price": 17713000000,
+    "group": "Quỹ chéo",
+    "subdivision": "CV Quốc tế",
+    "observations": []
+  },
+  {
+    "code": "ĐLCV2-62",
+    "id": "6c1cf292-7a5c-4004-8be9-3b50c15d576a",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 112,
+    "price": 17801755590,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "ĐLCV2-76",
+    "id": "c66b8b77-04d7-4741-9a2b-e80c7c0f8449",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 191.5,
+    "price": 40229018312,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "ĐLCV3-100",
+    "id": "c15e87e4-5e36-4dcf-8073-96974bcbe0ca",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 128,
+    "price": 18766813831,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "ĐLCV3-124",
+    "id": "4ef63e5a-eb24-44df-a425-6d690d4e3f8f",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 80,
+    "price": 13685218030,
+    "group": "Quỹ chéo",
+    "subdivision": "Ivy Park",
+    "observations": []
+  },
+  {
+    "code": "ĐLCV3-132",
+    "id": "0e55d709-c88c-4a93-bd27-65e8ec9009f8",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 80,
+    "price": 13627796717,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "TL-04",
+    "id": "9369d14d-97d1-47d6-ab15-41f24aa36666",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 112,
+    "price": 16947346067,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "TL-06",
+    "id": "d34ba692-2660-46d5-95b1-7c02ee32fbff",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 112,
+    "price": 15283441850,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "TL-08",
+    "id": "75a5d26d-a332-436d-993b-cae6931606a9",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 112,
+    "price": 17583395991,
+    "group": "Quỹ chéo",
+    "subdivision": "Quốc tế (II)",
+    "observations": []
+  },
+  {
+    "code": "TL-26",
+    "id": "82ced08a-2402-468d-9229-3c7031adca93",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 112,
+    "price": 14436215794,
+    "group": "Quỹ chéo",
+    "subdivision": "CV Quốc tế",
+    "observations": []
+  },
+  {
+    "code": "TL3-29",
+    "id": "7dd1a141-6339-4292-8035-efcbf41c72d8",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5917000000,
+    "group": "Quỹ chéo",
+    "subdivision": "CV Quốc tế",
+    "observations": []
+  },
+  {
+    "code": "TL3A-37",
+    "id": "59843637-994a-4fde-bffa-e0c4674da9e3",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 6068574997,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "TL5-27",
+    "id": "7cb5aff5-e3cf-40fc-9803-47d0c5566611",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5972000000,
+    "group": "Quỹ chéo",
+    "subdivision": "CV Quốc tế",
+    "observations": []
+  },
+  {
+    "code": "TL5-29",
+    "id": "4f6e52d3-f639-4c96-99af-1b0399830f4a",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5957000000,
+    "group": "Quỹ chéo",
+    "subdivision": "CV Quốc tế",
+    "observations": []
+  },
+  {
+    "code": "TL8-106",
+    "id": "5bac7647-a115-4078-9e28-08a506902ab4",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 70,
+    "price": 7754152215,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "TL8-108",
+    "id": "810ad100-4e9b-43d5-9369-ea07c8a70742",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 112,
+    "price": 10252920721,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "TL11-39",
+    "id": "2be1fce8-81b3-4dca-aa8a-7c2f2115cbbe",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 72,
+    "price": 10535548874,
+    "group": "Quỹ chéo",
+    "subdivision": "CV Quốc tế",
+    "observations": []
+  },
+  {
+    "code": "TL11-152",
+    "id": "d63efbb2-a4ff-4fcc-9ff0-c198454547d7",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 112,
+    "price": 11855635150,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  },
+  {
+    "code": "TL12A-83",
+    "id": "4df1b288-8b47-41af-90d7-66b2790e87dc",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 72,
+    "price": 9941000000,
+    "group": "Quỹ chéo",
+    "subdivision": "CÔNG VIÊN QUỐC TẾ",
+    "observations": []
+  },
+  {
+    "code": "TL12A-85",
+    "id": "1862fac9-4f97-4fd3-b005-94892bb45468",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 5907000000,
+    "group": "Quỹ chéo",
+    "subdivision": "CÔNG VIÊN QUỐC TẾ",
+    "observations": []
+  },
+  {
+    "code": "TL15-61",
+    "id": "629a7f25-99a8-4c0c-a5cc-49ee21ed84b9",
+    "available": true,
+    "status": "Còn hàng",
+    "area": 50,
+    "price": 6677476227,
+    "group": "Quỹ chéo",
+    "subdivision": "",
+    "observations": []
+  }
+]

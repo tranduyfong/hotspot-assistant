@@ -1,0 +1,7193 @@
+{
+  "connected": true,
+  "tour": "vinhomes-sai-gon-park",
+  "scene": "scene_mb_quy_can",
+  "syncedAt": "2026-11-07T05:02:32.597Z",
+  "map": {
+    "width": 60032,
+    "height": 42464,
+    "hfov": 1,
+    "baseIndex": 1,
+    "levels": [
+      {
+        "width": 512,
+        "height": 362,
+        "tileSize": 512,
+        "url": "/tours/vinhomes-sai-gon-park/panos/TMB_SGP.tiles/l1/%00v/l1_%00v_%00h.jpg"
+      },
+      {
+        "width": 1024,
+        "height": 726,
+        "tileSize": 512,
+        "url": "/tours/vinhomes-sai-gon-park/panos/TMB_SGP.tiles/l2/%00v/l2_%00v_%00h.jpg"
+      },
+      {
+        "width": 1792,
+        "height": 1268,
+        "tileSize": 512,
+        "url": "/tours/vinhomes-sai-gon-park/panos/TMB_SGP.tiles/l3/%00v/l3_%00v_%00h.jpg"
+      },
+      {
+        "width": 3712,
+        "height": 2626,
+        "tileSize": 512,
+        "url": "/tours/vinhomes-sai-gon-park/panos/TMB_SGP.tiles/l4/%00v/l4_%00v_%00h.jpg"
+      },
+      {
+        "width": 7424,
+        "height": 5252,
+        "tileSize": 512,
+        "url": "/tours/vinhomes-sai-gon-park/panos/TMB_SGP.tiles/l5/%00v/l5_%00v_%00h.jpg"
+      },
+      {
+        "width": 14976,
+        "height": 10594,
+        "tileSize": 512,
+        "url": "/tours/vinhomes-sai-gon-park/panos/TMB_SGP.tiles/l6/%00v/l6_%00v_%00h.jpg"
+      },
+      {
+        "width": 29952,
+        "height": 21186,
+        "tileSize": 512,
+        "url": "/tours/vinhomes-sai-gon-park/panos/TMB_SGP.tiles/l7/%00v/l7_%00v_%00h.jpg"
+      },
+      {
+        "width": 60032,
+        "height": 42464,
+        "tileSize": 512,
+        "url": "/tours/vinhomes-sai-gon-park/panos/TMB_SGP.tiles/l8/%00v/l8_%00v_%00h.jpg"
+      }
+    ],
+    "id": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9"
+  },
+  "pending": [
+    {
+      "code": "AS47-32",
+      "id": "44badea6-a779-42ec-8ad3-7585df934873",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 7790910372,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS48-08",
+      "id": "9be38793-45db-4dfb-bdc8-973fa33715b5",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 6242308846,
+      "group": "Quỹ chéo",
+      "subdivision": "AS48"
+    },
+    {
+      "code": "AS48-10",
+      "id": "226aa42d-f370-4bcf-810d-94ba9d11dd8f",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 6177343428,
+      "group": "Quỹ chéo",
+      "subdivision": "AS48"
+    },
+    {
+      "code": "AS50-01",
+      "id": "ee8d118e-ff90-4018-ab2e-daf6b0eb365f",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 100.2,
+      "price": 13948944323,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS52A-54",
+      "id": "8ef25c8c-7ff3-49ac-877b-db94b699fe83",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 6187810222,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS54-07",
+      "id": "2dd9802e-deb4-4ad3-8b73-46277ecb7708",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 7110159305,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS55-54",
+      "id": "8e054286-62ca-4519-827e-14a6c187020d",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 6187810222,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS56-13",
+      "id": "aedb1623-0f35-4b34-b81a-1d407b0670ff",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 96,
+      "price": 8933431216,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS56-23",
+      "id": "c0dd6ecd-8fb2-47db-a3b5-1019f35305f0",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6991327943,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS62-05",
+      "id": "5557a398-881b-4602-8fd5-66abb88c5c84",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6605000000,
+      "group": "Quỹ chéo",
+      "subdivision": "CV TRI THỨC 1"
+    },
+    {
+      "code": "AS62-16",
+      "id": "d6f444e3-bf68-461e-9ae1-d987b98c369c",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 80,
+      "price": 7659460293,
+      "group": "Quỹ chéo",
+      "subdivision": "AS62"
+    },
+    {
+      "code": "AS69-21",
+      "id": "073ef008-d1c8-4c09-8918-d716dcc9274f",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6712933237,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS72-28",
+      "id": "d7aac2c9-0744-4d70-b0f2-8277e3432c2f",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5645251313,
+      "group": "Quỹ chéo",
+      "subdivision": "CV TRI THỨC 1"
+    },
+    {
+      "code": "AS73-03",
+      "id": "996d2708-6ae4-4210-9148-8b7d80ff75c7",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 7233893406,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS73-05",
+      "id": "c2cf1da0-c295-4a26-83d3-44045f9348e4",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 7233893406,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS73-07",
+      "id": "677a3f2a-280e-40e4-8c71-64fa0157fa44",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 7233893406,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS73-15",
+      "id": "6dc95938-8849-4c72-b3a1-e8667ab333a3",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 7707493480,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS73-16",
+      "id": "09df4fc0-78db-440d-8b5e-eb5ab0633a6a",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 6441741553,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS73-17",
+      "id": "a72c1b63-1423-4544-af55-becae9413176",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 7707493480,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS73-19",
+      "id": "c163a255-b5cc-4b5c-8dad-d1400dd354fc",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 7707493480,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS73-21",
+      "id": "1cff7da5-e3c0-489e-a7ad-eb10c2a7fdc5",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 7462000000,
+      "group": "Quỹ chéo",
+      "subdivision": "CÔNG VIÊN TRI THỨC 1"
+    },
+    {
+      "code": "AS73-33",
+      "id": "8ccfabe6-8f8f-4845-a5ac-03101083682b",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 9327000000,
+      "group": "Quỹ chéo",
+      "subdivision": "CV TRI THỨC 1"
+    },
+    {
+      "code": "AS73-35",
+      "id": "f28d4b3f-c66c-4b75-b4d0-aae1532e12c9",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 9327000000,
+      "group": "Quỹ chéo",
+      "subdivision": "CV TRI THỨC 1"
+    },
+    {
+      "code": "AS73-39",
+      "id": "3f277142-5b3d-48d8-bd9f-c206bdeb8f6c",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 96,
+      "price": 11663082664,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS73-41",
+      "id": "997e7d4c-0119-4de7-a9b6-4ee76f9b9376",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 96,
+      "price": 12854472379,
+      "group": "Quỹ chéo",
+      "subdivision": "CV TRI THỨC 1"
+    },
+    {
+      "code": "AS73-43",
+      "id": "01697124-5738-4c11-9338-e35bb1f3aa44",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 9045000000,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS73-45",
+      "id": "66ba2ea9-d94d-4f23-9908-faacd6a397dc",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 9365093940,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS73-47",
+      "id": "017a0866-91be-44d6-bb9c-aad87a3a0263",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 9365093940,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS73-53",
+      "id": "215277f1-5187-4fb0-9045-0a25fdb018b6",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 9317733923,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS73-55",
+      "id": "31a15994-e96f-44cb-8cef-6844f34e5444",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 84,
+      "price": 15104590463,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS74-09",
+      "id": "a6a43238-55c4-4b99-b884-a0b11b7b0e3d",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6405779564,
+      "group": "Quỹ chéo",
+      "subdivision": "CV TRI THỨC 1"
+    },
+    {
+      "code": "AS74-11",
+      "id": "3341e15b-e2ca-4702-bc84-85705872933f",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6398614467,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS74-13",
+      "id": "8d960cc1-f89e-4159-93d2-66dccfa2d53d",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 96,
+      "price": 8024118920,
+      "group": "Quỹ chéo",
+      "subdivision": "CV TRI THỨC 1"
+    },
+    {
+      "code": "AS74-17",
+      "id": "ba24d9a7-da37-4403-b15e-7db4788772e7",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6246861348,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS74-19",
+      "id": "fd4a411c-43da-4bc3-a24c-e15b92c5aec7",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6810000000,
+      "group": "Quỹ chéo",
+      "subdivision": "CV Tri thức 1"
+    },
+    {
+      "code": "AS74-24",
+      "id": "1c843a07-4e3f-46d0-a27c-1d83cae4d88a",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5945000000,
+      "group": "Quỹ chéo",
+      "subdivision": "CV TRI THỨC 1"
+    },
+    {
+      "code": "AS74-25",
+      "id": "0cb39b0b-dadc-4a1c-94ed-adf2052b0f62",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 7214715082,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS74-26",
+      "id": "f3094032-c459-46f4-ad94-c8500f09dc0c",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 6083894904,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS74-27",
+      "id": "a9d5aad2-7e3c-4f9a-897d-5cac32d80d18",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 7298454680,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS74-29",
+      "id": "cc65b502-ea49-4227-94da-0bb25acbcd34",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 76,
+      "price": 12180616148,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS75-02",
+      "id": "d7e62a42-160f-434e-9974-89b82e55ab53",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 69,
+      "price": 8583673473,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS75-13",
+      "id": "79ed4d3b-6b91-41d0-90f9-e810d9d9fa4b",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 96,
+      "price": 8024118920,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS75-17",
+      "id": "abfffa0a-e6d7-4a1a-8f6d-6aefe9894d3e",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6824854525,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS75-19",
+      "id": "045e785d-6bd8-49b3-a1aa-dd3cd042a9b3",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6788474943,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS75-23",
+      "id": "2dd19643-c4d1-4293-876c-7b5168ba652b",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6988000000,
+      "group": "Quỹ chéo",
+      "subdivision": "CV Tri thức 1"
+    },
+    {
+      "code": "AS75-25",
+      "id": "5527b22d-506f-4ece-afba-cdcda0c926e6",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 7140000000,
+      "group": "Quỹ chéo",
+      "subdivision": "CV Tri thức 1"
+    },
+    {
+      "code": "AS75-29",
+      "id": "d0fd437b-35a0-4809-892c-961cf82e96a5",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 76,
+      "price": 12120626795,
+      "group": "Quỹ chéo",
+      "subdivision": "CV TRI THỨC 1"
+    },
+    {
+      "code": "AS76-09",
+      "id": "f6615369-c689-4531-acf8-50f4d7a92bb8",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6210000000,
+      "group": "Quỹ chéo",
+      "subdivision": "CÔNG VIÊN TRI THỨC 1"
+    },
+    {
+      "code": "AS76-11",
+      "id": "dd9a16f9-12b4-4318-a260-1a75e20d0789",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6398614467,
+      "group": "Quỹ chéo",
+      "subdivision": "CV TRI THỨC 1"
+    },
+    {
+      "code": "AS76-13",
+      "id": "41b3a85d-618f-467e-bfa8-75f1774f75f0",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 96,
+      "price": 8099894946,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS77-09",
+      "id": "94e738a0-85ec-4ab8-94eb-7c3c9a4336d0",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6453139498,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS77-11",
+      "id": "11160ccd-14ba-4101-91da-065e8c3d9c22",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6445974482,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS77-13",
+      "id": "a9e15028-a2c0-4e34-87fe-4fe0b8cfa1b3",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 96,
+      "price": 7451656862,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS77-17",
+      "id": "36031e6b-bee1-49a7-aff2-76dc3fa7b5af",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6509000000,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS77-28",
+      "id": "da6bb745-2039-4a21-86e1-7d6061046f5a",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5926028251,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS77-34",
+      "id": "bd9484ed-4b97-4bda-8f4b-48a1924df36d",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 7660000000,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS77-44",
+      "id": "2ec3d92d-7c3f-4687-b477-7f5c5881e0a3",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 80,
+      "price": 9351000000,
+      "group": "Quỹ chéo",
+      "subdivision": "CÔNG VIÊN TRI THỨC 1"
+    },
+    {
+      "code": "AS77-50",
+      "id": "63da9f13-0999-496f-a6ce-c6da3360a31d",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 7231075075,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS77-54",
+      "id": "728c0f99-a6a7-4df6-ad2f-c426ede3e024",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 7188961862,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS77-58",
+      "id": "97f82e4f-b46b-479e-b493-d626f14cd5ed",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 67,
+      "price": 11604206252,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS79-05",
+      "id": "b86aa1c3-0d23-4aba-a5f2-56e9b4810304",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6251000000,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS79-07",
+      "id": "2cad88e3-b2bc-4953-b8b9-e6698165b4bc",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6670333193,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS79-13",
+      "id": "6eb4038e-4dc1-446f-a172-54f4643e710e",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 96,
+      "price": 8327223019,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS79-20",
+      "id": "ee91e356-e2a7-44e9-ab74-f76c7a323108",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5785308785,
+      "group": "Quỹ chéo",
+      "subdivision": "CV TRI THỨC 1"
+    },
+    {
+      "code": "AS79-24",
+      "id": "e2217462-ac0e-4add-9634-2651954740bc",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5728699103,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS79-26",
+      "id": "d381f223-9df1-44c3-adab-85605752203f",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5770808068,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS79-31",
+      "id": "1c519aca-d022-49ce-818d-06569ac9fcdb",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 96,
+      "price": 10297399532,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS79-32",
+      "id": "cff229c1-3bf1-4ea0-a008-bac757de93dc",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5423000000,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS79-39",
+      "id": "10e954d3-8c48-42f1-864e-a20fd9584257",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6919574556,
+      "group": "Quỹ chéo",
+      "subdivision": "Ivy Park"
+    },
+    {
+      "code": "AS80-01",
+      "id": "fcecc676-aa85-4a25-b1a0-9f3d5f064a60",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 85.7,
+      "price": 11956554839,
+      "group": "Quỹ chéo",
+      "subdivision": "CV TRI THỨC 1"
+    },
+    {
+      "code": "AS80-05",
+      "id": "7e065e75-7c37-41ba-943b-74a9cc571359",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6689939576,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS80-07",
+      "id": "46e1d7b9-c83a-4cbd-b246-362afe91b236",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6322000000,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS80-11",
+      "id": "9a47b9aa-1619-449f-aa8b-3e6e3c332f5c",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6730134495,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS80-36",
+      "id": "e4711224-9a61-4d56-983e-abc0fa62c1c8",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5869110646,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS81-01",
+      "id": "7dbc6d85-f077-4f3d-a74a-f2b4099f1ea3",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 136.2,
+      "price": 19589887601,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS82-07",
+      "id": "e17c7fdf-12db-4a73-ba0e-2d5e914b6ec0",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6725815327,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS82-14",
+      "id": "28b69f6c-9fef-43e1-b5ee-87fd9dcd07e6",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 80,
+      "price": 7048755769,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS82-18",
+      "id": "9cc08218-fdc1-4366-9ebb-715ea2b68ae1",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5905000000,
+      "group": "Quỹ chéo",
+      "subdivision": "CV Tri thức 1"
+    },
+    {
+      "code": "AS82-30",
+      "id": "4a90b8fe-5786-43dd-8129-9d2439efb4a0",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 80,
+      "price": 7174000000,
+      "group": "Quỹ chéo",
+      "subdivision": "CÔNG VIÊN TRI THỨC 1"
+    },
+    {
+      "code": "AS82-32",
+      "id": "7c693cea-24fe-49d8-b0be-0fa50dfccbc4",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5663000000,
+      "group": "Quỹ chéo",
+      "subdivision": "CÔNG VIÊN TRI THỨC 1"
+    },
+    {
+      "code": "AS82-34",
+      "id": "e9c7cf34-8a25-4a79-b4cd-834cb7cb2549",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5606000000,
+      "group": "Quỹ chéo",
+      "subdivision": "CÔNG VIÊN TRI THỨC 1"
+    },
+    {
+      "code": "AS82-36",
+      "id": "2d181cc7-daad-4387-8013-350fd072012e",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5682000000,
+      "group": "Quỹ chéo",
+      "subdivision": "CÔNG VIÊN TRI THỨC 1"
+    },
+    {
+      "code": "AS82-44",
+      "id": "16e1b4c2-278f-4ec1-b1ae-795bc8c7cfb7",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 80,
+      "price": 7140000000,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS82-45",
+      "id": "38e1711e-ff2f-4004-b915-86545135f930",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6413224814,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS82-46",
+      "id": "30195582-c371-4366-867a-914a7a8e66aa",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5950186831,
+      "group": "Quỹ chéo",
+      "subdivision": "CV TRI THỨC 1"
+    },
+    {
+      "code": "AS82-48",
+      "id": "342d7f90-90cf-4b23-81e1-86c8fc1935ff",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 6006651122,
+      "group": "Quỹ chéo",
+      "subdivision": "CV TRI THỨC 1"
+    },
+    {
+      "code": "AS82-50",
+      "id": "2af62feb-aec6-41d2-bd6a-f1fae7947def",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5902394155,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS83-18",
+      "id": "f6c2641b-fe67-4e6f-9ffe-fc1f90b91b57",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5888251084,
+      "group": "Quỹ chéo",
+      "subdivision": "CV TRI THỨC 1"
+    },
+    {
+      "code": "AS83-20",
+      "id": "8c4da0aa-30ce-40ca-89ee-ac0785869736",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5831786793,
+      "group": "Quỹ chéo",
+      "subdivision": "CV Tri thức 1"
+    },
+    {
+      "code": "AS83-22",
+      "id": "c88b9887-2d80-4808-884c-70dc8bd452d7",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5831786793,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS83-28",
+      "id": "2246f3cf-014c-4695-8464-fdcb2a14c5fa",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 80,
+      "price": 7365446229,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS83-32",
+      "id": "a68d61b5-e9c9-4a79-a43e-025eecc70a57",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5809317725,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS83-36",
+      "id": "340e0fea-8ebe-4a1b-a630-c84e6846f59f",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5644000000,
+      "group": "Quỹ chéo",
+      "subdivision": "CÔNG VIÊN TRI THỨC 1"
+    },
+    {
+      "code": "AS83-39",
+      "id": "49211b02-e494-4283-a218-7a4c8a8eae40",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6971719681,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS83-44",
+      "id": "592442ee-8a0e-4bf6-8c32-5ed5b98df028",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 80,
+      "price": 7617075849,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS83-48",
+      "id": "16823af1-a81f-4fc5-8266-7cfc82cffdde",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5578000000,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS83-53",
+      "id": "8044b237-5525-45d6-a1b8-9a45b304e343",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 7056378414,
+      "group": "Quỹ chéo",
+      "subdivision": "CV TRI THỨC 1"
+    },
+    {
+      "code": "AS84-13",
+      "id": "3b9827a5-899e-4496-8132-07044febe9b7",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 96,
+      "price": 8337921555,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS84-20",
+      "id": "e3cd0ade-66b8-4e5e-ae3c-fa224ba6c77a",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5831786793,
+      "group": "Quỹ chéo",
+      "subdivision": "CV Tri thức 1"
+    },
+    {
+      "code": "AS84-22",
+      "id": "c6619fd4-6983-42f6-a1cc-97b8b207a87b",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5831786793,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS84-38",
+      "id": "397d2922-6b4c-4a81-bbff-e111894c90de",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5809000000,
+      "group": "Quỹ chéo",
+      "subdivision": "CV Tri thức 1"
+    },
+    {
+      "code": "AS84-41",
+      "id": "e26c299c-80e2-47e0-95e1-c73e42cb9808",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 96,
+      "price": 9877088424,
+      "group": "Quỹ chéo",
+      "subdivision": "Tri Thức (I)"
+    },
+    {
+      "code": "AS85-07",
+      "id": "25e7c031-76a1-42c8-acd0-6c17f8ba5187",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6583735282,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS85-09",
+      "id": "f5c7499d-e174-4236-ad10-e9a94c3b2322",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6687559588,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS85-11",
+      "id": "1c483642-b787-4298-80ae-735e67043af0",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 6583735282,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS85-13",
+      "id": "b35a3ef1-48a2-42e2-80dd-ba3170201338",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 96,
+      "price": 8413697579,
+      "group": "Quỹ chéo",
+      "subdivision": "CV TRI THỨC 1"
+    },
+    {
+      "code": "AS85-14",
+      "id": "54a8b5e4-9208-4cc9-a9a2-c2b457075ba5",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 80,
+      "price": 7048755769,
+      "group": "Quỹ chéo",
+      "subdivision": "CV TRI THỨC 1"
+    },
+    {
+      "code": "AS85-22",
+      "id": "2aca9650-df8f-447d-937b-1a91badade39",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5871253472,
+      "group": "Quỹ chéo",
+      "subdivision": "CV TRI THỨC 1"
+    },
+    {
+      "code": "AS85-28",
+      "id": "c2fa0be2-3252-494d-9fe8-7bad856c66e0",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 80,
+      "price": 6763024297,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS85-32",
+      "id": "b1828305-2641-4dd3-bd93-6e90e757d57b",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5848784406,
+      "group": "Quỹ chéo",
+      "subdivision": "CV TRI THỨC 1"
+    },
+    {
+      "code": "AS85-36",
+      "id": "b9ccf55d-296a-4f6b-9a44-f93bf520f700",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5871253472,
+      "group": "Quỹ chéo",
+      "subdivision": "CV TRI THỨC 1"
+    },
+    {
+      "code": "AS86-03",
+      "id": "a92002f1-fafc-4506-a167-22d3ee8af8b3",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 8383415706,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "AS86-11",
+      "id": "52429a9d-bb41-4184-b1cf-8def3556c6fd",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 8105000000,
+      "group": "Quỹ chéo",
+      "subdivision": "CÔNG VIÊN TRI THỨC 1"
+    },
+    {
+      "code": "AS86-55",
+      "id": "3ffdbb0b-4168-4574-93aa-9636c32e71a7",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 60,
+      "price": 8857015859,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "ĐLCV1-01",
+      "id": "9bd1ba95-16ec-427a-b7ac-638976e1ae2f",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 112.2,
+      "price": 19023601282,
+      "group": "Quỹ chéo",
+      "subdivision": "CV Quốc tế"
+    },
+    {
+      "code": "ĐLCV1-05",
+      "id": "9c80742d-5814-4df3-8c49-1a89fa4944be",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 112.5,
+      "price": 19836700831,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "ĐLCV1-07",
+      "id": "0ec18dd3-532a-454e-b65d-98a1a22e2f57",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 112.5,
+      "price": 19836700831,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "ĐLCV2-02",
+      "id": "1ea5e85e-2ad9-4c2e-a3c0-9a03007bd7cf",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 172,
+      "price": 31504638198,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "ĐLCV2-16",
+      "id": "eb073321-2b37-4a30-aa55-6a6e53a09dc1",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 112,
+      "price": 17340524710,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "ĐLCV2-38",
+      "id": "8193d702-5882-4357-a829-9ae7c5972530",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 112,
+      "price": 17713000000,
+      "group": "Quỹ chéo",
+      "subdivision": "CV Quốc tế"
+    },
+    {
+      "code": "ĐLCV2-62",
+      "id": "6c1cf292-7a5c-4004-8be9-3b50c15d576a",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 112,
+      "price": 17801755590,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "ĐLCV2-76",
+      "id": "c66b8b77-04d7-4741-9a2b-e80c7c0f8449",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 191.5,
+      "price": 40229018312,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "ĐLCV3-100",
+      "id": "c15e87e4-5e36-4dcf-8073-96974bcbe0ca",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 128,
+      "price": 18766813831,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "ĐLCV3-124",
+      "id": "4ef63e5a-eb24-44df-a425-6d690d4e3f8f",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 80,
+      "price": 13685218030,
+      "group": "Quỹ chéo",
+      "subdivision": "Ivy Park"
+    },
+    {
+      "code": "ĐLCV3-132",
+      "id": "0e55d709-c88c-4a93-bd27-65e8ec9009f8",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 80,
+      "price": 13627796717,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "TL-04",
+      "id": "9369d14d-97d1-47d6-ab15-41f24aa36666",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 112,
+      "price": 16947346067,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "TL-06",
+      "id": "d34ba692-2660-46d5-95b1-7c02ee32fbff",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 112,
+      "price": 15283441850,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "TL-08",
+      "id": "75a5d26d-a332-436d-993b-cae6931606a9",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 112,
+      "price": 17583395991,
+      "group": "Quỹ chéo",
+      "subdivision": "Quốc tế (II)"
+    },
+    {
+      "code": "TL-26",
+      "id": "82ced08a-2402-468d-9229-3c7031adca93",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 112,
+      "price": 14436215794,
+      "group": "Quỹ chéo",
+      "subdivision": "CV Quốc tế"
+    },
+    {
+      "code": "TL3-29",
+      "id": "7dd1a141-6339-4292-8035-efcbf41c72d8",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5917000000,
+      "group": "Quỹ chéo",
+      "subdivision": "CV Quốc tế"
+    },
+    {
+      "code": "TL3A-37",
+      "id": "59843637-994a-4fde-bffa-e0c4674da9e3",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 6068574997,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "TL5-27",
+      "id": "7cb5aff5-e3cf-40fc-9803-47d0c5566611",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5972000000,
+      "group": "Quỹ chéo",
+      "subdivision": "CV Quốc tế"
+    },
+    {
+      "code": "TL5-29",
+      "id": "4f6e52d3-f639-4c96-99af-1b0399830f4a",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5957000000,
+      "group": "Quỹ chéo",
+      "subdivision": "CV Quốc tế"
+    },
+    {
+      "code": "TL8-106",
+      "id": "5bac7647-a115-4078-9e28-08a506902ab4",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 70,
+      "price": 7754152215,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "TL8-108",
+      "id": "810ad100-4e9b-43d5-9369-ea07c8a70742",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 112,
+      "price": 10252920721,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "TL11-39",
+      "id": "2be1fce8-81b3-4dca-aa8a-7c2f2115cbbe",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 72,
+      "price": 10535548874,
+      "group": "Quỹ chéo",
+      "subdivision": "CV Quốc tế"
+    },
+    {
+      "code": "TL11-152",
+      "id": "d63efbb2-a4ff-4fcc-9ff0-c198454547d7",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 112,
+      "price": 11855635150,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    },
+    {
+      "code": "TL12A-83",
+      "id": "4df1b288-8b47-41af-90d7-66b2790e87dc",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 72,
+      "price": 9941000000,
+      "group": "Quỹ chéo",
+      "subdivision": "CÔNG VIÊN QUỐC TẾ"
+    },
+    {
+      "code": "TL12A-85",
+      "id": "1862fac9-4f97-4fd3-b005-94892bb45468",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 5907000000,
+      "group": "Quỹ chéo",
+      "subdivision": "CÔNG VIÊN QUỐC TẾ"
+    },
+    {
+      "code": "TL15-61",
+      "id": "629a7f25-99a8-4c0c-a5cc-49ee21ed84b9",
+      "available": true,
+      "status": "Còn hàng",
+      "area": 50,
+      "price": 6677476227,
+      "group": "Quỹ chéo",
+      "subdivision": ""
+    }
+  ],
+  "assignedCount": 806,
+  "duplicateCodes": [
+    "TL1-30"
+  ],
+  "draftCodes": [],
+  "approvals": [
+    {
+      "code": "AS76-09",
+      "x": 22485.45649297638,
+      "y": 26833.445401570814,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-07T04:48:58.268Z",
+      "source": "user-reviewed",
+      "scanId": "288b8231-8cc3-44a3-9ad2-7bf38d1627bc"
+    }
+  ],
+  "recognizedCodes": [
+    "AS75-07",
+    "AS75-09",
+    "AS75-06",
+    "AS76-03",
+    "AS75-08",
+    "AS76-05",
+    "AS75-10",
+    "AS75-15",
+    "AS75-12",
+    "AS76-09",
+    "AS75-14",
+    "AS77-01",
+    "AS75-21",
+    "AS76-13",
+    "AS77-03",
+    "AS75-23",
+    "AS77-05",
+    "AS75-18",
+    "AS76-10",
+    "AS77-07",
+    "AS75-20",
+    "AS77-09",
+    "AS75-22",
+    "AS75-28",
+    "AS77-10",
+    "AS76-25",
+    "AS77-12",
+    "AS76-29",
+    "AS77-14",
+    "AS79-11",
+    "AS76-24",
+    "AS79-06",
+    "AS77-21",
+    "AS77-16",
+    "AS77-23",
+    "AS76-28",
+    "AS77-18",
+    "AS76-30",
+    "AS79-1",
+    "AS80-09",
+    "AS77-22",
+    "AS79-19",
+    "AS80-11",
+    "AS79-21",
+    "AS80-13",
+    "AS79-23",
+    "AS77-28",
+    "AS79-18",
+    "AS79-25",
+    "AS80-1",
+    "AS79-20",
+    "AS74-01",
+    "AS74-02",
+    "AS75-01",
+    "AS75-02",
+    "AS76-01",
+    "AS76-02",
+    "AS77-02",
+    "AS79-01",
+    "AS74-03",
+    "AS74-04",
+    "AS79-02",
+    "AS75-04",
+    "AS76-04",
+    "AS74-05",
+    "AS77-04",
+    "AS74-06",
+    "AS79-03",
+    "AS75-05",
+    "AS79-04",
+    "AS76-06",
+    "AS77-06",
+    "AS79-05",
+    "AS74-08",
+    "AS76-07",
+    "AS77-08",
+    "AS79-07",
+    "AS74-10",
+    "AS79-08",
+    "AS8O-07",
+    "AS79-09",
+    "AS74-12",
+    "AS75-11",
+    "AS79-10",
+    "AS8O-09",
+    "AS76-11",
+    "AS76-12",
+    "AS77-11",
+    "AS79-12",
+    "AS74-14",
+    "AS75-13",
+    "AS76-14",
+    "AS77-13",
+    "AS79-13",
+    "AS79-14",
+    "AS74-16",
+    "AS75-16",
+    "AS76-15",
+    "AS76-16",
+    "AS77-15",
+    "AS79-15",
+    "AS79-16",
+    "AS80-15",
+    "AS74-18",
+    "AS75-17",
+    "AS76-18",
+    "AS77-17",
+    "AS79-17",
+    "AS75-19",
+    "AS76-19",
+    "AS76-20",
+    "AS77-19",
+    "AS76-21",
+    "AS76-22",
+    "AS75-24",
+    "AS76-23",
+    "AS77-24",
+    "AS75-26",
+    "AS76-26",
+    "AS77-25",
+    "AS77-26",
+    "AS76-27",
+    "AS77-27",
+    "AS75-30",
+    "AS77-29",
+    "AS76-3",
+    "AS77-30",
+    "AS47-02",
+    "AS48-01",
+    "AS48-03",
+    "AS48-05",
+    "AS47-14",
+    "AS48-11",
+    "AS48-06",
+    "ASABA-07",
+    "A548-17",
+    "AS48A-09",
+    "AS48-14",
+    "AS48-19",
+    "AS48A-11",
+    "AS47-24",
+    "AS48-16",
+    "AS47-28",
+    "AS48-18",
+    "AS47-30",
+    "AS48A-17",
+    "AS48-27",
+    "AS48-22",
+    "AS48A-19",
+    "AS47-32",
+    "A548-24",
+    "AS48-29",
+    "AS47-34",
+    "AS484-16",
+    "AS48-33",
+    "AS48A-20",
+    "AS48-30",
+    "AS48A-27",
+    "AS48A-22",
+    "AS48-32",
+    "AS48A-24",
+    "AS48A-29",
+    "AS5O-21",
+    "AS48A-26",
+    "AS48A-31",
+    "AS48-41",
+    "AS50-23",
+    "AS48-36",
+    "AS48A-33",
+    "AS50-25",
+    "AS48-02",
+    "AS47-04",
+    "AS48-04",
+    "AS47-06",
+    "AS48A-05",
+    "AS48-07",
+    "AS47-08",
+    "AS4BA-07",
+    "AS48-09",
+    "AS47-10",
+    "ASA8A-09",
+    "AS48-10",
+    "AS47-12",
+    "AS48-12",
+    "AS48-13",
+    "AS48A-13",
+    "AS48-15",
+    "AS47-16",
+    "AS48A-15",
+    "AS48A-16",
+    "AS48A-18",
+    "AS47-20",
+    "AS48-20",
+    "AS47-22",
+    "AS48-21",
+    "AS48A-21",
+    "AS48-23",
+    "AS48A-23",
+    "AS48-24",
+    "AS47-26",
+    "AS48-25",
+    "AS48A-25",
+    "AS48-26",
+    "ASA8A-27",
+    "AS48-28",
+    "AS48A-28",
+    "AS48-34",
+    "AS48-35",
+    "AS47-36",
+    "AS48-37",
+    "AS47-38",
+    "AS48-38",
+    "AS48-39",
+    "AS47-42",
+    "AS47-46"
+  ],
+  "anchorOptions": {
+    "AS47-32": [
+      {
+        "id": "00d6a9e6-5d43-4c25-bf84-843174339391",
+        "code": "AS47-30",
+        "ath": 0.02724777146922264,
+        "atv": -0.010718176895769906,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "9992df55-eba5-46c8-8753-456740942653",
+        "code": "AS47-28",
+        "ath": 0.02653186196180229,
+        "atv": -0.01219342308523249,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "10d3547c-3508-45b7-ad78-f7e700e3cd52",
+        "code": "AS47-36",
+        "ath": 0.029070386426648075,
+        "atv": -0.008571420520777298,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "7236aed5-8269-4325-9802-491795d8a4a3",
+        "code": "AS47-26",
+        "ath": 0.025743945238432372,
+        "atv": -0.012879673072924806,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "3fff0c51-2b0e-49e3-aa63-1ba6d03e7926",
+        "code": "AS47-38",
+        "ath": 0.029658112190213342,
+        "atv": -0.007923423049419908,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      }
+    ],
+    "AS48-08": [
+      {
+        "id": "b3ea98e1-f048-46c9-b8b8-d915437512d6",
+        "code": "AS48-21",
+        "ath": 0.02228805130322951,
+        "atv": -0.012473003319375712,
+        "duplicate": false,
+        "distance": 13,
+        "sameParity": false
+      },
+      {
+        "id": "36c5114b-b00f-4861-96fc-9c4edc8b22c8",
+        "code": "AS48-25",
+        "ath": 0.023253113878530577,
+        "atv": -0.011024257022931163,
+        "duplicate": false,
+        "distance": 17,
+        "sameParity": false
+      },
+      {
+        "id": "fa8979f5-81a3-433d-bd17-f98492287540",
+        "code": "AS48-30",
+        "ath": 0.022551323169653047,
+        "atv": -0.0070878986532719405,
+        "duplicate": false,
+        "distance": 22,
+        "sameParity": true
+      },
+      {
+        "id": "39c524bb-2f39-473e-92aa-e62744f12cfe",
+        "code": "AS48-32",
+        "ath": 0.022958197767357285,
+        "atv": -0.0063698847027918865,
+        "duplicate": false,
+        "distance": 24,
+        "sameParity": true
+      },
+      {
+        "id": "75dc2b34-591f-4303-81b5-441323e096d9",
+        "code": "AS48-34",
+        "ath": 0.02360441035772112,
+        "atv": -0.005532201761916664,
+        "duplicate": false,
+        "distance": 26,
+        "sameParity": true
+      }
+    ],
+    "AS48-10": [
+      {
+        "id": "b3ea98e1-f048-46c9-b8b8-d915437512d6",
+        "code": "AS48-21",
+        "ath": 0.02228805130322951,
+        "atv": -0.012473003319375712,
+        "duplicate": false,
+        "distance": 11,
+        "sameParity": false
+      },
+      {
+        "id": "36c5114b-b00f-4861-96fc-9c4edc8b22c8",
+        "code": "AS48-25",
+        "ath": 0.023253113878530577,
+        "atv": -0.011024257022931163,
+        "duplicate": false,
+        "distance": 15,
+        "sameParity": false
+      },
+      {
+        "id": "fa8979f5-81a3-433d-bd17-f98492287540",
+        "code": "AS48-30",
+        "ath": 0.022551323169653047,
+        "atv": -0.0070878986532719405,
+        "duplicate": false,
+        "distance": 20,
+        "sameParity": true
+      },
+      {
+        "id": "39c524bb-2f39-473e-92aa-e62744f12cfe",
+        "code": "AS48-32",
+        "ath": 0.022958197767357285,
+        "atv": -0.0063698847027918865,
+        "duplicate": false,
+        "distance": 22,
+        "sameParity": true
+      },
+      {
+        "id": "75dc2b34-591f-4303-81b5-441323e096d9",
+        "code": "AS48-34",
+        "ath": 0.02360441035772112,
+        "atv": -0.005532201761916664,
+        "duplicate": false,
+        "distance": 24,
+        "sameParity": true
+      }
+    ],
+    "AS50-01": [
+      {
+        "id": "975d5562-808d-4198-a83b-17486ded306f",
+        "code": "AS50-09",
+        "ath": 0.008852441646253255,
+        "atv": -0.010117754567877793,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      },
+      {
+        "id": "c4085f95-3845-4eb6-951b-003ad64f6abc",
+        "code": "AS50-11",
+        "ath": 0.00941160812484907,
+        "atv": -0.009369777270185892,
+        "duplicate": false,
+        "distance": 10,
+        "sameParity": true
+      },
+      {
+        "id": "9cc112c0-e77e-49a9-a6c8-a60e52f18afa",
+        "code": "AS50-18",
+        "ath": 0.009281931793549867,
+        "atv": -0.004804282651298857,
+        "duplicate": false,
+        "distance": 17,
+        "sameParity": false
+      },
+      {
+        "id": "55d449f7-f3c6-493f-b304-5330b51c4034",
+        "code": "AS50-28",
+        "ath": 0.012207441683336966,
+        "atv": -0.0009423376534143345,
+        "duplicate": false,
+        "distance": 27,
+        "sameParity": false
+      },
+      {
+        "id": "c4109922-5656-4f78-a078-0f51ea38f0b3",
+        "code": "AS50-30",
+        "ath": 0.012965397839934448,
+        "atv": 0.00003412149952200692,
+        "duplicate": false,
+        "distance": 29,
+        "sameParity": false
+      }
+    ],
+    "AS52A-54": [
+      {
+        "id": "fe8997e3-862d-4029-85a2-d6f2a742e25b",
+        "code": "AS52A-55",
+        "ath": 0.008484426152741977,
+        "atv": 0.019366955756342844,
+        "duplicate": false,
+        "distance": 1,
+        "sameParity": false
+      },
+      {
+        "id": "9b619ad5-cffd-4ef4-b34f-9606e01eaeb8",
+        "code": "AS52A-52",
+        "ath": 0.005129425788870922,
+        "atv": 0.019671955844483682,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "1dbfcdee-f473-48c2-87e2-327e5db10277",
+        "code": "AS52A-49",
+        "ath": 0.006984842608091293,
+        "atv": 0.017206539010011804,
+        "duplicate": false,
+        "distance": 5,
+        "sameParity": false
+      },
+      {
+        "id": "7a9adc10-8d11-437e-be19-28df6abf5a0d",
+        "code": "AS52A-42",
+        "ath": 0.0020540092222313118,
+        "atv": 0.015673068020625108,
+        "duplicate": false,
+        "distance": 12,
+        "sameParity": true
+      },
+      {
+        "id": "b3a3c4fa-6ba2-4ae4-b4c7-36fb470d4c9a",
+        "code": "AS52A-40",
+        "ath": 0.0013169258264381395,
+        "atv": 0.014707234652822697,
+        "duplicate": false,
+        "distance": 14,
+        "sameParity": true
+      }
+    ],
+    "AS54-07": [
+      {
+        "id": "c044e89e-6c66-490b-be69-3a4bf154c99f",
+        "code": "AS54-11",
+        "ath": -0.009755592131795774,
+        "atv": 0.005397503539738565,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "a8dcc573-8183-403f-9109-a19d10152936",
+        "code": "AS54-25",
+        "ath": -0.005561841910834428,
+        "atv": 0.011000868704397277,
+        "duplicate": false,
+        "distance": 18,
+        "sameParity": true
+      },
+      {
+        "id": "67932c41-a977-4abb-b0df-137502d5e5eb",
+        "code": "AS54-29",
+        "ath": -0.003935175377604495,
+        "atv": 0.01298579049792246,
+        "duplicate": false,
+        "distance": 22,
+        "sameParity": true
+      },
+      {
+        "id": "a32c7383-e2bf-4ecf-9ec7-fbd525301e9d",
+        "code": "AS54-31",
+        "ath": -0.0032489253291587473,
+        "atv": 0.013849957217500352,
+        "duplicate": false,
+        "distance": 24,
+        "sameParity": true
+      },
+      {
+        "id": "856372dc-59c8-444d-8919-981772083e9e",
+        "code": "AS54-33",
+        "ath": -0.0027405917999905344,
+        "atv": 0.014547504092497226,
+        "duplicate": false,
+        "distance": 26,
+        "sameParity": true
+      }
+    ],
+    "AS55-54": [
+      {
+        "id": "8855decf-69c7-4f20-8aab-c0e084d46c40",
+        "code": "AS55-45",
+        "ath": -0.0046419199116975755,
+        "atv": 0.02369136031278531,
+        "duplicate": false,
+        "distance": 9,
+        "sameParity": false
+      },
+      {
+        "id": "fab4b243-ce78-4e34-bc61-7db99d0bedaa",
+        "code": "AS55-42",
+        "ath": -0.008448320397967016,
+        "atv": 0.023512172820951655,
+        "duplicate": false,
+        "distance": 12,
+        "sameParity": true
+      },
+      {
+        "id": "40174d4d-e506-4311-aadb-76a6a5511955",
+        "code": "AS55-40",
+        "ath": -0.009058320450409255,
+        "atv": 0.022698839434754498,
+        "duplicate": false,
+        "distance": 14,
+        "sameParity": true
+      },
+      {
+        "id": "0fceaba0-11ac-497b-8ae3-47b084fd1cad",
+        "code": "AS55-38",
+        "ath": -0.009592070490957118,
+        "atv": 0.0220380060568295,
+        "duplicate": false,
+        "distance": 16,
+        "sameParity": true
+      },
+      {
+        "id": "069744db-6235-4203-8196-924e536b2e2f",
+        "code": "AS55-28",
+        "ath": -0.012616653924906449,
+        "atv": 0.017920505789315505,
+        "duplicate": false,
+        "distance": 26,
+        "sameParity": true
+      }
+    ],
+    "AS56-13": [],
+    "AS56-23": [],
+    "AS62-05": [
+      {
+        "id": "05b72731-0953-4922-a7c9-9659c84c768e",
+        "code": "AS62-02",
+        "ath": -0.06657684685277496,
+        "atv": 0.04332687317368299,
+        "duplicate": false,
+        "distance": 3,
+        "sameParity": false
+      },
+      {
+        "id": "c7efbeab-14e5-42fd-9bdf-a4fe398e2fe7",
+        "code": "AS62-09",
+        "ath": -0.06184060414016145,
+        "atv": 0.044054482454695114,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "bdf1bef3-1993-4128-9d7a-47be86769e54",
+        "code": "AS62-18",
+        "ath": -0.06150727021988094,
+        "atv": 0.049619297945731826,
+        "duplicate": false,
+        "distance": 13,
+        "sameParity": false
+      },
+      {
+        "id": "d0616731-60a1-442a-95fe-52a6778fcab2",
+        "code": "AS62-19",
+        "ath": -0.05881976901256046,
+        "atv": 0.0485151312997406,
+        "duplicate": false,
+        "distance": 14,
+        "sameParity": true
+      },
+      {
+        "id": "e01f02bd-11ed-4b16-aaa8-2257d8a1ed01",
+        "code": "AS62-20",
+        "ath": -0.06090310331790689,
+        "atv": 0.050285964687113216,
+        "duplicate": false,
+        "distance": 15,
+        "sameParity": false
+      }
+    ],
+    "AS62-16": [
+      {
+        "id": "bdf1bef3-1993-4128-9d7a-47be86769e54",
+        "code": "AS62-18",
+        "ath": -0.06150727021988094,
+        "atv": 0.049619297945731826,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "d0616731-60a1-442a-95fe-52a6778fcab2",
+        "code": "AS62-19",
+        "ath": -0.05881976901256046,
+        "atv": 0.0485151312997406,
+        "duplicate": false,
+        "distance": 3,
+        "sameParity": false
+      },
+      {
+        "id": "e01f02bd-11ed-4b16-aaa8-2257d8a1ed01",
+        "code": "AS62-20",
+        "ath": -0.06090310331790689,
+        "atv": 0.050285964687113216,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "c7efbeab-14e5-42fd-9bdf-a4fe398e2fe7",
+        "code": "AS62-09",
+        "ath": -0.06184060414016145,
+        "atv": 0.044054482454695114,
+        "duplicate": false,
+        "distance": 7,
+        "sameParity": false
+      },
+      {
+        "id": "0d2d09e7-1dc9-43a0-84fa-b20746357914",
+        "code": "AS62-28",
+        "ath": -0.0587364357090016,
+        "atv": 0.0532651316179721,
+        "duplicate": false,
+        "distance": 12,
+        "sameParity": true
+      }
+    ],
+    "AS69-21": [
+      {
+        "id": "71d5f50b-1fc9-4e9a-8fe4-c51c4fa0d419",
+        "code": "AS69-23",
+        "ath": -0.08717711077889835,
+        "atv": 0.07239645710776942,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "9facd38c-501e-4df9-8c24-5d50064debf5",
+        "code": "AS69-18",
+        "ath": -0.09108733042815105,
+        "atv": 0.07224920557516154,
+        "duplicate": false,
+        "distance": 3,
+        "sameParity": false
+      },
+      {
+        "id": "a7a11275-6d84-4ba4-9e20-43a217f80358",
+        "code": "AS69-25",
+        "ath": -0.08676513525655016,
+        "atv": 0.0731811719456562,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "05ff759c-6886-45a7-9554-6be3521f89f4",
+        "code": "AS69-13",
+        "ath": -0.0904623219951657,
+        "atv": 0.06845492641824695,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      },
+      {
+        "id": "e0c8a582-2d90-4014-b8f9-d033cde1adf2",
+        "code": "AS69-29",
+        "ath": -0.08525399205783492,
+        "atv": 0.07499920636203086,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      }
+    ],
+    "AS72-28": [
+      {
+        "id": "0ab94e0f-59ae-490a-980a-00677acbeb09",
+        "code": "AS72-25",
+        "ath": -0.10109400162111858,
+        "atv": 0.0842416473343929,
+        "duplicate": false,
+        "distance": 3,
+        "sameParity": false
+      },
+      {
+        "id": "db8e1618-7447-40f7-851b-749d04f3120d",
+        "code": "AS72-24",
+        "ath": -0.1039742134569974,
+        "atv": 0.08541175379331237,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "223f0f5c-a023-4cae-ba51-ed840858e880",
+        "code": "AS72-32",
+        "ath": -0.1018554816025523,
+        "atv": 0.08825634482249925,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "ed9ff848-dada-461a-bbec-5b12a1160ab7",
+        "code": "AS72-23",
+        "ath": -0.10182316913968882,
+        "atv": 0.08336664739402293,
+        "duplicate": false,
+        "distance": 5,
+        "sameParity": false
+      },
+      {
+        "id": "b957b74f-0495-4a98-a33f-ca2f49c72cdd",
+        "code": "AS72-22",
+        "ath": -0.10456275003387164,
+        "atv": 0.08466627474037303,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      }
+    ],
+    "AS73-03": [
+      {
+        "id": "fa0352b6-8c7c-430c-bd52-7587ffc888f7",
+        "code": "AS73-02",
+        "ath": -0.11560793079404902,
+        "atv": 0.08185970961252806,
+        "duplicate": false,
+        "distance": 1,
+        "sameParity": false
+      },
+      {
+        "id": "bfd35553-e8c6-4edc-a870-25f3e33c33b7",
+        "code": "AS73-22",
+        "ath": -0.10957550917465406,
+        "atv": 0.0896242028484922,
+        "duplicate": false,
+        "distance": 19,
+        "sameParity": false
+      },
+      {
+        "id": "45e017fb-62ec-4980-8776-c333e4be6946",
+        "code": "AS73-24",
+        "ath": -0.10916353353476814,
+        "atv": 0.09036968191295877,
+        "duplicate": false,
+        "distance": 21,
+        "sameParity": false
+      }
+    ],
+    "AS73-05": [
+      {
+        "id": "fa0352b6-8c7c-430c-bd52-7587ffc888f7",
+        "code": "AS73-02",
+        "ath": -0.11560793079404902,
+        "atv": 0.08185970961252806,
+        "duplicate": false,
+        "distance": 3,
+        "sameParity": false
+      },
+      {
+        "id": "bfd35553-e8c6-4edc-a870-25f3e33c33b7",
+        "code": "AS73-22",
+        "ath": -0.10957550917465406,
+        "atv": 0.0896242028484922,
+        "duplicate": false,
+        "distance": 17,
+        "sameParity": false
+      },
+      {
+        "id": "45e017fb-62ec-4980-8776-c333e4be6946",
+        "code": "AS73-24",
+        "ath": -0.10916353353476814,
+        "atv": 0.09036968191295877,
+        "duplicate": false,
+        "distance": 19,
+        "sameParity": false
+      }
+    ],
+    "AS73-07": [
+      {
+        "id": "fa0352b6-8c7c-430c-bd52-7587ffc888f7",
+        "code": "AS73-02",
+        "ath": -0.11560793079404902,
+        "atv": 0.08185970961252806,
+        "duplicate": false,
+        "distance": 5,
+        "sameParity": false
+      },
+      {
+        "id": "bfd35553-e8c6-4edc-a870-25f3e33c33b7",
+        "code": "AS73-22",
+        "ath": -0.10957550917465406,
+        "atv": 0.0896242028484922,
+        "duplicate": false,
+        "distance": 15,
+        "sameParity": false
+      },
+      {
+        "id": "45e017fb-62ec-4980-8776-c333e4be6946",
+        "code": "AS73-24",
+        "ath": -0.10916353353476814,
+        "atv": 0.09036968191295877,
+        "duplicate": false,
+        "distance": 17,
+        "sameParity": false
+      }
+    ],
+    "AS73-15": [
+      {
+        "id": "bfd35553-e8c6-4edc-a870-25f3e33c33b7",
+        "code": "AS73-22",
+        "ath": -0.10957550917465406,
+        "atv": 0.0896242028484922,
+        "duplicate": false,
+        "distance": 7,
+        "sameParity": false
+      },
+      {
+        "id": "45e017fb-62ec-4980-8776-c333e4be6946",
+        "code": "AS73-24",
+        "ath": -0.10916353353476814,
+        "atv": 0.09036968191295877,
+        "duplicate": false,
+        "distance": 9,
+        "sameParity": false
+      },
+      {
+        "id": "fa0352b6-8c7c-430c-bd52-7587ffc888f7",
+        "code": "AS73-02",
+        "ath": -0.11560793079404902,
+        "atv": 0.08185970961252806,
+        "duplicate": false,
+        "distance": 13,
+        "sameParity": false
+      }
+    ],
+    "AS73-16": [
+      {
+        "id": "bfd35553-e8c6-4edc-a870-25f3e33c33b7",
+        "code": "AS73-22",
+        "ath": -0.10957550917465406,
+        "atv": 0.0896242028484922,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "45e017fb-62ec-4980-8776-c333e4be6946",
+        "code": "AS73-24",
+        "ath": -0.10916353353476814,
+        "atv": 0.09036968191295877,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      },
+      {
+        "id": "fa0352b6-8c7c-430c-bd52-7587ffc888f7",
+        "code": "AS73-02",
+        "ath": -0.11560793079404902,
+        "atv": 0.08185970961252806,
+        "duplicate": false,
+        "distance": 14,
+        "sameParity": true
+      }
+    ],
+    "AS73-17": [
+      {
+        "id": "bfd35553-e8c6-4edc-a870-25f3e33c33b7",
+        "code": "AS73-22",
+        "ath": -0.10957550917465406,
+        "atv": 0.0896242028484922,
+        "duplicate": false,
+        "distance": 5,
+        "sameParity": false
+      },
+      {
+        "id": "45e017fb-62ec-4980-8776-c333e4be6946",
+        "code": "AS73-24",
+        "ath": -0.10916353353476814,
+        "atv": 0.09036968191295877,
+        "duplicate": false,
+        "distance": 7,
+        "sameParity": false
+      },
+      {
+        "id": "fa0352b6-8c7c-430c-bd52-7587ffc888f7",
+        "code": "AS73-02",
+        "ath": -0.11560793079404902,
+        "atv": 0.08185970961252806,
+        "duplicate": false,
+        "distance": 15,
+        "sameParity": false
+      }
+    ],
+    "AS73-19": [
+      {
+        "id": "bfd35553-e8c6-4edc-a870-25f3e33c33b7",
+        "code": "AS73-22",
+        "ath": -0.10957550917465406,
+        "atv": 0.0896242028484922,
+        "duplicate": false,
+        "distance": 3,
+        "sameParity": false
+      },
+      {
+        "id": "45e017fb-62ec-4980-8776-c333e4be6946",
+        "code": "AS73-24",
+        "ath": -0.10916353353476814,
+        "atv": 0.09036968191295877,
+        "duplicate": false,
+        "distance": 5,
+        "sameParity": false
+      },
+      {
+        "id": "fa0352b6-8c7c-430c-bd52-7587ffc888f7",
+        "code": "AS73-02",
+        "ath": -0.11560793079404902,
+        "atv": 0.08185970961252806,
+        "duplicate": false,
+        "distance": 17,
+        "sameParity": false
+      }
+    ],
+    "AS73-21": [
+      {
+        "id": "bfd35553-e8c6-4edc-a870-25f3e33c33b7",
+        "code": "AS73-22",
+        "ath": -0.10957550917465406,
+        "atv": 0.0896242028484922,
+        "duplicate": false,
+        "distance": 1,
+        "sameParity": false
+      },
+      {
+        "id": "45e017fb-62ec-4980-8776-c333e4be6946",
+        "code": "AS73-24",
+        "ath": -0.10916353353476814,
+        "atv": 0.09036968191295877,
+        "duplicate": false,
+        "distance": 3,
+        "sameParity": false
+      },
+      {
+        "id": "fa0352b6-8c7c-430c-bd52-7587ffc888f7",
+        "code": "AS73-02",
+        "ath": -0.11560793079404902,
+        "atv": 0.08185970961252806,
+        "duplicate": false,
+        "distance": 19,
+        "sameParity": false
+      }
+    ],
+    "AS73-33": [
+      {
+        "id": "45e017fb-62ec-4980-8776-c333e4be6946",
+        "code": "AS73-24",
+        "ath": -0.10916353353476814,
+        "atv": 0.09036968191295877,
+        "duplicate": false,
+        "distance": 9,
+        "sameParity": false
+      },
+      {
+        "id": "bfd35553-e8c6-4edc-a870-25f3e33c33b7",
+        "code": "AS73-22",
+        "ath": -0.10957550917465406,
+        "atv": 0.0896242028484922,
+        "duplicate": false,
+        "distance": 11,
+        "sameParity": false
+      },
+      {
+        "id": "fa0352b6-8c7c-430c-bd52-7587ffc888f7",
+        "code": "AS73-02",
+        "ath": -0.11560793079404902,
+        "atv": 0.08185970961252806,
+        "duplicate": false,
+        "distance": 31,
+        "sameParity": false
+      }
+    ],
+    "AS73-35": [
+      {
+        "id": "45e017fb-62ec-4980-8776-c333e4be6946",
+        "code": "AS73-24",
+        "ath": -0.10916353353476814,
+        "atv": 0.09036968191295877,
+        "duplicate": false,
+        "distance": 11,
+        "sameParity": false
+      },
+      {
+        "id": "bfd35553-e8c6-4edc-a870-25f3e33c33b7",
+        "code": "AS73-22",
+        "ath": -0.10957550917465406,
+        "atv": 0.0896242028484922,
+        "duplicate": false,
+        "distance": 13,
+        "sameParity": false
+      },
+      {
+        "id": "fa0352b6-8c7c-430c-bd52-7587ffc888f7",
+        "code": "AS73-02",
+        "ath": -0.11560793079404902,
+        "atv": 0.08185970961252806,
+        "duplicate": false,
+        "distance": 33,
+        "sameParity": false
+      }
+    ],
+    "AS73-39": [
+      {
+        "id": "45e017fb-62ec-4980-8776-c333e4be6946",
+        "code": "AS73-24",
+        "ath": -0.10916353353476814,
+        "atv": 0.09036968191295877,
+        "duplicate": false,
+        "distance": 15,
+        "sameParity": false
+      },
+      {
+        "id": "bfd35553-e8c6-4edc-a870-25f3e33c33b7",
+        "code": "AS73-22",
+        "ath": -0.10957550917465406,
+        "atv": 0.0896242028484922,
+        "duplicate": false,
+        "distance": 17,
+        "sameParity": false
+      },
+      {
+        "id": "fa0352b6-8c7c-430c-bd52-7587ffc888f7",
+        "code": "AS73-02",
+        "ath": -0.11560793079404902,
+        "atv": 0.08185970961252806,
+        "duplicate": false,
+        "distance": 37,
+        "sameParity": false
+      }
+    ],
+    "AS73-41": [
+      {
+        "id": "45e017fb-62ec-4980-8776-c333e4be6946",
+        "code": "AS73-24",
+        "ath": -0.10916353353476814,
+        "atv": 0.09036968191295877,
+        "duplicate": false,
+        "distance": 17,
+        "sameParity": false
+      },
+      {
+        "id": "bfd35553-e8c6-4edc-a870-25f3e33c33b7",
+        "code": "AS73-22",
+        "ath": -0.10957550917465406,
+        "atv": 0.0896242028484922,
+        "duplicate": false,
+        "distance": 19,
+        "sameParity": false
+      },
+      {
+        "id": "fa0352b6-8c7c-430c-bd52-7587ffc888f7",
+        "code": "AS73-02",
+        "ath": -0.11560793079404902,
+        "atv": 0.08185970961252806,
+        "duplicate": false,
+        "distance": 39,
+        "sameParity": false
+      }
+    ],
+    "AS73-43": [
+      {
+        "id": "45e017fb-62ec-4980-8776-c333e4be6946",
+        "code": "AS73-24",
+        "ath": -0.10916353353476814,
+        "atv": 0.09036968191295877,
+        "duplicate": false,
+        "distance": 19,
+        "sameParity": false
+      },
+      {
+        "id": "bfd35553-e8c6-4edc-a870-25f3e33c33b7",
+        "code": "AS73-22",
+        "ath": -0.10957550917465406,
+        "atv": 0.0896242028484922,
+        "duplicate": false,
+        "distance": 21,
+        "sameParity": false
+      },
+      {
+        "id": "fa0352b6-8c7c-430c-bd52-7587ffc888f7",
+        "code": "AS73-02",
+        "ath": -0.11560793079404902,
+        "atv": 0.08185970961252806,
+        "duplicate": false,
+        "distance": 41,
+        "sameParity": false
+      }
+    ],
+    "AS73-45": [
+      {
+        "id": "45e017fb-62ec-4980-8776-c333e4be6946",
+        "code": "AS73-24",
+        "ath": -0.10916353353476814,
+        "atv": 0.09036968191295877,
+        "duplicate": false,
+        "distance": 21,
+        "sameParity": false
+      },
+      {
+        "id": "bfd35553-e8c6-4edc-a870-25f3e33c33b7",
+        "code": "AS73-22",
+        "ath": -0.10957550917465406,
+        "atv": 0.0896242028484922,
+        "duplicate": false,
+        "distance": 23,
+        "sameParity": false
+      },
+      {
+        "id": "fa0352b6-8c7c-430c-bd52-7587ffc888f7",
+        "code": "AS73-02",
+        "ath": -0.11560793079404902,
+        "atv": 0.08185970961252806,
+        "duplicate": false,
+        "distance": 43,
+        "sameParity": false
+      }
+    ],
+    "AS73-47": [
+      {
+        "id": "45e017fb-62ec-4980-8776-c333e4be6946",
+        "code": "AS73-24",
+        "ath": -0.10916353353476814,
+        "atv": 0.09036968191295877,
+        "duplicate": false,
+        "distance": 23,
+        "sameParity": false
+      },
+      {
+        "id": "bfd35553-e8c6-4edc-a870-25f3e33c33b7",
+        "code": "AS73-22",
+        "ath": -0.10957550917465406,
+        "atv": 0.0896242028484922,
+        "duplicate": false,
+        "distance": 25,
+        "sameParity": false
+      },
+      {
+        "id": "fa0352b6-8c7c-430c-bd52-7587ffc888f7",
+        "code": "AS73-02",
+        "ath": -0.11560793079404902,
+        "atv": 0.08185970961252806,
+        "duplicate": false,
+        "distance": 45,
+        "sameParity": false
+      }
+    ],
+    "AS73-53": [
+      {
+        "id": "45e017fb-62ec-4980-8776-c333e4be6946",
+        "code": "AS73-24",
+        "ath": -0.10916353353476814,
+        "atv": 0.09036968191295877,
+        "duplicate": false,
+        "distance": 29,
+        "sameParity": false
+      },
+      {
+        "id": "bfd35553-e8c6-4edc-a870-25f3e33c33b7",
+        "code": "AS73-22",
+        "ath": -0.10957550917465406,
+        "atv": 0.0896242028484922,
+        "duplicate": false,
+        "distance": 31,
+        "sameParity": false
+      },
+      {
+        "id": "fa0352b6-8c7c-430c-bd52-7587ffc888f7",
+        "code": "AS73-02",
+        "ath": -0.11560793079404902,
+        "atv": 0.08185970961252806,
+        "duplicate": false,
+        "distance": 51,
+        "sameParity": false
+      }
+    ],
+    "AS73-55": [
+      {
+        "id": "45e017fb-62ec-4980-8776-c333e4be6946",
+        "code": "AS73-24",
+        "ath": -0.10916353353476814,
+        "atv": 0.09036968191295877,
+        "duplicate": false,
+        "distance": 31,
+        "sameParity": false
+      },
+      {
+        "id": "bfd35553-e8c6-4edc-a870-25f3e33c33b7",
+        "code": "AS73-22",
+        "ath": -0.10957550917465406,
+        "atv": 0.0896242028484922,
+        "duplicate": false,
+        "distance": 33,
+        "sameParity": false
+      },
+      {
+        "id": "fa0352b6-8c7c-430c-bd52-7587ffc888f7",
+        "code": "AS73-02",
+        "ath": -0.11560793079404902,
+        "atv": 0.08185970961252806,
+        "duplicate": false,
+        "distance": 53,
+        "sameParity": false
+      }
+    ],
+    "AS74-09": [
+      {
+        "id": "b6f9f648-5f09-4139-abe1-6697162ef937",
+        "code": "AS74-10",
+        "ath": -0.11871721850135651,
+        "atv": 0.08779898502529926,
+        "duplicate": false,
+        "distance": 1,
+        "sameParity": false
+      },
+      {
+        "id": "ef6e6271-40d6-4fc7-9fdc-d079eacad269",
+        "code": "AS74-07",
+        "ath": -0.11704969768548742,
+        "atv": 0.08515057292180227,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "7dc49e7a-0f8e-4b9e-8fc1-424c058caeaf",
+        "code": "AS74-05",
+        "ath": -0.11728511234173834,
+        "atv": 0.0844247118002333,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "b9d1c35b-6932-4945-8501-8be7262396bc",
+        "code": "AS74-02",
+        "ath": -0.12077709673015176,
+        "atv": 0.08501324757886242,
+        "duplicate": false,
+        "distance": 7,
+        "sameParity": false
+      },
+      {
+        "id": "0d21eeeb-986b-4e9c-85d3-58e5566ce1fc",
+        "code": "AS74-22",
+        "ath": -0.11475440429692596,
+        "atv": 0.09264459846699874,
+        "duplicate": false,
+        "distance": 13,
+        "sameParity": false
+      }
+    ],
+    "AS74-11": [
+      {
+        "id": "b6f9f648-5f09-4139-abe1-6697162ef937",
+        "code": "AS74-10",
+        "ath": -0.11871721850135651,
+        "atv": 0.08779898502529926,
+        "duplicate": false,
+        "distance": 1,
+        "sameParity": false
+      },
+      {
+        "id": "ef6e6271-40d6-4fc7-9fdc-d079eacad269",
+        "code": "AS74-07",
+        "ath": -0.11704969768548742,
+        "atv": 0.08515057292180227,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "7dc49e7a-0f8e-4b9e-8fc1-424c058caeaf",
+        "code": "AS74-05",
+        "ath": -0.11728511234173834,
+        "atv": 0.0844247118002333,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "b9d1c35b-6932-4945-8501-8be7262396bc",
+        "code": "AS74-02",
+        "ath": -0.12077709673015176,
+        "atv": 0.08501324757886242,
+        "duplicate": false,
+        "distance": 9,
+        "sameParity": false
+      },
+      {
+        "id": "0d21eeeb-986b-4e9c-85d3-58e5566ce1fc",
+        "code": "AS74-22",
+        "ath": -0.11475440429692596,
+        "atv": 0.09264459846699874,
+        "duplicate": false,
+        "distance": 11,
+        "sameParity": false
+      }
+    ],
+    "AS74-13": [
+      {
+        "id": "b6f9f648-5f09-4139-abe1-6697162ef937",
+        "code": "AS74-10",
+        "ath": -0.11871721850135651,
+        "atv": 0.08779898502529926,
+        "duplicate": false,
+        "distance": 3,
+        "sameParity": false
+      },
+      {
+        "id": "ef6e6271-40d6-4fc7-9fdc-d079eacad269",
+        "code": "AS74-07",
+        "ath": -0.11704969768548742,
+        "atv": 0.08515057292180227,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "7dc49e7a-0f8e-4b9e-8fc1-424c058caeaf",
+        "code": "AS74-05",
+        "ath": -0.11728511234173834,
+        "atv": 0.0844247118002333,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      },
+      {
+        "id": "0d21eeeb-986b-4e9c-85d3-58e5566ce1fc",
+        "code": "AS74-22",
+        "ath": -0.11475440429692596,
+        "atv": 0.09264459846699874,
+        "duplicate": false,
+        "distance": 9,
+        "sameParity": false
+      },
+      {
+        "id": "b9d1c35b-6932-4945-8501-8be7262396bc",
+        "code": "AS74-02",
+        "ath": -0.12077709673015176,
+        "atv": 0.08501324757886242,
+        "duplicate": false,
+        "distance": 11,
+        "sameParity": false
+      }
+    ],
+    "AS74-17": [
+      {
+        "id": "0d21eeeb-986b-4e9c-85d3-58e5566ce1fc",
+        "code": "AS74-22",
+        "ath": -0.11475440429692596,
+        "atv": 0.09264459846699874,
+        "duplicate": false,
+        "distance": 5,
+        "sameParity": false
+      },
+      {
+        "id": "b6f9f648-5f09-4139-abe1-6697162ef937",
+        "code": "AS74-10",
+        "ath": -0.11871721850135651,
+        "atv": 0.08779898502529926,
+        "duplicate": false,
+        "distance": 7,
+        "sameParity": false
+      },
+      {
+        "id": "ef6e6271-40d6-4fc7-9fdc-d079eacad269",
+        "code": "AS74-07",
+        "ath": -0.11704969768548742,
+        "atv": 0.08515057292180227,
+        "duplicate": false,
+        "distance": 10,
+        "sameParity": true
+      },
+      {
+        "id": "fc5de409-b750-44ac-b034-3a6eb0be8f0f",
+        "code": "AS74-28",
+        "ath": -0.11330460017483251,
+        "atv": 0.09447031731174647,
+        "duplicate": false,
+        "distance": 11,
+        "sameParity": false
+      },
+      {
+        "id": "7dc49e7a-0f8e-4b9e-8fc1-424c058caeaf",
+        "code": "AS74-05",
+        "ath": -0.11728511234173834,
+        "atv": 0.0844247118002333,
+        "duplicate": false,
+        "distance": 12,
+        "sameParity": true
+      }
+    ],
+    "AS74-19": [
+      {
+        "id": "0d21eeeb-986b-4e9c-85d3-58e5566ce1fc",
+        "code": "AS74-22",
+        "ath": -0.11475440429692596,
+        "atv": 0.09264459846699874,
+        "duplicate": false,
+        "distance": 3,
+        "sameParity": false
+      },
+      {
+        "id": "b6f9f648-5f09-4139-abe1-6697162ef937",
+        "code": "AS74-10",
+        "ath": -0.11871721850135651,
+        "atv": 0.08779898502529926,
+        "duplicate": false,
+        "distance": 9,
+        "sameParity": false
+      },
+      {
+        "id": "fc5de409-b750-44ac-b034-3a6eb0be8f0f",
+        "code": "AS74-28",
+        "ath": -0.11330460017483251,
+        "atv": 0.09447031731174647,
+        "duplicate": false,
+        "distance": 9,
+        "sameParity": false
+      },
+      {
+        "id": "4fbce3d5-a984-4395-87dc-0980c2af0618",
+        "code": "AS74-30",
+        "ath": -0.11280105663806111,
+        "atv": 0.0951629201300338,
+        "duplicate": false,
+        "distance": 11,
+        "sameParity": false
+      },
+      {
+        "id": "ef6e6271-40d6-4fc7-9fdc-d079eacad269",
+        "code": "AS74-07",
+        "ath": -0.11704969768548742,
+        "atv": 0.08515057292180227,
+        "duplicate": false,
+        "distance": 12,
+        "sameParity": true
+      }
+    ],
+    "AS74-24": [
+      {
+        "id": "0d21eeeb-986b-4e9c-85d3-58e5566ce1fc",
+        "code": "AS74-22",
+        "ath": -0.11475440429692596,
+        "atv": 0.09264459846699874,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "fc5de409-b750-44ac-b034-3a6eb0be8f0f",
+        "code": "AS74-28",
+        "ath": -0.11330460017483251,
+        "atv": 0.09447031731174647,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "4fbce3d5-a984-4395-87dc-0980c2af0618",
+        "code": "AS74-30",
+        "ath": -0.11280105663806111,
+        "atv": 0.0951629201300338,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "b6f9f648-5f09-4139-abe1-6697162ef937",
+        "code": "AS74-10",
+        "ath": -0.11871721850135651,
+        "atv": 0.08779898502529926,
+        "duplicate": false,
+        "distance": 14,
+        "sameParity": true
+      },
+      {
+        "id": "ef6e6271-40d6-4fc7-9fdc-d079eacad269",
+        "code": "AS74-07",
+        "ath": -0.11704969768548742,
+        "atv": 0.08515057292180227,
+        "duplicate": false,
+        "distance": 17,
+        "sameParity": false
+      }
+    ],
+    "AS74-25": [
+      {
+        "id": "0d21eeeb-986b-4e9c-85d3-58e5566ce1fc",
+        "code": "AS74-22",
+        "ath": -0.11475440429692596,
+        "atv": 0.09264459846699874,
+        "duplicate": false,
+        "distance": 3,
+        "sameParity": false
+      },
+      {
+        "id": "fc5de409-b750-44ac-b034-3a6eb0be8f0f",
+        "code": "AS74-28",
+        "ath": -0.11330460017483251,
+        "atv": 0.09447031731174647,
+        "duplicate": false,
+        "distance": 3,
+        "sameParity": false
+      },
+      {
+        "id": "4fbce3d5-a984-4395-87dc-0980c2af0618",
+        "code": "AS74-30",
+        "ath": -0.11280105663806111,
+        "atv": 0.0951629201300338,
+        "duplicate": false,
+        "distance": 5,
+        "sameParity": false
+      },
+      {
+        "id": "b6f9f648-5f09-4139-abe1-6697162ef937",
+        "code": "AS74-10",
+        "ath": -0.11871721850135651,
+        "atv": 0.08779898502529926,
+        "duplicate": false,
+        "distance": 15,
+        "sameParity": false
+      },
+      {
+        "id": "ef6e6271-40d6-4fc7-9fdc-d079eacad269",
+        "code": "AS74-07",
+        "ath": -0.11704969768548742,
+        "atv": 0.08515057292180227,
+        "duplicate": false,
+        "distance": 18,
+        "sameParity": true
+      }
+    ],
+    "AS74-26": [
+      {
+        "id": "fc5de409-b750-44ac-b034-3a6eb0be8f0f",
+        "code": "AS74-28",
+        "ath": -0.11330460017483251,
+        "atv": 0.09447031731174647,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "0d21eeeb-986b-4e9c-85d3-58e5566ce1fc",
+        "code": "AS74-22",
+        "ath": -0.11475440429692596,
+        "atv": 0.09264459846699874,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "4fbce3d5-a984-4395-87dc-0980c2af0618",
+        "code": "AS74-30",
+        "ath": -0.11280105663806111,
+        "atv": 0.0951629201300338,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "b6f9f648-5f09-4139-abe1-6697162ef937",
+        "code": "AS74-10",
+        "ath": -0.11871721850135651,
+        "atv": 0.08779898502529926,
+        "duplicate": false,
+        "distance": 16,
+        "sameParity": true
+      },
+      {
+        "id": "ef6e6271-40d6-4fc7-9fdc-d079eacad269",
+        "code": "AS74-07",
+        "ath": -0.11704969768548742,
+        "atv": 0.08515057292180227,
+        "duplicate": false,
+        "distance": 19,
+        "sameParity": false
+      }
+    ],
+    "AS74-27": [
+      {
+        "id": "fc5de409-b750-44ac-b034-3a6eb0be8f0f",
+        "code": "AS74-28",
+        "ath": -0.11330460017483251,
+        "atv": 0.09447031731174647,
+        "duplicate": false,
+        "distance": 1,
+        "sameParity": false
+      },
+      {
+        "id": "4fbce3d5-a984-4395-87dc-0980c2af0618",
+        "code": "AS74-30",
+        "ath": -0.11280105663806111,
+        "atv": 0.0951629201300338,
+        "duplicate": false,
+        "distance": 3,
+        "sameParity": false
+      },
+      {
+        "id": "0d21eeeb-986b-4e9c-85d3-58e5566ce1fc",
+        "code": "AS74-22",
+        "ath": -0.11475440429692596,
+        "atv": 0.09264459846699874,
+        "duplicate": false,
+        "distance": 5,
+        "sameParity": false
+      },
+      {
+        "id": "b6f9f648-5f09-4139-abe1-6697162ef937",
+        "code": "AS74-10",
+        "ath": -0.11871721850135651,
+        "atv": 0.08779898502529926,
+        "duplicate": false,
+        "distance": 17,
+        "sameParity": false
+      },
+      {
+        "id": "ef6e6271-40d6-4fc7-9fdc-d079eacad269",
+        "code": "AS74-07",
+        "ath": -0.11704969768548742,
+        "atv": 0.08515057292180227,
+        "duplicate": false,
+        "distance": 20,
+        "sameParity": true
+      }
+    ],
+    "AS74-29": [
+      {
+        "id": "fc5de409-b750-44ac-b034-3a6eb0be8f0f",
+        "code": "AS74-28",
+        "ath": -0.11330460017483251,
+        "atv": 0.09447031731174647,
+        "duplicate": false,
+        "distance": 1,
+        "sameParity": false
+      },
+      {
+        "id": "4fbce3d5-a984-4395-87dc-0980c2af0618",
+        "code": "AS74-30",
+        "ath": -0.11280105663806111,
+        "atv": 0.0951629201300338,
+        "duplicate": false,
+        "distance": 1,
+        "sameParity": false
+      },
+      {
+        "id": "0d21eeeb-986b-4e9c-85d3-58e5566ce1fc",
+        "code": "AS74-22",
+        "ath": -0.11475440429692596,
+        "atv": 0.09264459846699874,
+        "duplicate": false,
+        "distance": 7,
+        "sameParity": false
+      },
+      {
+        "id": "b6f9f648-5f09-4139-abe1-6697162ef937",
+        "code": "AS74-10",
+        "ath": -0.11871721850135651,
+        "atv": 0.08779898502529926,
+        "duplicate": false,
+        "distance": 19,
+        "sameParity": false
+      },
+      {
+        "id": "ef6e6271-40d6-4fc7-9fdc-d079eacad269",
+        "code": "AS74-07",
+        "ath": -0.11704969768548742,
+        "atv": 0.08515057292180227,
+        "duplicate": false,
+        "distance": 22,
+        "sameParity": true
+      }
+    ],
+    "AS75-02": [
+      {
+        "id": "6bb47b1b-27b6-4819-be91-ff0766499e4d",
+        "code": "AS75-01",
+        "ath": -0.12321859036517993,
+        "atv": 0.08677158534323838,
+        "duplicate": false,
+        "distance": 1,
+        "sameParity": false
+      },
+      {
+        "id": "af04ba4f-404a-4aba-99d2-f9496491c5a8",
+        "code": "AS75-03",
+        "ath": -0.12264651931728933,
+        "atv": 0.08753627530956161,
+        "duplicate": false,
+        "distance": 1,
+        "sameParity": false
+      },
+      {
+        "id": "d0998b78-b4c0-42b1-8191-e1ee42cb7c2d",
+        "code": "AS75-05",
+        "ath": -0.12215607204161906,
+        "atv": 0.08826213653339322,
+        "duplicate": false,
+        "distance": 3,
+        "sameParity": false
+      },
+      {
+        "id": "f8957945-baac-492d-9f90-22025418540a",
+        "code": "AS75-07",
+        "ath": -0.1216067710633633,
+        "atv": 0.0889683798853577,
+        "duplicate": false,
+        "distance": 5,
+        "sameParity": false
+      },
+      {
+        "id": "62889288-8acb-4f75-874b-b0522176fb88",
+        "code": "AS75-18",
+        "ath": -0.1207239659958051,
+        "atv": 0.0948341230763954,
+        "duplicate": false,
+        "distance": 16,
+        "sameParity": true
+      }
+    ],
+    "AS75-13": [
+      {
+        "id": "62889288-8acb-4f75-874b-b0522176fb88",
+        "code": "AS75-18",
+        "ath": -0.1207239659958051,
+        "atv": 0.0948341230763954,
+        "duplicate": false,
+        "distance": 5,
+        "sameParity": false
+      },
+      {
+        "id": "f8957945-baac-492d-9f90-22025418540a",
+        "code": "AS75-07",
+        "ath": -0.1216067710633633,
+        "atv": 0.0889683798853577,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "d0998b78-b4c0-42b1-8191-e1ee42cb7c2d",
+        "code": "AS75-05",
+        "ath": -0.12215607204161906,
+        "atv": 0.08826213653339322,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      },
+      {
+        "id": "af04ba4f-404a-4aba-99d2-f9496491c5a8",
+        "code": "AS75-03",
+        "ath": -0.12264651931728933,
+        "atv": 0.08753627530956161,
+        "duplicate": false,
+        "distance": 10,
+        "sameParity": true
+      },
+      {
+        "id": "6bb47b1b-27b6-4819-be91-ff0766499e4d",
+        "code": "AS75-01",
+        "ath": -0.12321859036517993,
+        "atv": 0.08677158534323838,
+        "duplicate": false,
+        "distance": 12,
+        "sameParity": true
+      }
+    ],
+    "AS75-17": [
+      {
+        "id": "62889288-8acb-4f75-874b-b0522176fb88",
+        "code": "AS75-18",
+        "ath": -0.1207239659958051,
+        "atv": 0.0948341230763954,
+        "duplicate": false,
+        "distance": 1,
+        "sameParity": false
+      },
+      {
+        "id": "f8957945-baac-492d-9f90-22025418540a",
+        "code": "AS75-07",
+        "ath": -0.1216067710633633,
+        "atv": 0.0889683798853577,
+        "duplicate": false,
+        "distance": 10,
+        "sameParity": true
+      },
+      {
+        "id": "d0998b78-b4c0-42b1-8191-e1ee42cb7c2d",
+        "code": "AS75-05",
+        "ath": -0.12215607204161906,
+        "atv": 0.08826213653339322,
+        "duplicate": false,
+        "distance": 12,
+        "sameParity": true
+      },
+      {
+        "id": "af04ba4f-404a-4aba-99d2-f9496491c5a8",
+        "code": "AS75-03",
+        "ath": -0.12264651931728933,
+        "atv": 0.08753627530956161,
+        "duplicate": false,
+        "distance": 14,
+        "sameParity": true
+      },
+      {
+        "id": "6bb47b1b-27b6-4819-be91-ff0766499e4d",
+        "code": "AS75-01",
+        "ath": -0.12321859036517993,
+        "atv": 0.08677158534323838,
+        "duplicate": false,
+        "distance": 16,
+        "sameParity": true
+      }
+    ],
+    "AS75-19": [
+      {
+        "id": "62889288-8acb-4f75-874b-b0522176fb88",
+        "code": "AS75-18",
+        "ath": -0.1207239659958051,
+        "atv": 0.0948341230763954,
+        "duplicate": false,
+        "distance": 1,
+        "sameParity": false
+      },
+      {
+        "id": "f8957945-baac-492d-9f90-22025418540a",
+        "code": "AS75-07",
+        "ath": -0.1216067710633633,
+        "atv": 0.0889683798853577,
+        "duplicate": false,
+        "distance": 12,
+        "sameParity": true
+      },
+      {
+        "id": "d0998b78-b4c0-42b1-8191-e1ee42cb7c2d",
+        "code": "AS75-05",
+        "ath": -0.12215607204161906,
+        "atv": 0.08826213653339322,
+        "duplicate": false,
+        "distance": 14,
+        "sameParity": true
+      },
+      {
+        "id": "af04ba4f-404a-4aba-99d2-f9496491c5a8",
+        "code": "AS75-03",
+        "ath": -0.12264651931728933,
+        "atv": 0.08753627530956161,
+        "duplicate": false,
+        "distance": 16,
+        "sameParity": true
+      },
+      {
+        "id": "6bb47b1b-27b6-4819-be91-ff0766499e4d",
+        "code": "AS75-01",
+        "ath": -0.12321859036517993,
+        "atv": 0.08677158534323838,
+        "duplicate": false,
+        "distance": 18,
+        "sameParity": true
+      }
+    ],
+    "AS75-23": [
+      {
+        "id": "62889288-8acb-4f75-874b-b0522176fb88",
+        "code": "AS75-18",
+        "ath": -0.1207239659958051,
+        "atv": 0.0948341230763954,
+        "duplicate": false,
+        "distance": 5,
+        "sameParity": false
+      },
+      {
+        "id": "f8957945-baac-492d-9f90-22025418540a",
+        "code": "AS75-07",
+        "ath": -0.1216067710633633,
+        "atv": 0.0889683798853577,
+        "duplicate": false,
+        "distance": 16,
+        "sameParity": true
+      },
+      {
+        "id": "d0998b78-b4c0-42b1-8191-e1ee42cb7c2d",
+        "code": "AS75-05",
+        "ath": -0.12215607204161906,
+        "atv": 0.08826213653339322,
+        "duplicate": false,
+        "distance": 18,
+        "sameParity": true
+      },
+      {
+        "id": "af04ba4f-404a-4aba-99d2-f9496491c5a8",
+        "code": "AS75-03",
+        "ath": -0.12264651931728933,
+        "atv": 0.08753627530956161,
+        "duplicate": false,
+        "distance": 20,
+        "sameParity": true
+      },
+      {
+        "id": "6bb47b1b-27b6-4819-be91-ff0766499e4d",
+        "code": "AS75-01",
+        "ath": -0.12321859036517993,
+        "atv": 0.08677158534323838,
+        "duplicate": false,
+        "distance": 22,
+        "sameParity": true
+      }
+    ],
+    "AS75-25": [
+      {
+        "id": "62889288-8acb-4f75-874b-b0522176fb88",
+        "code": "AS75-18",
+        "ath": -0.1207239659958051,
+        "atv": 0.0948341230763954,
+        "duplicate": false,
+        "distance": 7,
+        "sameParity": false
+      },
+      {
+        "id": "f8957945-baac-492d-9f90-22025418540a",
+        "code": "AS75-07",
+        "ath": -0.1216067710633633,
+        "atv": 0.0889683798853577,
+        "duplicate": false,
+        "distance": 18,
+        "sameParity": true
+      },
+      {
+        "id": "d0998b78-b4c0-42b1-8191-e1ee42cb7c2d",
+        "code": "AS75-05",
+        "ath": -0.12215607204161906,
+        "atv": 0.08826213653339322,
+        "duplicate": false,
+        "distance": 20,
+        "sameParity": true
+      },
+      {
+        "id": "af04ba4f-404a-4aba-99d2-f9496491c5a8",
+        "code": "AS75-03",
+        "ath": -0.12264651931728933,
+        "atv": 0.08753627530956161,
+        "duplicate": false,
+        "distance": 22,
+        "sameParity": true
+      },
+      {
+        "id": "6bb47b1b-27b6-4819-be91-ff0766499e4d",
+        "code": "AS75-01",
+        "ath": -0.12321859036517993,
+        "atv": 0.08677158534323838,
+        "duplicate": false,
+        "distance": 24,
+        "sameParity": true
+      }
+    ],
+    "AS75-29": [
+      {
+        "id": "62889288-8acb-4f75-874b-b0522176fb88",
+        "code": "AS75-18",
+        "ath": -0.1207239659958051,
+        "atv": 0.0948341230763954,
+        "duplicate": false,
+        "distance": 11,
+        "sameParity": false
+      },
+      {
+        "id": "f8957945-baac-492d-9f90-22025418540a",
+        "code": "AS75-07",
+        "ath": -0.1216067710633633,
+        "atv": 0.0889683798853577,
+        "duplicate": false,
+        "distance": 22,
+        "sameParity": true
+      },
+      {
+        "id": "d0998b78-b4c0-42b1-8191-e1ee42cb7c2d",
+        "code": "AS75-05",
+        "ath": -0.12215607204161906,
+        "atv": 0.08826213653339322,
+        "duplicate": false,
+        "distance": 24,
+        "sameParity": true
+      },
+      {
+        "id": "af04ba4f-404a-4aba-99d2-f9496491c5a8",
+        "code": "AS75-03",
+        "ath": -0.12264651931728933,
+        "atv": 0.08753627530956161,
+        "duplicate": false,
+        "distance": 26,
+        "sameParity": true
+      },
+      {
+        "id": "6bb47b1b-27b6-4819-be91-ff0766499e4d",
+        "code": "AS75-01",
+        "ath": -0.12321859036517993,
+        "atv": 0.08677158534323838,
+        "duplicate": false,
+        "distance": 28,
+        "sameParity": true
+      }
+    ],
+    "AS76-09": [
+      {
+        "id": "2b39f7ec-0f4b-4df2-aab5-1f81ce79a9f5",
+        "code": "AS76-10",
+        "ath": -0.12841891694711421,
+        "atv": 0.09514128433368997,
+        "duplicate": false,
+        "distance": 1,
+        "sameParity": false
+      },
+      {
+        "id": "ce0c5cc5-f08c-40fd-99a8-4f197628a2b1",
+        "code": "AS76-07",
+        "ath": -0.12600450608603128,
+        "atv": 0.0922077560701637,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "f37fd534-954f-43e1-8996-ee85ee65e040",
+        "code": "AS76-06",
+        "ath": -0.12939981150945387,
+        "atv": 0.093826887020397,
+        "duplicate": false,
+        "distance": 3,
+        "sameParity": false
+      },
+      {
+        "id": "e54bb127-1604-4183-be06-8f8785aac39c",
+        "code": "AS76-03",
+        "ath": -0.1275949649181779,
+        "atv": 0.0912373286517005,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "c1ed1c05-7655-4cc9-a9fd-e7d70cd62df3",
+        "code": "AS76-15",
+        "ath": -0.12361826511596777,
+        "atv": 0.09544027406126275,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      }
+    ],
+    "AS76-11": [
+      {
+        "id": "2b39f7ec-0f4b-4df2-aab5-1f81ce79a9f5",
+        "code": "AS76-10",
+        "ath": -0.12841891694711421,
+        "atv": 0.09514128433368997,
+        "duplicate": false,
+        "distance": 1,
+        "sameParity": false
+      },
+      {
+        "id": "ce0c5cc5-f08c-40fd-99a8-4f197628a2b1",
+        "code": "AS76-07",
+        "ath": -0.12600450608603128,
+        "atv": 0.0922077560701637,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "c1ed1c05-7655-4cc9-a9fd-e7d70cd62df3",
+        "code": "AS76-15",
+        "ath": -0.12361826511596777,
+        "atv": 0.09544027406126275,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "f37fd534-954f-43e1-8996-ee85ee65e040",
+        "code": "AS76-06",
+        "ath": -0.12939981150945387,
+        "atv": 0.093826887020397,
+        "duplicate": false,
+        "distance": 5,
+        "sameParity": false
+      },
+      {
+        "id": "9930beec-86a1-4c58-9fda-304b1ec13bce",
+        "code": "AS76-18",
+        "ath": -0.12561355806224567,
+        "atv": 0.09865288300860778,
+        "duplicate": false,
+        "distance": 7,
+        "sameParity": false
+      }
+    ],
+    "AS76-13": [
+      {
+        "id": "c1ed1c05-7655-4cc9-a9fd-e7d70cd62df3",
+        "code": "AS76-15",
+        "ath": -0.12361826511596777,
+        "atv": 0.09544027406126275,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "2b39f7ec-0f4b-4df2-aab5-1f81ce79a9f5",
+        "code": "AS76-10",
+        "ath": -0.12841891694711421,
+        "atv": 0.09514128433368997,
+        "duplicate": false,
+        "distance": 3,
+        "sameParity": false
+      },
+      {
+        "id": "9930beec-86a1-4c58-9fda-304b1ec13bce",
+        "code": "AS76-18",
+        "ath": -0.12561355806224567,
+        "atv": 0.09865288300860778,
+        "duplicate": false,
+        "distance": 5,
+        "sameParity": false
+      },
+      {
+        "id": "ce0c5cc5-f08c-40fd-99a8-4f197628a2b1",
+        "code": "AS76-07",
+        "ath": -0.12600450608603128,
+        "atv": 0.0922077560701637,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "f37fd534-954f-43e1-8996-ee85ee65e040",
+        "code": "AS76-06",
+        "ath": -0.12939981150945387,
+        "atv": 0.093826887020397,
+        "duplicate": false,
+        "distance": 7,
+        "sameParity": false
+      }
+    ],
+    "AS77-09": [
+      {
+        "id": "118fa553-0cfe-423e-b0b3-fea49c20c2f6",
+        "code": "AS77-12",
+        "ath": -0.13253865342302731,
+        "atv": 0.09945531012624902,
+        "duplicate": false,
+        "distance": 3,
+        "sameParity": false
+      },
+      {
+        "id": "304a8360-c889-4738-974d-7561908d9750",
+        "code": "AS77-05",
+        "ath": -0.131793172837768,
+        "atv": 0.09541402951076083,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "d0689581-00a4-49a4-9ec3-f5599ec674dc",
+        "code": "AS77-01",
+        "ath": -0.132695595819415,
+        "atv": 0.09402116081188333,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      },
+      {
+        "id": "32603467-69c1-429e-8b42-f3fbe2c8d1ff",
+        "code": "AS77-18",
+        "ath": -0.13045915648340983,
+        "atv": 0.10229990114918021,
+        "duplicate": false,
+        "distance": 9,
+        "sameParity": false
+      },
+      {
+        "id": "ad2e0e4f-2c02-44a5-aa69-fe5c586714a2",
+        "code": "AS77-20",
+        "ath": -0.12985100164262378,
+        "atv": 0.10302576229017459,
+        "duplicate": false,
+        "distance": 11,
+        "sameParity": false
+      }
+    ],
+    "AS77-11": [
+      {
+        "id": "118fa553-0cfe-423e-b0b3-fea49c20c2f6",
+        "code": "AS77-12",
+        "ath": -0.13253865342302731,
+        "atv": 0.09945531012624902,
+        "duplicate": false,
+        "distance": 1,
+        "sameParity": false
+      },
+      {
+        "id": "304a8360-c889-4738-974d-7561908d9750",
+        "code": "AS77-05",
+        "ath": -0.131793172837768,
+        "atv": 0.09541402951076083,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "32603467-69c1-429e-8b42-f3fbe2c8d1ff",
+        "code": "AS77-18",
+        "ath": -0.13045915648340983,
+        "atv": 0.10229990114918021,
+        "duplicate": false,
+        "distance": 7,
+        "sameParity": false
+      },
+      {
+        "id": "ad2e0e4f-2c02-44a5-aa69-fe5c586714a2",
+        "code": "AS77-20",
+        "ath": -0.12985100164262378,
+        "atv": 0.10302576229017459,
+        "duplicate": false,
+        "distance": 9,
+        "sameParity": false
+      },
+      {
+        "id": "d0689581-00a4-49a4-9ec3-f5599ec674dc",
+        "code": "AS77-01",
+        "ath": -0.132695595819415,
+        "atv": 0.09402116081188333,
+        "duplicate": false,
+        "distance": 10,
+        "sameParity": true
+      }
+    ],
+    "AS77-13": [
+      {
+        "id": "118fa553-0cfe-423e-b0b3-fea49c20c2f6",
+        "code": "AS77-12",
+        "ath": -0.13253865342302731,
+        "atv": 0.09945531012624902,
+        "duplicate": false,
+        "distance": 1,
+        "sameParity": false
+      },
+      {
+        "id": "32603467-69c1-429e-8b42-f3fbe2c8d1ff",
+        "code": "AS77-18",
+        "ath": -0.13045915648340983,
+        "atv": 0.10229990114918021,
+        "duplicate": false,
+        "distance": 5,
+        "sameParity": false
+      },
+      {
+        "id": "ad2e0e4f-2c02-44a5-aa69-fe5c586714a2",
+        "code": "AS77-20",
+        "ath": -0.12985100164262378,
+        "atv": 0.10302576229017459,
+        "duplicate": false,
+        "distance": 7,
+        "sameParity": false
+      },
+      {
+        "id": "304a8360-c889-4738-974d-7561908d9750",
+        "code": "AS77-05",
+        "ath": -0.131793172837768,
+        "atv": 0.09541402951076083,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      },
+      {
+        "id": "928bd42e-0dc3-4b76-b1a8-ed1f374bcb86",
+        "code": "AS77-24",
+        "ath": -0.1287720171815499,
+        "atv": 0.10434015945938425,
+        "duplicate": false,
+        "distance": 11,
+        "sameParity": false
+      }
+    ],
+    "AS77-17": [
+      {
+        "id": "32603467-69c1-429e-8b42-f3fbe2c8d1ff",
+        "code": "AS77-18",
+        "ath": -0.13045915648340983,
+        "atv": 0.10229990114918021,
+        "duplicate": false,
+        "distance": 1,
+        "sameParity": false
+      },
+      {
+        "id": "ad2e0e4f-2c02-44a5-aa69-fe5c586714a2",
+        "code": "AS77-20",
+        "ath": -0.12985100164262378,
+        "atv": 0.10302576229017459,
+        "duplicate": false,
+        "distance": 3,
+        "sameParity": false
+      },
+      {
+        "id": "118fa553-0cfe-423e-b0b3-fea49c20c2f6",
+        "code": "AS77-12",
+        "ath": -0.13253865342302731,
+        "atv": 0.09945531012624902,
+        "duplicate": false,
+        "distance": 5,
+        "sameParity": false
+      },
+      {
+        "id": "928bd42e-0dc3-4b76-b1a8-ed1f374bcb86",
+        "code": "AS77-24",
+        "ath": -0.1287720171815499,
+        "atv": 0.10434015945938425,
+        "duplicate": false,
+        "distance": 7,
+        "sameParity": false
+      },
+      {
+        "id": "304a8360-c889-4738-974d-7561908d9750",
+        "code": "AS77-05",
+        "ath": -0.131793172837768,
+        "atv": 0.09541402951076083,
+        "duplicate": false,
+        "distance": 12,
+        "sameParity": true
+      }
+    ],
+    "AS77-28": [
+      {
+        "id": "928bd42e-0dc3-4b76-b1a8-ed1f374bcb86",
+        "code": "AS77-24",
+        "ath": -0.1287720171815499,
+        "atv": 0.10434015945938425,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "ad2e0e4f-2c02-44a5-aa69-fe5c586714a2",
+        "code": "AS77-20",
+        "ath": -0.12985100164262378,
+        "atv": 0.10302576229017459,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      },
+      {
+        "id": "afe0c960-b099-4c7b-9715-32bd4b8ea5df",
+        "code": "AS77-36",
+        "ath": -0.12505948928345587,
+        "atv": 0.10928387252892,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      },
+      {
+        "id": "32603467-69c1-429e-8b42-f3fbe2c8d1ff",
+        "code": "AS77-18",
+        "ath": -0.13045915648340983,
+        "atv": 0.10229990114918021,
+        "duplicate": false,
+        "distance": 10,
+        "sameParity": true
+      },
+      {
+        "id": "118fa553-0cfe-423e-b0b3-fea49c20c2f6",
+        "code": "AS77-12",
+        "ath": -0.13253865342302731,
+        "atv": 0.09945531012624902,
+        "duplicate": false,
+        "distance": 16,
+        "sameParity": true
+      }
+    ],
+    "AS77-34": [
+      {
+        "id": "afe0c960-b099-4c7b-9715-32bd4b8ea5df",
+        "code": "AS77-36",
+        "ath": -0.12505948928345587,
+        "atv": 0.10928387252892,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "928bd42e-0dc3-4b76-b1a8-ed1f374bcb86",
+        "code": "AS77-24",
+        "ath": -0.1287720171815499,
+        "atv": 0.10434015945938425,
+        "duplicate": false,
+        "distance": 10,
+        "sameParity": true
+      },
+      {
+        "id": "ad2e0e4f-2c02-44a5-aa69-fe5c586714a2",
+        "code": "AS77-20",
+        "ath": -0.12985100164262378,
+        "atv": 0.10302576229017459,
+        "duplicate": false,
+        "distance": 14,
+        "sameParity": true
+      },
+      {
+        "id": "32603467-69c1-429e-8b42-f3fbe2c8d1ff",
+        "code": "AS77-18",
+        "ath": -0.13045915648340983,
+        "atv": 0.10229990114918021,
+        "duplicate": false,
+        "distance": 16,
+        "sameParity": true
+      },
+      {
+        "id": "118fa553-0cfe-423e-b0b3-fea49c20c2f6",
+        "code": "AS77-12",
+        "ath": -0.13253865342302731,
+        "atv": 0.09945531012624902,
+        "duplicate": false,
+        "distance": 22,
+        "sameParity": true
+      }
+    ],
+    "AS77-44": [
+      {
+        "id": "afe0c960-b099-4c7b-9715-32bd4b8ea5df",
+        "code": "AS77-36",
+        "ath": -0.12505948928345587,
+        "atv": 0.10928387252892,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      },
+      {
+        "id": "928bd42e-0dc3-4b76-b1a8-ed1f374bcb86",
+        "code": "AS77-24",
+        "ath": -0.1287720171815499,
+        "atv": 0.10434015945938425,
+        "duplicate": false,
+        "distance": 20,
+        "sameParity": true
+      },
+      {
+        "id": "ad2e0e4f-2c02-44a5-aa69-fe5c586714a2",
+        "code": "AS77-20",
+        "ath": -0.12985100164262378,
+        "atv": 0.10302576229017459,
+        "duplicate": false,
+        "distance": 24,
+        "sameParity": true
+      },
+      {
+        "id": "32603467-69c1-429e-8b42-f3fbe2c8d1ff",
+        "code": "AS77-18",
+        "ath": -0.13045915648340983,
+        "atv": 0.10229990114918021,
+        "duplicate": false,
+        "distance": 26,
+        "sameParity": true
+      },
+      {
+        "id": "118fa553-0cfe-423e-b0b3-fea49c20c2f6",
+        "code": "AS77-12",
+        "ath": -0.13253865342302731,
+        "atv": 0.09945531012624902,
+        "duplicate": false,
+        "distance": 32,
+        "sameParity": true
+      }
+    ],
+    "AS77-50": [
+      {
+        "id": "afe0c960-b099-4c7b-9715-32bd4b8ea5df",
+        "code": "AS77-36",
+        "ath": -0.12505948928345587,
+        "atv": 0.10928387252892,
+        "duplicate": false,
+        "distance": 14,
+        "sameParity": true
+      },
+      {
+        "id": "928bd42e-0dc3-4b76-b1a8-ed1f374bcb86",
+        "code": "AS77-24",
+        "ath": -0.1287720171815499,
+        "atv": 0.10434015945938425,
+        "duplicate": false,
+        "distance": 26,
+        "sameParity": true
+      },
+      {
+        "id": "ad2e0e4f-2c02-44a5-aa69-fe5c586714a2",
+        "code": "AS77-20",
+        "ath": -0.12985100164262378,
+        "atv": 0.10302576229017459,
+        "duplicate": false,
+        "distance": 30,
+        "sameParity": true
+      },
+      {
+        "id": "32603467-69c1-429e-8b42-f3fbe2c8d1ff",
+        "code": "AS77-18",
+        "ath": -0.13045915648340983,
+        "atv": 0.10229990114918021,
+        "duplicate": false,
+        "distance": 32,
+        "sameParity": true
+      },
+      {
+        "id": "118fa553-0cfe-423e-b0b3-fea49c20c2f6",
+        "code": "AS77-12",
+        "ath": -0.13253865342302731,
+        "atv": 0.09945531012624902,
+        "duplicate": false,
+        "distance": 38,
+        "sameParity": true
+      }
+    ],
+    "AS77-54": [
+      {
+        "id": "afe0c960-b099-4c7b-9715-32bd4b8ea5df",
+        "code": "AS77-36",
+        "ath": -0.12505948928345587,
+        "atv": 0.10928387252892,
+        "duplicate": false,
+        "distance": 18,
+        "sameParity": true
+      },
+      {
+        "id": "928bd42e-0dc3-4b76-b1a8-ed1f374bcb86",
+        "code": "AS77-24",
+        "ath": -0.1287720171815499,
+        "atv": 0.10434015945938425,
+        "duplicate": false,
+        "distance": 30,
+        "sameParity": true
+      },
+      {
+        "id": "ad2e0e4f-2c02-44a5-aa69-fe5c586714a2",
+        "code": "AS77-20",
+        "ath": -0.12985100164262378,
+        "atv": 0.10302576229017459,
+        "duplicate": false,
+        "distance": 34,
+        "sameParity": true
+      },
+      {
+        "id": "32603467-69c1-429e-8b42-f3fbe2c8d1ff",
+        "code": "AS77-18",
+        "ath": -0.13045915648340983,
+        "atv": 0.10229990114918021,
+        "duplicate": false,
+        "distance": 36,
+        "sameParity": true
+      },
+      {
+        "id": "118fa553-0cfe-423e-b0b3-fea49c20c2f6",
+        "code": "AS77-12",
+        "ath": -0.13253865342302731,
+        "atv": 0.09945531012624902,
+        "duplicate": false,
+        "distance": 42,
+        "sameParity": true
+      }
+    ],
+    "AS77-58": [
+      {
+        "id": "afe0c960-b099-4c7b-9715-32bd4b8ea5df",
+        "code": "AS77-36",
+        "ath": -0.12505948928345587,
+        "atv": 0.10928387252892,
+        "duplicate": false,
+        "distance": 22,
+        "sameParity": true
+      },
+      {
+        "id": "928bd42e-0dc3-4b76-b1a8-ed1f374bcb86",
+        "code": "AS77-24",
+        "ath": -0.1287720171815499,
+        "atv": 0.10434015945938425,
+        "duplicate": false,
+        "distance": 34,
+        "sameParity": true
+      },
+      {
+        "id": "ad2e0e4f-2c02-44a5-aa69-fe5c586714a2",
+        "code": "AS77-20",
+        "ath": -0.12985100164262378,
+        "atv": 0.10302576229017459,
+        "duplicate": false,
+        "distance": 38,
+        "sameParity": true
+      },
+      {
+        "id": "32603467-69c1-429e-8b42-f3fbe2c8d1ff",
+        "code": "AS77-18",
+        "ath": -0.13045915648340983,
+        "atv": 0.10229990114918021,
+        "duplicate": false,
+        "distance": 40,
+        "sameParity": true
+      },
+      {
+        "id": "118fa553-0cfe-423e-b0b3-fea49c20c2f6",
+        "code": "AS77-12",
+        "ath": -0.13253865342302731,
+        "atv": 0.09945531012624902,
+        "duplicate": false,
+        "distance": 46,
+        "sameParity": true
+      }
+    ],
+    "AS79-05": [
+      {
+        "id": "989ac20e-c868-400a-80fa-5bd4703d7b7c",
+        "code": "AS79-01",
+        "ath": -0.13746069833173186,
+        "atv": 0.09757886288645122,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "d0454f8d-8738-4a01-ab4b-6b4ef3eb162f",
+        "code": "AS79-18",
+        "ath": -0.1351261698555529,
+        "atv": 0.10609301780060909,
+        "duplicate": false,
+        "distance": 13,
+        "sameParity": false
+      },
+      {
+        "id": "9735bb5c-0455-4a7b-bb72-1488184779eb",
+        "code": "AS79-34",
+        "ath": -0.13029863353619134,
+        "atv": 0.11235111809594313,
+        "duplicate": false,
+        "distance": 29,
+        "sameParity": false
+      },
+      {
+        "id": "3a301db7-eacf-46ba-8014-e028efc42b1f",
+        "code": "AS79-46",
+        "ath": -0.1264976586596173,
+        "atv": 0.11721633711767367,
+        "duplicate": false,
+        "distance": 41,
+        "sameParity": false
+      }
+    ],
+    "AS79-07": [
+      {
+        "id": "989ac20e-c868-400a-80fa-5bd4703d7b7c",
+        "code": "AS79-01",
+        "ath": -0.13746069833173186,
+        "atv": 0.09757886288645122,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "d0454f8d-8738-4a01-ab4b-6b4ef3eb162f",
+        "code": "AS79-18",
+        "ath": -0.1351261698555529,
+        "atv": 0.10609301780060909,
+        "duplicate": false,
+        "distance": 11,
+        "sameParity": false
+      },
+      {
+        "id": "9735bb5c-0455-4a7b-bb72-1488184779eb",
+        "code": "AS79-34",
+        "ath": -0.13029863353619134,
+        "atv": 0.11235111809594313,
+        "duplicate": false,
+        "distance": 27,
+        "sameParity": false
+      },
+      {
+        "id": "3a301db7-eacf-46ba-8014-e028efc42b1f",
+        "code": "AS79-46",
+        "ath": -0.1264976586596173,
+        "atv": 0.11721633711767367,
+        "duplicate": false,
+        "distance": 39,
+        "sameParity": false
+      }
+    ],
+    "AS79-13": [
+      {
+        "id": "d0454f8d-8738-4a01-ab4b-6b4ef3eb162f",
+        "code": "AS79-18",
+        "ath": -0.1351261698555529,
+        "atv": 0.10609301780060909,
+        "duplicate": false,
+        "distance": 5,
+        "sameParity": false
+      },
+      {
+        "id": "989ac20e-c868-400a-80fa-5bd4703d7b7c",
+        "code": "AS79-01",
+        "ath": -0.13746069833173186,
+        "atv": 0.09757886288645122,
+        "duplicate": false,
+        "distance": 12,
+        "sameParity": true
+      },
+      {
+        "id": "9735bb5c-0455-4a7b-bb72-1488184779eb",
+        "code": "AS79-34",
+        "ath": -0.13029863353619134,
+        "atv": 0.11235111809594313,
+        "duplicate": false,
+        "distance": 21,
+        "sameParity": false
+      },
+      {
+        "id": "3a301db7-eacf-46ba-8014-e028efc42b1f",
+        "code": "AS79-46",
+        "ath": -0.1264976586596173,
+        "atv": 0.11721633711767367,
+        "duplicate": false,
+        "distance": 33,
+        "sameParity": false
+      }
+    ],
+    "AS79-20": [
+      {
+        "id": "d0454f8d-8738-4a01-ab4b-6b4ef3eb162f",
+        "code": "AS79-18",
+        "ath": -0.1351261698555529,
+        "atv": 0.10609301780060909,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "9735bb5c-0455-4a7b-bb72-1488184779eb",
+        "code": "AS79-34",
+        "ath": -0.13029863353619134,
+        "atv": 0.11235111809594313,
+        "duplicate": false,
+        "distance": 14,
+        "sameParity": true
+      },
+      {
+        "id": "989ac20e-c868-400a-80fa-5bd4703d7b7c",
+        "code": "AS79-01",
+        "ath": -0.13746069833173186,
+        "atv": 0.09757886288645122,
+        "duplicate": false,
+        "distance": 19,
+        "sameParity": false
+      },
+      {
+        "id": "3a301db7-eacf-46ba-8014-e028efc42b1f",
+        "code": "AS79-46",
+        "ath": -0.1264976586596173,
+        "atv": 0.11721633711767367,
+        "duplicate": false,
+        "distance": 26,
+        "sameParity": true
+      }
+    ],
+    "AS79-24": [
+      {
+        "id": "d0454f8d-8738-4a01-ab4b-6b4ef3eb162f",
+        "code": "AS79-18",
+        "ath": -0.1351261698555529,
+        "atv": 0.10609301780060909,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "9735bb5c-0455-4a7b-bb72-1488184779eb",
+        "code": "AS79-34",
+        "ath": -0.13029863353619134,
+        "atv": 0.11235111809594313,
+        "duplicate": false,
+        "distance": 10,
+        "sameParity": true
+      },
+      {
+        "id": "3a301db7-eacf-46ba-8014-e028efc42b1f",
+        "code": "AS79-46",
+        "ath": -0.1264976586596173,
+        "atv": 0.11721633711767367,
+        "duplicate": false,
+        "distance": 22,
+        "sameParity": true
+      },
+      {
+        "id": "989ac20e-c868-400a-80fa-5bd4703d7b7c",
+        "code": "AS79-01",
+        "ath": -0.13746069833173186,
+        "atv": 0.09757886288645122,
+        "duplicate": false,
+        "distance": 23,
+        "sameParity": false
+      }
+    ],
+    "AS79-26": [
+      {
+        "id": "d0454f8d-8738-4a01-ab4b-6b4ef3eb162f",
+        "code": "AS79-18",
+        "ath": -0.1351261698555529,
+        "atv": 0.10609301780060909,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      },
+      {
+        "id": "9735bb5c-0455-4a7b-bb72-1488184779eb",
+        "code": "AS79-34",
+        "ath": -0.13029863353619134,
+        "atv": 0.11235111809594313,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      },
+      {
+        "id": "3a301db7-eacf-46ba-8014-e028efc42b1f",
+        "code": "AS79-46",
+        "ath": -0.1264976586596173,
+        "atv": 0.11721633711767367,
+        "duplicate": false,
+        "distance": 20,
+        "sameParity": true
+      },
+      {
+        "id": "989ac20e-c868-400a-80fa-5bd4703d7b7c",
+        "code": "AS79-01",
+        "ath": -0.13746069833173186,
+        "atv": 0.09757886288645122,
+        "duplicate": false,
+        "distance": 25,
+        "sameParity": false
+      }
+    ],
+    "AS79-31": [
+      {
+        "id": "9735bb5c-0455-4a7b-bb72-1488184779eb",
+        "code": "AS79-34",
+        "ath": -0.13029863353619134,
+        "atv": 0.11235111809594313,
+        "duplicate": false,
+        "distance": 3,
+        "sameParity": false
+      },
+      {
+        "id": "d0454f8d-8738-4a01-ab4b-6b4ef3eb162f",
+        "code": "AS79-18",
+        "ath": -0.1351261698555529,
+        "atv": 0.10609301780060909,
+        "duplicate": false,
+        "distance": 13,
+        "sameParity": false
+      },
+      {
+        "id": "3a301db7-eacf-46ba-8014-e028efc42b1f",
+        "code": "AS79-46",
+        "ath": -0.1264976586596173,
+        "atv": 0.11721633711767367,
+        "duplicate": false,
+        "distance": 15,
+        "sameParity": false
+      },
+      {
+        "id": "989ac20e-c868-400a-80fa-5bd4703d7b7c",
+        "code": "AS79-01",
+        "ath": -0.13746069833173186,
+        "atv": 0.09757886288645122,
+        "duplicate": false,
+        "distance": 30,
+        "sameParity": true
+      }
+    ],
+    "AS79-32": [
+      {
+        "id": "9735bb5c-0455-4a7b-bb72-1488184779eb",
+        "code": "AS79-34",
+        "ath": -0.13029863353619134,
+        "atv": 0.11235111809594313,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "d0454f8d-8738-4a01-ab4b-6b4ef3eb162f",
+        "code": "AS79-18",
+        "ath": -0.1351261698555529,
+        "atv": 0.10609301780060909,
+        "duplicate": false,
+        "distance": 14,
+        "sameParity": true
+      },
+      {
+        "id": "3a301db7-eacf-46ba-8014-e028efc42b1f",
+        "code": "AS79-46",
+        "ath": -0.1264976586596173,
+        "atv": 0.11721633711767367,
+        "duplicate": false,
+        "distance": 14,
+        "sameParity": true
+      },
+      {
+        "id": "989ac20e-c868-400a-80fa-5bd4703d7b7c",
+        "code": "AS79-01",
+        "ath": -0.13746069833173186,
+        "atv": 0.09757886288645122,
+        "duplicate": false,
+        "distance": 31,
+        "sameParity": false
+      }
+    ],
+    "AS79-39": [
+      {
+        "id": "9735bb5c-0455-4a7b-bb72-1488184779eb",
+        "code": "AS79-34",
+        "ath": -0.13029863353619134,
+        "atv": 0.11235111809594313,
+        "duplicate": false,
+        "distance": 5,
+        "sameParity": false
+      },
+      {
+        "id": "3a301db7-eacf-46ba-8014-e028efc42b1f",
+        "code": "AS79-46",
+        "ath": -0.1264976586596173,
+        "atv": 0.11721633711767367,
+        "duplicate": false,
+        "distance": 7,
+        "sameParity": false
+      },
+      {
+        "id": "d0454f8d-8738-4a01-ab4b-6b4ef3eb162f",
+        "code": "AS79-18",
+        "ath": -0.1351261698555529,
+        "atv": 0.10609301780060909,
+        "duplicate": false,
+        "distance": 21,
+        "sameParity": false
+      },
+      {
+        "id": "989ac20e-c868-400a-80fa-5bd4703d7b7c",
+        "code": "AS79-01",
+        "ath": -0.13746069833173186,
+        "atv": 0.09757886288645122,
+        "duplicate": false,
+        "distance": 38,
+        "sameParity": true
+      }
+    ],
+    "AS80-01": [
+      {
+        "id": "095159d2-5d03-453b-90bf-5e41efe87e8a",
+        "code": "AS80-22",
+        "ath": -0.13907160307231045,
+        "atv": 0.11079759778540053,
+        "duplicate": false,
+        "distance": 21,
+        "sameParity": false
+      },
+      {
+        "id": "9375774e-ee2a-411a-80e6-bbd041fcc706",
+        "code": "AS80-32",
+        "ath": -0.13571724943465363,
+        "atv": 0.11530971745622628,
+        "duplicate": false,
+        "distance": 31,
+        "sameParity": false
+      },
+      {
+        "id": "271e8f9c-bd30-42e1-a250-741b25812cb0",
+        "code": "AS80-42",
+        "ath": -0.13290651355634822,
+        "atv": 0.11878207735887433,
+        "duplicate": false,
+        "distance": 41,
+        "sameParity": false
+      }
+    ],
+    "AS80-05": [
+      {
+        "id": "095159d2-5d03-453b-90bf-5e41efe87e8a",
+        "code": "AS80-22",
+        "ath": -0.13907160307231045,
+        "atv": 0.11079759778540053,
+        "duplicate": false,
+        "distance": 17,
+        "sameParity": false
+      },
+      {
+        "id": "9375774e-ee2a-411a-80e6-bbd041fcc706",
+        "code": "AS80-32",
+        "ath": -0.13571724943465363,
+        "atv": 0.11530971745622628,
+        "duplicate": false,
+        "distance": 27,
+        "sameParity": false
+      },
+      {
+        "id": "271e8f9c-bd30-42e1-a250-741b25812cb0",
+        "code": "AS80-42",
+        "ath": -0.13290651355634822,
+        "atv": 0.11878207735887433,
+        "duplicate": false,
+        "distance": 37,
+        "sameParity": false
+      }
+    ],
+    "AS80-07": [
+      {
+        "id": "095159d2-5d03-453b-90bf-5e41efe87e8a",
+        "code": "AS80-22",
+        "ath": -0.13907160307231045,
+        "atv": 0.11079759778540053,
+        "duplicate": false,
+        "distance": 15,
+        "sameParity": false
+      },
+      {
+        "id": "9375774e-ee2a-411a-80e6-bbd041fcc706",
+        "code": "AS80-32",
+        "ath": -0.13571724943465363,
+        "atv": 0.11530971745622628,
+        "duplicate": false,
+        "distance": 25,
+        "sameParity": false
+      },
+      {
+        "id": "271e8f9c-bd30-42e1-a250-741b25812cb0",
+        "code": "AS80-42",
+        "ath": -0.13290651355634822,
+        "atv": 0.11878207735887433,
+        "duplicate": false,
+        "distance": 35,
+        "sameParity": false
+      }
+    ],
+    "AS80-11": [
+      {
+        "id": "095159d2-5d03-453b-90bf-5e41efe87e8a",
+        "code": "AS80-22",
+        "ath": -0.13907160307231045,
+        "atv": 0.11079759778540053,
+        "duplicate": false,
+        "distance": 11,
+        "sameParity": false
+      },
+      {
+        "id": "9375774e-ee2a-411a-80e6-bbd041fcc706",
+        "code": "AS80-32",
+        "ath": -0.13571724943465363,
+        "atv": 0.11530971745622628,
+        "duplicate": false,
+        "distance": 21,
+        "sameParity": false
+      },
+      {
+        "id": "271e8f9c-bd30-42e1-a250-741b25812cb0",
+        "code": "AS80-42",
+        "ath": -0.13290651355634822,
+        "atv": 0.11878207735887433,
+        "duplicate": false,
+        "distance": 31,
+        "sameParity": false
+      }
+    ],
+    "AS80-36": [
+      {
+        "id": "9375774e-ee2a-411a-80e6-bbd041fcc706",
+        "code": "AS80-32",
+        "ath": -0.13571724943465363,
+        "atv": 0.11530971745622628,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "271e8f9c-bd30-42e1-a250-741b25812cb0",
+        "code": "AS80-42",
+        "ath": -0.13290651355634822,
+        "atv": 0.11878207735887433,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "095159d2-5d03-453b-90bf-5e41efe87e8a",
+        "code": "AS80-22",
+        "ath": -0.13907160307231045,
+        "atv": 0.11079759778540053,
+        "duplicate": false,
+        "distance": 14,
+        "sameParity": true
+      }
+    ],
+    "AS81-01": [
+      {
+        "id": "b403cd83-19a6-4f03-97ce-7c6d12266e69",
+        "code": "AS81-07",
+        "ath": -0.1452478501002994,
+        "atv": 0.10795707436081486,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "d7f43548-23a7-4290-b2c4-ba5802bba3f5",
+        "code": "AS81-14",
+        "ath": -0.1461698921094224,
+        "atv": 0.11303810220796254,
+        "duplicate": false,
+        "distance": 13,
+        "sameParity": false
+      },
+      {
+        "id": "922cf645-296c-45a0-9a22-2dff8e9d9691",
+        "code": "AS81-17",
+        "ath": -0.1419716602781096,
+        "atv": 0.11223376980125946,
+        "duplicate": false,
+        "distance": 16,
+        "sameParity": true
+      },
+      {
+        "id": "bff455db-e4ab-4a20-a378-99c76ac62b11",
+        "code": "AS81-40",
+        "ath": -0.13853148031468687,
+        "atv": 0.1231413029302588,
+        "duplicate": false,
+        "distance": 39,
+        "sameParity": false
+      }
+    ],
+    "AS82-07": [
+      {
+        "id": "4b12e862-697a-4691-81a8-40547dceaffc",
+        "code": "AS82-10",
+        "ath": -0.15320541797643744,
+        "atv": 0.11413235466768874,
+        "duplicate": false,
+        "distance": 3,
+        "sameParity": false
+      },
+      {
+        "id": "90e44c2c-e0ca-41b9-8137-461d3cdfccec",
+        "code": "AS82-03",
+        "ath": -0.15212804036217015,
+        "atv": 0.11028918245181626,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "9deab324-e4b2-462d-88d2-213728580685",
+        "code": "AS82-12",
+        "ath": -0.1526747698431019,
+        "atv": 0.11474340313703581,
+        "duplicate": false,
+        "distance": 5,
+        "sameParity": false
+      },
+      {
+        "id": "42ad43bd-a42f-43dd-b1d0-32782ac7b240",
+        "code": "AS82-22",
+        "ath": -0.14931399783022983,
+        "atv": 0.11898858168187272,
+        "duplicate": false,
+        "distance": 15,
+        "sameParity": false
+      },
+      {
+        "id": "be0dbc3a-fcbf-4254-8f21-334efeaeac6d",
+        "code": "AS82-24",
+        "ath": -0.14876584385426114,
+        "atv": 0.11975305979980512,
+        "duplicate": false,
+        "distance": 17,
+        "sameParity": false
+      }
+    ],
+    "AS82-14": [
+      {
+        "id": "9deab324-e4b2-462d-88d2-213728580685",
+        "code": "AS82-12",
+        "ath": -0.1526747698431019,
+        "atv": 0.11474340313703581,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "4b12e862-697a-4691-81a8-40547dceaffc",
+        "code": "AS82-10",
+        "ath": -0.15320541797643744,
+        "atv": 0.11413235466768874,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "42ad43bd-a42f-43dd-b1d0-32782ac7b240",
+        "code": "AS82-22",
+        "ath": -0.14931399783022983,
+        "atv": 0.11898858168187272,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      },
+      {
+        "id": "be0dbc3a-fcbf-4254-8f21-334efeaeac6d",
+        "code": "AS82-24",
+        "ath": -0.14876584385426114,
+        "atv": 0.11975305979980512,
+        "duplicate": false,
+        "distance": 10,
+        "sameParity": true
+      },
+      {
+        "id": "90e44c2c-e0ca-41b9-8137-461d3cdfccec",
+        "code": "AS82-03",
+        "ath": -0.15212804036217015,
+        "atv": 0.11028918245181626,
+        "duplicate": false,
+        "distance": 11,
+        "sameParity": false
+      }
+    ],
+    "AS82-18": [
+      {
+        "id": "42ad43bd-a42f-43dd-b1d0-32782ac7b240",
+        "code": "AS82-22",
+        "ath": -0.14931399783022983,
+        "atv": 0.11898858168187272,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "9deab324-e4b2-462d-88d2-213728580685",
+        "code": "AS82-12",
+        "ath": -0.1526747698431019,
+        "atv": 0.11474340313703581,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "be0dbc3a-fcbf-4254-8f21-334efeaeac6d",
+        "code": "AS82-24",
+        "ath": -0.14876584385426114,
+        "atv": 0.11975305979980512,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "4b12e862-697a-4691-81a8-40547dceaffc",
+        "code": "AS82-10",
+        "ath": -0.15320541797643744,
+        "atv": 0.11413235466768874,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      },
+      {
+        "id": "90e44c2c-e0ca-41b9-8137-461d3cdfccec",
+        "code": "AS82-03",
+        "ath": -0.15212804036217015,
+        "atv": 0.11028918245181626,
+        "duplicate": false,
+        "distance": 15,
+        "sameParity": false
+      }
+    ],
+    "AS82-30": [
+      {
+        "id": "be0dbc3a-fcbf-4254-8f21-334efeaeac6d",
+        "code": "AS82-24",
+        "ath": -0.14876584385426114,
+        "atv": 0.11975305979980512,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "42ad43bd-a42f-43dd-b1d0-32782ac7b240",
+        "code": "AS82-22",
+        "ath": -0.14931399783022983,
+        "atv": 0.11898858168187272,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      },
+      {
+        "id": "4d341f0b-f30b-4d6f-a163-ee415a470f5b",
+        "code": "AS82-40",
+        "ath": -0.14398336572616652,
+        "atv": 0.12597610871494117,
+        "duplicate": false,
+        "distance": 10,
+        "sameParity": true
+      },
+      {
+        "id": "9deab324-e4b2-462d-88d2-213728580685",
+        "code": "AS82-12",
+        "ath": -0.1526747698431019,
+        "atv": 0.11474340313703581,
+        "duplicate": false,
+        "distance": 18,
+        "sameParity": true
+      },
+      {
+        "id": "4b12e862-697a-4691-81a8-40547dceaffc",
+        "code": "AS82-10",
+        "ath": -0.15320541797643744,
+        "atv": 0.11413235466768874,
+        "duplicate": false,
+        "distance": 20,
+        "sameParity": true
+      }
+    ],
+    "AS82-32": [
+      {
+        "id": "be0dbc3a-fcbf-4254-8f21-334efeaeac6d",
+        "code": "AS82-24",
+        "ath": -0.14876584385426114,
+        "atv": 0.11975305979980512,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      },
+      {
+        "id": "4d341f0b-f30b-4d6f-a163-ee415a470f5b",
+        "code": "AS82-40",
+        "ath": -0.14398336572616652,
+        "atv": 0.12597610871494117,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      },
+      {
+        "id": "42ad43bd-a42f-43dd-b1d0-32782ac7b240",
+        "code": "AS82-22",
+        "ath": -0.14931399783022983,
+        "atv": 0.11898858168187272,
+        "duplicate": false,
+        "distance": 10,
+        "sameParity": true
+      },
+      {
+        "id": "9deab324-e4b2-462d-88d2-213728580685",
+        "code": "AS82-12",
+        "ath": -0.1526747698431019,
+        "atv": 0.11474340313703581,
+        "duplicate": false,
+        "distance": 20,
+        "sameParity": true
+      },
+      {
+        "id": "4b12e862-697a-4691-81a8-40547dceaffc",
+        "code": "AS82-10",
+        "ath": -0.15320541797643744,
+        "atv": 0.11413235466768874,
+        "duplicate": false,
+        "distance": 22,
+        "sameParity": true
+      }
+    ],
+    "AS82-34": [
+      {
+        "id": "4d341f0b-f30b-4d6f-a163-ee415a470f5b",
+        "code": "AS82-40",
+        "ath": -0.14398336572616652,
+        "atv": 0.12597610871494117,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "be0dbc3a-fcbf-4254-8f21-334efeaeac6d",
+        "code": "AS82-24",
+        "ath": -0.14876584385426114,
+        "atv": 0.11975305979980512,
+        "duplicate": false,
+        "distance": 10,
+        "sameParity": true
+      },
+      {
+        "id": "42ad43bd-a42f-43dd-b1d0-32782ac7b240",
+        "code": "AS82-22",
+        "ath": -0.14931399783022983,
+        "atv": 0.11898858168187272,
+        "duplicate": false,
+        "distance": 12,
+        "sameParity": true
+      },
+      {
+        "id": "9deab324-e4b2-462d-88d2-213728580685",
+        "code": "AS82-12",
+        "ath": -0.1526747698431019,
+        "atv": 0.11474340313703581,
+        "duplicate": false,
+        "distance": 22,
+        "sameParity": true
+      },
+      {
+        "id": "25be2888-e80c-4cf6-8622-bb703a1d5d13",
+        "code": "AS82-57",
+        "ath": -0.13643958366329623,
+        "atv": 0.13112178600148475,
+        "duplicate": false,
+        "distance": 23,
+        "sameParity": false
+      }
+    ],
+    "AS82-36": [
+      {
+        "id": "4d341f0b-f30b-4d6f-a163-ee415a470f5b",
+        "code": "AS82-40",
+        "ath": -0.14398336572616652,
+        "atv": 0.12597610871494117,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "be0dbc3a-fcbf-4254-8f21-334efeaeac6d",
+        "code": "AS82-24",
+        "ath": -0.14876584385426114,
+        "atv": 0.11975305979980512,
+        "duplicate": false,
+        "distance": 12,
+        "sameParity": true
+      },
+      {
+        "id": "42ad43bd-a42f-43dd-b1d0-32782ac7b240",
+        "code": "AS82-22",
+        "ath": -0.14931399783022983,
+        "atv": 0.11898858168187272,
+        "duplicate": false,
+        "distance": 14,
+        "sameParity": true
+      },
+      {
+        "id": "25be2888-e80c-4cf6-8622-bb703a1d5d13",
+        "code": "AS82-57",
+        "ath": -0.13643958366329623,
+        "atv": 0.13112178600148475,
+        "duplicate": false,
+        "distance": 21,
+        "sameParity": false
+      },
+      {
+        "id": "9deab324-e4b2-462d-88d2-213728580685",
+        "code": "AS82-12",
+        "ath": -0.1526747698431019,
+        "atv": 0.11474340313703581,
+        "duplicate": false,
+        "distance": 24,
+        "sameParity": true
+      }
+    ],
+    "AS82-44": [
+      {
+        "id": "4d341f0b-f30b-4d6f-a163-ee415a470f5b",
+        "code": "AS82-40",
+        "ath": -0.14398336572616652,
+        "atv": 0.12597610871494117,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "25be2888-e80c-4cf6-8622-bb703a1d5d13",
+        "code": "AS82-57",
+        "ath": -0.13643958366329623,
+        "atv": 0.13112178600148475,
+        "duplicate": false,
+        "distance": 13,
+        "sameParity": false
+      },
+      {
+        "id": "be0dbc3a-fcbf-4254-8f21-334efeaeac6d",
+        "code": "AS82-24",
+        "ath": -0.14876584385426114,
+        "atv": 0.11975305979980512,
+        "duplicate": false,
+        "distance": 20,
+        "sameParity": true
+      },
+      {
+        "id": "42ad43bd-a42f-43dd-b1d0-32782ac7b240",
+        "code": "AS82-22",
+        "ath": -0.14931399783022983,
+        "atv": 0.11898858168187272,
+        "duplicate": false,
+        "distance": 22,
+        "sameParity": true
+      },
+      {
+        "id": "9deab324-e4b2-462d-88d2-213728580685",
+        "code": "AS82-12",
+        "ath": -0.1526747698431019,
+        "atv": 0.11474340313703581,
+        "duplicate": false,
+        "distance": 32,
+        "sameParity": true
+      }
+    ],
+    "AS82-45": [
+      {
+        "id": "4d341f0b-f30b-4d6f-a163-ee415a470f5b",
+        "code": "AS82-40",
+        "ath": -0.14398336572616652,
+        "atv": 0.12597610871494117,
+        "duplicate": false,
+        "distance": 5,
+        "sameParity": false
+      },
+      {
+        "id": "25be2888-e80c-4cf6-8622-bb703a1d5d13",
+        "code": "AS82-57",
+        "ath": -0.13643958366329623,
+        "atv": 0.13112178600148475,
+        "duplicate": false,
+        "distance": 12,
+        "sameParity": true
+      },
+      {
+        "id": "be0dbc3a-fcbf-4254-8f21-334efeaeac6d",
+        "code": "AS82-24",
+        "ath": -0.14876584385426114,
+        "atv": 0.11975305979980512,
+        "duplicate": false,
+        "distance": 21,
+        "sameParity": false
+      },
+      {
+        "id": "42ad43bd-a42f-43dd-b1d0-32782ac7b240",
+        "code": "AS82-22",
+        "ath": -0.14931399783022983,
+        "atv": 0.11898858168187272,
+        "duplicate": false,
+        "distance": 23,
+        "sameParity": false
+      },
+      {
+        "id": "9deab324-e4b2-462d-88d2-213728580685",
+        "code": "AS82-12",
+        "ath": -0.1526747698431019,
+        "atv": 0.11474340313703581,
+        "duplicate": false,
+        "distance": 33,
+        "sameParity": false
+      }
+    ],
+    "AS82-46": [
+      {
+        "id": "4d341f0b-f30b-4d6f-a163-ee415a470f5b",
+        "code": "AS82-40",
+        "ath": -0.14398336572616652,
+        "atv": 0.12597610871494117,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "25be2888-e80c-4cf6-8622-bb703a1d5d13",
+        "code": "AS82-57",
+        "ath": -0.13643958366329623,
+        "atv": 0.13112178600148475,
+        "duplicate": false,
+        "distance": 11,
+        "sameParity": false
+      },
+      {
+        "id": "be0dbc3a-fcbf-4254-8f21-334efeaeac6d",
+        "code": "AS82-24",
+        "ath": -0.14876584385426114,
+        "atv": 0.11975305979980512,
+        "duplicate": false,
+        "distance": 22,
+        "sameParity": true
+      },
+      {
+        "id": "42ad43bd-a42f-43dd-b1d0-32782ac7b240",
+        "code": "AS82-22",
+        "ath": -0.14931399783022983,
+        "atv": 0.11898858168187272,
+        "duplicate": false,
+        "distance": 24,
+        "sameParity": true
+      },
+      {
+        "id": "9deab324-e4b2-462d-88d2-213728580685",
+        "code": "AS82-12",
+        "ath": -0.1526747698431019,
+        "atv": 0.11474340313703581,
+        "duplicate": false,
+        "distance": 34,
+        "sameParity": true
+      }
+    ],
+    "AS82-48": [
+      {
+        "id": "4d341f0b-f30b-4d6f-a163-ee415a470f5b",
+        "code": "AS82-40",
+        "ath": -0.14398336572616652,
+        "atv": 0.12597610871494117,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      },
+      {
+        "id": "25be2888-e80c-4cf6-8622-bb703a1d5d13",
+        "code": "AS82-57",
+        "ath": -0.13643958366329623,
+        "atv": 0.13112178600148475,
+        "duplicate": false,
+        "distance": 9,
+        "sameParity": false
+      },
+      {
+        "id": "be0dbc3a-fcbf-4254-8f21-334efeaeac6d",
+        "code": "AS82-24",
+        "ath": -0.14876584385426114,
+        "atv": 0.11975305979980512,
+        "duplicate": false,
+        "distance": 24,
+        "sameParity": true
+      },
+      {
+        "id": "42ad43bd-a42f-43dd-b1d0-32782ac7b240",
+        "code": "AS82-22",
+        "ath": -0.14931399783022983,
+        "atv": 0.11898858168187272,
+        "duplicate": false,
+        "distance": 26,
+        "sameParity": true
+      },
+      {
+        "id": "9deab324-e4b2-462d-88d2-213728580685",
+        "code": "AS82-12",
+        "ath": -0.1526747698431019,
+        "atv": 0.11474340313703581,
+        "duplicate": false,
+        "distance": 36,
+        "sameParity": true
+      }
+    ],
+    "AS82-50": [
+      {
+        "id": "25be2888-e80c-4cf6-8622-bb703a1d5d13",
+        "code": "AS82-57",
+        "ath": -0.13643958366329623,
+        "atv": 0.13112178600148475,
+        "duplicate": false,
+        "distance": 7,
+        "sameParity": false
+      },
+      {
+        "id": "4d341f0b-f30b-4d6f-a163-ee415a470f5b",
+        "code": "AS82-40",
+        "ath": -0.14398336572616652,
+        "atv": 0.12597610871494117,
+        "duplicate": false,
+        "distance": 10,
+        "sameParity": true
+      },
+      {
+        "id": "be0dbc3a-fcbf-4254-8f21-334efeaeac6d",
+        "code": "AS82-24",
+        "ath": -0.14876584385426114,
+        "atv": 0.11975305979980512,
+        "duplicate": false,
+        "distance": 26,
+        "sameParity": true
+      },
+      {
+        "id": "42ad43bd-a42f-43dd-b1d0-32782ac7b240",
+        "code": "AS82-22",
+        "ath": -0.14931399783022983,
+        "atv": 0.11898858168187272,
+        "duplicate": false,
+        "distance": 28,
+        "sameParity": true
+      },
+      {
+        "id": "9deab324-e4b2-462d-88d2-213728580685",
+        "code": "AS82-12",
+        "ath": -0.1526747698431019,
+        "atv": 0.11474340313703581,
+        "duplicate": false,
+        "distance": 38,
+        "sameParity": true
+      }
+    ],
+    "AS83-18": [
+      {
+        "id": "b7cefdbf-74b9-4f20-8913-083e74f50bb5",
+        "code": "AS83-15",
+        "ath": -0.1535023029888485,
+        "atv": 0.11852887048314036,
+        "duplicate": false,
+        "distance": 3,
+        "sameParity": false
+      },
+      {
+        "id": "3d2b1fb8-d133-4c8e-b881-5175ad2a3854",
+        "code": "AS83-34",
+        "ath": -0.15035008748645545,
+        "atv": 0.1276463678800307,
+        "duplicate": false,
+        "distance": 16,
+        "sameParity": true
+      },
+      {
+        "id": "ebfc24fc-3a7d-443b-8cf8-0d6974a57c59",
+        "code": "AS83-01",
+        "ath": -0.15758668646575757,
+        "atv": 0.11291687382059726,
+        "duplicate": false,
+        "distance": 17,
+        "sameParity": false
+      },
+      {
+        "id": "15d5739e-699d-462f-9d8b-f81d85a296ae",
+        "code": "AS83-54",
+        "ath": -0.14446898783216455,
+        "atv": 0.13520407011668248,
+        "duplicate": false,
+        "distance": 36,
+        "sameParity": true
+      }
+    ],
+    "AS83-20": [
+      {
+        "id": "b7cefdbf-74b9-4f20-8913-083e74f50bb5",
+        "code": "AS83-15",
+        "ath": -0.1535023029888485,
+        "atv": 0.11852887048314036,
+        "duplicate": false,
+        "distance": 5,
+        "sameParity": false
+      },
+      {
+        "id": "3d2b1fb8-d133-4c8e-b881-5175ad2a3854",
+        "code": "AS83-34",
+        "ath": -0.15035008748645545,
+        "atv": 0.1276463678800307,
+        "duplicate": false,
+        "distance": 14,
+        "sameParity": true
+      },
+      {
+        "id": "ebfc24fc-3a7d-443b-8cf8-0d6974a57c59",
+        "code": "AS83-01",
+        "ath": -0.15758668646575757,
+        "atv": 0.11291687382059726,
+        "duplicate": false,
+        "distance": 19,
+        "sameParity": false
+      },
+      {
+        "id": "15d5739e-699d-462f-9d8b-f81d85a296ae",
+        "code": "AS83-54",
+        "ath": -0.14446898783216455,
+        "atv": 0.13520407011668248,
+        "duplicate": false,
+        "distance": 34,
+        "sameParity": true
+      }
+    ],
+    "AS83-22": [
+      {
+        "id": "b7cefdbf-74b9-4f20-8913-083e74f50bb5",
+        "code": "AS83-15",
+        "ath": -0.1535023029888485,
+        "atv": 0.11852887048314036,
+        "duplicate": false,
+        "distance": 7,
+        "sameParity": false
+      },
+      {
+        "id": "3d2b1fb8-d133-4c8e-b881-5175ad2a3854",
+        "code": "AS83-34",
+        "ath": -0.15035008748645545,
+        "atv": 0.1276463678800307,
+        "duplicate": false,
+        "distance": 12,
+        "sameParity": true
+      },
+      {
+        "id": "ebfc24fc-3a7d-443b-8cf8-0d6974a57c59",
+        "code": "AS83-01",
+        "ath": -0.15758668646575757,
+        "atv": 0.11291687382059726,
+        "duplicate": false,
+        "distance": 21,
+        "sameParity": false
+      },
+      {
+        "id": "15d5739e-699d-462f-9d8b-f81d85a296ae",
+        "code": "AS83-54",
+        "ath": -0.14446898783216455,
+        "atv": 0.13520407011668248,
+        "duplicate": false,
+        "distance": 32,
+        "sameParity": true
+      }
+    ],
+    "AS83-28": [
+      {
+        "id": "3d2b1fb8-d133-4c8e-b881-5175ad2a3854",
+        "code": "AS83-34",
+        "ath": -0.15035008748645545,
+        "atv": 0.1276463678800307,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "b7cefdbf-74b9-4f20-8913-083e74f50bb5",
+        "code": "AS83-15",
+        "ath": -0.1535023029888485,
+        "atv": 0.11852887048314036,
+        "duplicate": false,
+        "distance": 13,
+        "sameParity": false
+      },
+      {
+        "id": "15d5739e-699d-462f-9d8b-f81d85a296ae",
+        "code": "AS83-54",
+        "ath": -0.14446898783216455,
+        "atv": 0.13520407011668248,
+        "duplicate": false,
+        "distance": 26,
+        "sameParity": true
+      },
+      {
+        "id": "ebfc24fc-3a7d-443b-8cf8-0d6974a57c59",
+        "code": "AS83-01",
+        "ath": -0.15758668646575757,
+        "atv": 0.11291687382059726,
+        "duplicate": false,
+        "distance": 27,
+        "sameParity": false
+      }
+    ],
+    "AS83-32": [
+      {
+        "id": "3d2b1fb8-d133-4c8e-b881-5175ad2a3854",
+        "code": "AS83-34",
+        "ath": -0.15035008748645545,
+        "atv": 0.1276463678800307,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "b7cefdbf-74b9-4f20-8913-083e74f50bb5",
+        "code": "AS83-15",
+        "ath": -0.1535023029888485,
+        "atv": 0.11852887048314036,
+        "duplicate": false,
+        "distance": 17,
+        "sameParity": false
+      },
+      {
+        "id": "15d5739e-699d-462f-9d8b-f81d85a296ae",
+        "code": "AS83-54",
+        "ath": -0.14446898783216455,
+        "atv": 0.13520407011668248,
+        "duplicate": false,
+        "distance": 22,
+        "sameParity": true
+      },
+      {
+        "id": "ebfc24fc-3a7d-443b-8cf8-0d6974a57c59",
+        "code": "AS83-01",
+        "ath": -0.15758668646575757,
+        "atv": 0.11291687382059726,
+        "duplicate": false,
+        "distance": 31,
+        "sameParity": false
+      }
+    ],
+    "AS83-36": [
+      {
+        "id": "3d2b1fb8-d133-4c8e-b881-5175ad2a3854",
+        "code": "AS83-34",
+        "ath": -0.15035008748645545,
+        "atv": 0.1276463678800307,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "15d5739e-699d-462f-9d8b-f81d85a296ae",
+        "code": "AS83-54",
+        "ath": -0.14446898783216455,
+        "atv": 0.13520407011668248,
+        "duplicate": false,
+        "distance": 18,
+        "sameParity": true
+      },
+      {
+        "id": "b7cefdbf-74b9-4f20-8913-083e74f50bb5",
+        "code": "AS83-15",
+        "ath": -0.1535023029888485,
+        "atv": 0.11852887048314036,
+        "duplicate": false,
+        "distance": 21,
+        "sameParity": false
+      },
+      {
+        "id": "ebfc24fc-3a7d-443b-8cf8-0d6974a57c59",
+        "code": "AS83-01",
+        "ath": -0.15758668646575757,
+        "atv": 0.11291687382059726,
+        "duplicate": false,
+        "distance": 35,
+        "sameParity": false
+      }
+    ],
+    "AS83-39": [
+      {
+        "id": "3d2b1fb8-d133-4c8e-b881-5175ad2a3854",
+        "code": "AS83-34",
+        "ath": -0.15035008748645545,
+        "atv": 0.1276463678800307,
+        "duplicate": false,
+        "distance": 5,
+        "sameParity": false
+      },
+      {
+        "id": "15d5739e-699d-462f-9d8b-f81d85a296ae",
+        "code": "AS83-54",
+        "ath": -0.14446898783216455,
+        "atv": 0.13520407011668248,
+        "duplicate": false,
+        "distance": 15,
+        "sameParity": false
+      },
+      {
+        "id": "b7cefdbf-74b9-4f20-8913-083e74f50bb5",
+        "code": "AS83-15",
+        "ath": -0.1535023029888485,
+        "atv": 0.11852887048314036,
+        "duplicate": false,
+        "distance": 24,
+        "sameParity": true
+      },
+      {
+        "id": "ebfc24fc-3a7d-443b-8cf8-0d6974a57c59",
+        "code": "AS83-01",
+        "ath": -0.15758668646575757,
+        "atv": 0.11291687382059726,
+        "duplicate": false,
+        "distance": 38,
+        "sameParity": true
+      }
+    ],
+    "AS83-44": [
+      {
+        "id": "3d2b1fb8-d133-4c8e-b881-5175ad2a3854",
+        "code": "AS83-34",
+        "ath": -0.15035008748645545,
+        "atv": 0.1276463678800307,
+        "duplicate": false,
+        "distance": 10,
+        "sameParity": true
+      },
+      {
+        "id": "15d5739e-699d-462f-9d8b-f81d85a296ae",
+        "code": "AS83-54",
+        "ath": -0.14446898783216455,
+        "atv": 0.13520407011668248,
+        "duplicate": false,
+        "distance": 10,
+        "sameParity": true
+      },
+      {
+        "id": "b7cefdbf-74b9-4f20-8913-083e74f50bb5",
+        "code": "AS83-15",
+        "ath": -0.1535023029888485,
+        "atv": 0.11852887048314036,
+        "duplicate": false,
+        "distance": 29,
+        "sameParity": false
+      },
+      {
+        "id": "ebfc24fc-3a7d-443b-8cf8-0d6974a57c59",
+        "code": "AS83-01",
+        "ath": -0.15758668646575757,
+        "atv": 0.11291687382059726,
+        "duplicate": false,
+        "distance": 43,
+        "sameParity": false
+      }
+    ],
+    "AS83-48": [
+      {
+        "id": "15d5739e-699d-462f-9d8b-f81d85a296ae",
+        "code": "AS83-54",
+        "ath": -0.14446898783216455,
+        "atv": 0.13520407011668248,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "3d2b1fb8-d133-4c8e-b881-5175ad2a3854",
+        "code": "AS83-34",
+        "ath": -0.15035008748645545,
+        "atv": 0.1276463678800307,
+        "duplicate": false,
+        "distance": 14,
+        "sameParity": true
+      },
+      {
+        "id": "b7cefdbf-74b9-4f20-8913-083e74f50bb5",
+        "code": "AS83-15",
+        "ath": -0.1535023029888485,
+        "atv": 0.11852887048314036,
+        "duplicate": false,
+        "distance": 33,
+        "sameParity": false
+      },
+      {
+        "id": "ebfc24fc-3a7d-443b-8cf8-0d6974a57c59",
+        "code": "AS83-01",
+        "ath": -0.15758668646575757,
+        "atv": 0.11291687382059726,
+        "duplicate": false,
+        "distance": 47,
+        "sameParity": false
+      }
+    ],
+    "AS83-53": [
+      {
+        "id": "15d5739e-699d-462f-9d8b-f81d85a296ae",
+        "code": "AS83-54",
+        "ath": -0.14446898783216455,
+        "atv": 0.13520407011668248,
+        "duplicate": false,
+        "distance": 1,
+        "sameParity": false
+      },
+      {
+        "id": "3d2b1fb8-d133-4c8e-b881-5175ad2a3854",
+        "code": "AS83-34",
+        "ath": -0.15035008748645545,
+        "atv": 0.1276463678800307,
+        "duplicate": false,
+        "distance": 19,
+        "sameParity": false
+      },
+      {
+        "id": "b7cefdbf-74b9-4f20-8913-083e74f50bb5",
+        "code": "AS83-15",
+        "ath": -0.1535023029888485,
+        "atv": 0.11852887048314036,
+        "duplicate": false,
+        "distance": 38,
+        "sameParity": true
+      },
+      {
+        "id": "ebfc24fc-3a7d-443b-8cf8-0d6974a57c59",
+        "code": "AS83-01",
+        "ath": -0.15758668646575757,
+        "atv": 0.11291687382059726,
+        "duplicate": false,
+        "distance": 52,
+        "sameParity": true
+      }
+    ],
+    "AS84-13": [
+      {
+        "id": "9ee2548c-9f5f-41c0-a042-c3ac54e1f9c1",
+        "code": "AS84-15",
+        "ath": -0.15815762257302823,
+        "atv": 0.12218165386352377,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "bd8cb201-a58b-4e1b-9609-5e0a63e4218b",
+        "code": "AS84-03",
+        "ath": -0.16195256243905853,
+        "atv": 0.11751838995677019,
+        "duplicate": false,
+        "distance": 10,
+        "sameParity": true
+      },
+      {
+        "id": "f60db7ba-bcf4-4e88-820e-03e92df2c068",
+        "code": "AS84-24",
+        "ath": -0.15847798529124374,
+        "atv": 0.12705394702309236,
+        "duplicate": false,
+        "distance": 11,
+        "sameParity": false
+      },
+      {
+        "id": "bb218880-8080-427a-be00-34a596cae3cc",
+        "code": "AS84-44",
+        "ath": -0.15200921526443137,
+        "atv": 0.13525642950453742,
+        "duplicate": false,
+        "distance": 31,
+        "sameParity": false
+      },
+      {
+        "id": "f6111943-5253-4324-ba25-f85c59618186",
+        "code": "AS84-53",
+        "ath": -0.1470146547413808,
+        "atv": 0.13712016646386063,
+        "duplicate": false,
+        "distance": 40,
+        "sameParity": true
+      }
+    ],
+    "AS84-20": [
+      {
+        "id": "f60db7ba-bcf4-4e88-820e-03e92df2c068",
+        "code": "AS84-24",
+        "ath": -0.15847798529124374,
+        "atv": 0.12705394702309236,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "9ee2548c-9f5f-41c0-a042-c3ac54e1f9c1",
+        "code": "AS84-15",
+        "ath": -0.15815762257302823,
+        "atv": 0.12218165386352377,
+        "duplicate": false,
+        "distance": 5,
+        "sameParity": false
+      },
+      {
+        "id": "bd8cb201-a58b-4e1b-9609-5e0a63e4218b",
+        "code": "AS84-03",
+        "ath": -0.16195256243905853,
+        "atv": 0.11751838995677019,
+        "duplicate": false,
+        "distance": 17,
+        "sameParity": false
+      },
+      {
+        "id": "bb218880-8080-427a-be00-34a596cae3cc",
+        "code": "AS84-44",
+        "ath": -0.15200921526443137,
+        "atv": 0.13525642950453742,
+        "duplicate": false,
+        "distance": 24,
+        "sameParity": true
+      },
+      {
+        "id": "f6111943-5253-4324-ba25-f85c59618186",
+        "code": "AS84-53",
+        "ath": -0.1470146547413808,
+        "atv": 0.13712016646386063,
+        "duplicate": false,
+        "distance": 33,
+        "sameParity": false
+      }
+    ],
+    "AS84-22": [
+      {
+        "id": "f60db7ba-bcf4-4e88-820e-03e92df2c068",
+        "code": "AS84-24",
+        "ath": -0.15847798529124374,
+        "atv": 0.12705394702309236,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "9ee2548c-9f5f-41c0-a042-c3ac54e1f9c1",
+        "code": "AS84-15",
+        "ath": -0.15815762257302823,
+        "atv": 0.12218165386352377,
+        "duplicate": false,
+        "distance": 7,
+        "sameParity": false
+      },
+      {
+        "id": "bd8cb201-a58b-4e1b-9609-5e0a63e4218b",
+        "code": "AS84-03",
+        "ath": -0.16195256243905853,
+        "atv": 0.11751838995677019,
+        "duplicate": false,
+        "distance": 19,
+        "sameParity": false
+      },
+      {
+        "id": "bb218880-8080-427a-be00-34a596cae3cc",
+        "code": "AS84-44",
+        "ath": -0.15200921526443137,
+        "atv": 0.13525642950453742,
+        "duplicate": false,
+        "distance": 22,
+        "sameParity": true
+      },
+      {
+        "id": "f6111943-5253-4324-ba25-f85c59618186",
+        "code": "AS84-53",
+        "ath": -0.1470146547413808,
+        "atv": 0.13712016646386063,
+        "duplicate": false,
+        "distance": 31,
+        "sameParity": false
+      }
+    ],
+    "AS84-38": [
+      {
+        "id": "bb218880-8080-427a-be00-34a596cae3cc",
+        "code": "AS84-44",
+        "ath": -0.15200921526443137,
+        "atv": 0.13525642950453742,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "f60db7ba-bcf4-4e88-820e-03e92df2c068",
+        "code": "AS84-24",
+        "ath": -0.15847798529124374,
+        "atv": 0.12705394702309236,
+        "duplicate": false,
+        "distance": 14,
+        "sameParity": true
+      },
+      {
+        "id": "f6111943-5253-4324-ba25-f85c59618186",
+        "code": "AS84-53",
+        "ath": -0.1470146547413808,
+        "atv": 0.13712016646386063,
+        "duplicate": false,
+        "distance": 15,
+        "sameParity": false
+      },
+      {
+        "id": "9ee2548c-9f5f-41c0-a042-c3ac54e1f9c1",
+        "code": "AS84-15",
+        "ath": -0.15815762257302823,
+        "atv": 0.12218165386352377,
+        "duplicate": false,
+        "distance": 23,
+        "sameParity": false
+      },
+      {
+        "id": "bd8cb201-a58b-4e1b-9609-5e0a63e4218b",
+        "code": "AS84-03",
+        "ath": -0.16195256243905853,
+        "atv": 0.11751838995677019,
+        "duplicate": false,
+        "distance": 35,
+        "sameParity": false
+      }
+    ],
+    "AS84-41": [
+      {
+        "id": "bb218880-8080-427a-be00-34a596cae3cc",
+        "code": "AS84-44",
+        "ath": -0.15200921526443137,
+        "atv": 0.13525642950453742,
+        "duplicate": false,
+        "distance": 3,
+        "sameParity": false
+      },
+      {
+        "id": "f6111943-5253-4324-ba25-f85c59618186",
+        "code": "AS84-53",
+        "ath": -0.1470146547413808,
+        "atv": 0.13712016646386063,
+        "duplicate": false,
+        "distance": 12,
+        "sameParity": true
+      },
+      {
+        "id": "f60db7ba-bcf4-4e88-820e-03e92df2c068",
+        "code": "AS84-24",
+        "ath": -0.15847798529124374,
+        "atv": 0.12705394702309236,
+        "duplicate": false,
+        "distance": 17,
+        "sameParity": false
+      },
+      {
+        "id": "9ee2548c-9f5f-41c0-a042-c3ac54e1f9c1",
+        "code": "AS84-15",
+        "ath": -0.15815762257302823,
+        "atv": 0.12218165386352377,
+        "duplicate": false,
+        "distance": 26,
+        "sameParity": true
+      },
+      {
+        "id": "bd8cb201-a58b-4e1b-9609-5e0a63e4218b",
+        "code": "AS84-03",
+        "ath": -0.16195256243905853,
+        "atv": 0.11751838995677019,
+        "duplicate": false,
+        "distance": 38,
+        "sameParity": true
+      }
+    ],
+    "AS85-07": [
+      {
+        "id": "05204df0-603f-41cc-be93-189c4552a47b",
+        "code": "AS85-05",
+        "ath": -0.16624977042639494,
+        "atv": 0.1218885073467175,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "f6690eea-c83d-4eae-bab2-75b2b3f8bb20",
+        "code": "AS85-26",
+        "ath": -0.16267372873841998,
+        "atv": 0.1312026971258478,
+        "duplicate": false,
+        "distance": 19,
+        "sameParity": false
+      },
+      {
+        "id": "0941c7f2-e696-46cc-8f98-7856df7a5321",
+        "code": "AS85-30",
+        "ath": -0.16113060860619843,
+        "atv": 0.13345019131326605,
+        "duplicate": false,
+        "distance": 23,
+        "sameParity": false
+      },
+      {
+        "id": "b04adfed-2358-4e5d-8fe5-3c6d28993fe9",
+        "code": "AS85-39",
+        "ath": -0.1559634450407453,
+        "atv": 0.13515468974734993,
+        "duplicate": false,
+        "distance": 32,
+        "sameParity": true
+      },
+      {
+        "id": "a422e430-db98-47be-b73f-bb83ffba4a9b",
+        "code": "AS85-41",
+        "ath": -0.15538455541104862,
+        "atv": 0.13605518201491512,
+        "duplicate": false,
+        "distance": 34,
+        "sameParity": true
+      }
+    ],
+    "AS85-09": [
+      {
+        "id": "05204df0-603f-41cc-be93-189c4552a47b",
+        "code": "AS85-05",
+        "ath": -0.16624977042639494,
+        "atv": 0.1218885073467175,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "f6690eea-c83d-4eae-bab2-75b2b3f8bb20",
+        "code": "AS85-26",
+        "ath": -0.16267372873841998,
+        "atv": 0.1312026971258478,
+        "duplicate": false,
+        "distance": 17,
+        "sameParity": false
+      },
+      {
+        "id": "0941c7f2-e696-46cc-8f98-7856df7a5321",
+        "code": "AS85-30",
+        "ath": -0.16113060860619843,
+        "atv": 0.13345019131326605,
+        "duplicate": false,
+        "distance": 21,
+        "sameParity": false
+      },
+      {
+        "id": "b04adfed-2358-4e5d-8fe5-3c6d28993fe9",
+        "code": "AS85-39",
+        "ath": -0.1559634450407453,
+        "atv": 0.13515468974734993,
+        "duplicate": false,
+        "distance": 30,
+        "sameParity": true
+      },
+      {
+        "id": "a422e430-db98-47be-b73f-bb83ffba4a9b",
+        "code": "AS85-41",
+        "ath": -0.15538455541104862,
+        "atv": 0.13605518201491512,
+        "duplicate": false,
+        "distance": 32,
+        "sameParity": true
+      }
+    ],
+    "AS85-11": [
+      {
+        "id": "05204df0-603f-41cc-be93-189c4552a47b",
+        "code": "AS85-05",
+        "ath": -0.16624977042639494,
+        "atv": 0.1218885073467175,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "f6690eea-c83d-4eae-bab2-75b2b3f8bb20",
+        "code": "AS85-26",
+        "ath": -0.16267372873841998,
+        "atv": 0.1312026971258478,
+        "duplicate": false,
+        "distance": 15,
+        "sameParity": false
+      },
+      {
+        "id": "0941c7f2-e696-46cc-8f98-7856df7a5321",
+        "code": "AS85-30",
+        "ath": -0.16113060860619843,
+        "atv": 0.13345019131326605,
+        "duplicate": false,
+        "distance": 19,
+        "sameParity": false
+      },
+      {
+        "id": "b04adfed-2358-4e5d-8fe5-3c6d28993fe9",
+        "code": "AS85-39",
+        "ath": -0.1559634450407453,
+        "atv": 0.13515468974734993,
+        "duplicate": false,
+        "distance": 28,
+        "sameParity": true
+      },
+      {
+        "id": "a422e430-db98-47be-b73f-bb83ffba4a9b",
+        "code": "AS85-41",
+        "ath": -0.15538455541104862,
+        "atv": 0.13605518201491512,
+        "duplicate": false,
+        "distance": 30,
+        "sameParity": true
+      }
+    ],
+    "AS85-13": [
+      {
+        "id": "05204df0-603f-41cc-be93-189c4552a47b",
+        "code": "AS85-05",
+        "ath": -0.16624977042639494,
+        "atv": 0.1218885073467175,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      },
+      {
+        "id": "f6690eea-c83d-4eae-bab2-75b2b3f8bb20",
+        "code": "AS85-26",
+        "ath": -0.16267372873841998,
+        "atv": 0.1312026971258478,
+        "duplicate": false,
+        "distance": 13,
+        "sameParity": false
+      },
+      {
+        "id": "0941c7f2-e696-46cc-8f98-7856df7a5321",
+        "code": "AS85-30",
+        "ath": -0.16113060860619843,
+        "atv": 0.13345019131326605,
+        "duplicate": false,
+        "distance": 17,
+        "sameParity": false
+      },
+      {
+        "id": "b04adfed-2358-4e5d-8fe5-3c6d28993fe9",
+        "code": "AS85-39",
+        "ath": -0.1559634450407453,
+        "atv": 0.13515468974734993,
+        "duplicate": false,
+        "distance": 26,
+        "sameParity": true
+      },
+      {
+        "id": "a422e430-db98-47be-b73f-bb83ffba4a9b",
+        "code": "AS85-41",
+        "ath": -0.15538455541104862,
+        "atv": 0.13605518201491512,
+        "duplicate": false,
+        "distance": 28,
+        "sameParity": true
+      }
+    ],
+    "AS85-14": [
+      {
+        "id": "05204df0-603f-41cc-be93-189c4552a47b",
+        "code": "AS85-05",
+        "ath": -0.16624977042639494,
+        "atv": 0.1218885073467175,
+        "duplicate": false,
+        "distance": 9,
+        "sameParity": false
+      },
+      {
+        "id": "f6690eea-c83d-4eae-bab2-75b2b3f8bb20",
+        "code": "AS85-26",
+        "ath": -0.16267372873841998,
+        "atv": 0.1312026971258478,
+        "duplicate": false,
+        "distance": 12,
+        "sameParity": true
+      },
+      {
+        "id": "0941c7f2-e696-46cc-8f98-7856df7a5321",
+        "code": "AS85-30",
+        "ath": -0.16113060860619843,
+        "atv": 0.13345019131326605,
+        "duplicate": false,
+        "distance": 16,
+        "sameParity": true
+      },
+      {
+        "id": "b04adfed-2358-4e5d-8fe5-3c6d28993fe9",
+        "code": "AS85-39",
+        "ath": -0.1559634450407453,
+        "atv": 0.13515468974734993,
+        "duplicate": false,
+        "distance": 25,
+        "sameParity": false
+      },
+      {
+        "id": "a422e430-db98-47be-b73f-bb83ffba4a9b",
+        "code": "AS85-41",
+        "ath": -0.15538455541104862,
+        "atv": 0.13605518201491512,
+        "duplicate": false,
+        "distance": 27,
+        "sameParity": false
+      }
+    ],
+    "AS85-22": [
+      {
+        "id": "f6690eea-c83d-4eae-bab2-75b2b3f8bb20",
+        "code": "AS85-26",
+        "ath": -0.16267372873841998,
+        "atv": 0.1312026971258478,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "0941c7f2-e696-46cc-8f98-7856df7a5321",
+        "code": "AS85-30",
+        "ath": -0.16113060860619843,
+        "atv": 0.13345019131326605,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      },
+      {
+        "id": "05204df0-603f-41cc-be93-189c4552a47b",
+        "code": "AS85-05",
+        "ath": -0.16624977042639494,
+        "atv": 0.1218885073467175,
+        "duplicate": false,
+        "distance": 17,
+        "sameParity": false
+      },
+      {
+        "id": "b04adfed-2358-4e5d-8fe5-3c6d28993fe9",
+        "code": "AS85-39",
+        "ath": -0.1559634450407453,
+        "atv": 0.13515468974734993,
+        "duplicate": false,
+        "distance": 17,
+        "sameParity": false
+      },
+      {
+        "id": "a422e430-db98-47be-b73f-bb83ffba4a9b",
+        "code": "AS85-41",
+        "ath": -0.15538455541104862,
+        "atv": 0.13605518201491512,
+        "duplicate": false,
+        "distance": 19,
+        "sameParity": false
+      }
+    ],
+    "AS85-28": [
+      {
+        "id": "f6690eea-c83d-4eae-bab2-75b2b3f8bb20",
+        "code": "AS85-26",
+        "ath": -0.16267372873841998,
+        "atv": 0.1312026971258478,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "0941c7f2-e696-46cc-8f98-7856df7a5321",
+        "code": "AS85-30",
+        "ath": -0.16113060860619843,
+        "atv": 0.13345019131326605,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "b04adfed-2358-4e5d-8fe5-3c6d28993fe9",
+        "code": "AS85-39",
+        "ath": -0.1559634450407453,
+        "atv": 0.13515468974734993,
+        "duplicate": false,
+        "distance": 11,
+        "sameParity": false
+      },
+      {
+        "id": "a422e430-db98-47be-b73f-bb83ffba4a9b",
+        "code": "AS85-41",
+        "ath": -0.15538455541104862,
+        "atv": 0.13605518201491512,
+        "duplicate": false,
+        "distance": 13,
+        "sameParity": false
+      },
+      {
+        "id": "b27908d9-8a59-4b1a-9e6f-405435524e0d",
+        "code": "AS85-45",
+        "ath": -0.15382476933320338,
+        "atv": 0.1380491290706445,
+        "duplicate": false,
+        "distance": 17,
+        "sameParity": false
+      }
+    ],
+    "AS85-32": [
+      {
+        "id": "0941c7f2-e696-46cc-8f98-7856df7a5321",
+        "code": "AS85-30",
+        "ath": -0.16113060860619843,
+        "atv": 0.13345019131326605,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "f6690eea-c83d-4eae-bab2-75b2b3f8bb20",
+        "code": "AS85-26",
+        "ath": -0.16267372873841998,
+        "atv": 0.1312026971258478,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "b04adfed-2358-4e5d-8fe5-3c6d28993fe9",
+        "code": "AS85-39",
+        "ath": -0.1559634450407453,
+        "atv": 0.13515468974734993,
+        "duplicate": false,
+        "distance": 7,
+        "sameParity": false
+      },
+      {
+        "id": "a422e430-db98-47be-b73f-bb83ffba4a9b",
+        "code": "AS85-41",
+        "ath": -0.15538455541104862,
+        "atv": 0.13605518201491512,
+        "duplicate": false,
+        "distance": 9,
+        "sameParity": false
+      },
+      {
+        "id": "b27908d9-8a59-4b1a-9e6f-405435524e0d",
+        "code": "AS85-45",
+        "ath": -0.15382476933320338,
+        "atv": 0.1380491290706445,
+        "duplicate": false,
+        "distance": 13,
+        "sameParity": false
+      }
+    ],
+    "AS85-36": [
+      {
+        "id": "b04adfed-2358-4e5d-8fe5-3c6d28993fe9",
+        "code": "AS85-39",
+        "ath": -0.1559634450407453,
+        "atv": 0.13515468974734993,
+        "duplicate": false,
+        "distance": 3,
+        "sameParity": false
+      },
+      {
+        "id": "a422e430-db98-47be-b73f-bb83ffba4a9b",
+        "code": "AS85-41",
+        "ath": -0.15538455541104862,
+        "atv": 0.13605518201491512,
+        "duplicate": false,
+        "distance": 5,
+        "sameParity": false
+      },
+      {
+        "id": "0941c7f2-e696-46cc-8f98-7856df7a5321",
+        "code": "AS85-30",
+        "ath": -0.16113060860619843,
+        "atv": 0.13345019131326605,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "b27908d9-8a59-4b1a-9e6f-405435524e0d",
+        "code": "AS85-45",
+        "ath": -0.15382476933320338,
+        "atv": 0.1380491290706445,
+        "duplicate": false,
+        "distance": 9,
+        "sameParity": false
+      },
+      {
+        "id": "f6690eea-c83d-4eae-bab2-75b2b3f8bb20",
+        "code": "AS85-26",
+        "ath": -0.16267372873841998,
+        "atv": 0.1312026971258478,
+        "duplicate": false,
+        "distance": 10,
+        "sameParity": true
+      }
+    ],
+    "AS86-03": [
+      {
+        "id": "0b3c3e57-5c7a-48d4-8b59-5eec36264edc",
+        "code": "AS86-09",
+        "ath": -0.16985292671629482,
+        "atv": 0.12706935142170145,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "933d5386-a57d-4f44-9228-467ebe63b1a5",
+        "code": "AS86-17",
+        "ath": -0.16726336221579102,
+        "atv": 0.13054171459214636,
+        "duplicate": false,
+        "distance": 14,
+        "sameParity": true
+      },
+      {
+        "id": "5c1632ec-cd64-413f-9f82-47539c3858eb",
+        "code": "AS86-43",
+        "ath": -0.1593263984599503,
+        "atv": 0.1408018506607511,
+        "duplicate": false,
+        "distance": 40,
+        "sameParity": true
+      },
+      {
+        "id": "6c562c59-0922-40e7-921d-4cee1434aa07",
+        "code": "AS86-45",
+        "ath": -0.15865938882974218,
+        "atv": 0.1417827439886456,
+        "duplicate": false,
+        "distance": 42,
+        "sameParity": true
+      }
+    ],
+    "AS86-11": [
+      {
+        "id": "0b3c3e57-5c7a-48d4-8b59-5eec36264edc",
+        "code": "AS86-09",
+        "ath": -0.16985292671629482,
+        "atv": 0.12706935142170145,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "933d5386-a57d-4f44-9228-467ebe63b1a5",
+        "code": "AS86-17",
+        "ath": -0.16726336221579102,
+        "atv": 0.13054171459214636,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "5c1632ec-cd64-413f-9f82-47539c3858eb",
+        "code": "AS86-43",
+        "ath": -0.1593263984599503,
+        "atv": 0.1408018506607511,
+        "duplicate": false,
+        "distance": 32,
+        "sameParity": true
+      },
+      {
+        "id": "6c562c59-0922-40e7-921d-4cee1434aa07",
+        "code": "AS86-45",
+        "ath": -0.15865938882974218,
+        "atv": 0.1417827439886456,
+        "duplicate": false,
+        "distance": 34,
+        "sameParity": true
+      }
+    ],
+    "AS86-55": [
+      {
+        "id": "6c562c59-0922-40e7-921d-4cee1434aa07",
+        "code": "AS86-45",
+        "ath": -0.15865938882974218,
+        "atv": 0.1417827439886456,
+        "duplicate": false,
+        "distance": 10,
+        "sameParity": true
+      },
+      {
+        "id": "5c1632ec-cd64-413f-9f82-47539c3858eb",
+        "code": "AS86-43",
+        "ath": -0.1593263984599503,
+        "atv": 0.1408018506607511,
+        "duplicate": false,
+        "distance": 12,
+        "sameParity": true
+      },
+      {
+        "id": "933d5386-a57d-4f44-9228-467ebe63b1a5",
+        "code": "AS86-17",
+        "ath": -0.16726336221579102,
+        "atv": 0.13054171459214636,
+        "duplicate": false,
+        "distance": 38,
+        "sameParity": true
+      },
+      {
+        "id": "0b3c3e57-5c7a-48d4-8b59-5eec36264edc",
+        "code": "AS86-09",
+        "ath": -0.16985292671629482,
+        "atv": 0.12706935142170145,
+        "duplicate": false,
+        "distance": 46,
+        "sameParity": true
+      }
+    ],
+    "ĐLCV1-01": [
+      {
+        "id": "52b37350-f7ea-4535-b450-6414fd3af182",
+        "code": "ĐLCV1-39",
+        "ath": -0.1724949686396822,
+        "atv": -0.0790128961984767,
+        "duplicate": false,
+        "distance": 38,
+        "sameParity": true
+      }
+    ],
+    "ĐLCV1-05": [
+      {
+        "id": "52b37350-f7ea-4535-b450-6414fd3af182",
+        "code": "ĐLCV1-39",
+        "ath": -0.1724949686396822,
+        "atv": -0.0790128961984767,
+        "duplicate": false,
+        "distance": 34,
+        "sameParity": true
+      }
+    ],
+    "ĐLCV1-07": [
+      {
+        "id": "52b37350-f7ea-4535-b450-6414fd3af182",
+        "code": "ĐLCV1-39",
+        "ath": -0.1724949686396822,
+        "atv": -0.0790128961984767,
+        "duplicate": false,
+        "distance": 32,
+        "sameParity": true
+      }
+    ],
+    "ĐLCV2-02": [
+      {
+        "id": "e142d86e-e3ab-47ce-a92b-652a69abe067",
+        "code": "ĐLCV2-04",
+        "ath": -0.13220768844443503,
+        "atv": 0.004437452368141372,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "2682f606-67b8-44b1-89df-0b35eb3cad1f",
+        "code": "ĐLCV2-08",
+        "ath": -0.134691577472125,
+        "atv": 0.004494772875798301,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "d4b250fb-d097-4223-addd-831e2173dfbb",
+        "code": "ĐLCV2-22",
+        "ath": -0.1430985862972975,
+        "atv": 0.003463003479157122,
+        "duplicate": false,
+        "distance": 20,
+        "sameParity": true
+      },
+      {
+        "id": "df8b66f1-2023-4864-ab2f-ad754d72910c",
+        "code": "ĐLCV2-24",
+        "ath": -0.14432142390543845,
+        "atv": 0.0032910419130511657,
+        "duplicate": false,
+        "distance": 22,
+        "sameParity": true
+      },
+      {
+        "id": "e8ae3374-3b84-45de-aad5-827e26e11397",
+        "code": "ĐLCV2-44",
+        "ath": -0.16684264880325197,
+        "atv": 0.0005431144244816092,
+        "duplicate": false,
+        "distance": 42,
+        "sameParity": true
+      }
+    ],
+    "ĐLCV2-16": [
+      {
+        "id": "d4b250fb-d097-4223-addd-831e2173dfbb",
+        "code": "ĐLCV2-22",
+        "ath": -0.1430985862972975,
+        "atv": 0.003463003479157122,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "2682f606-67b8-44b1-89df-0b35eb3cad1f",
+        "code": "ĐLCV2-08",
+        "ath": -0.134691577472125,
+        "atv": 0.004494772875798301,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      },
+      {
+        "id": "df8b66f1-2023-4864-ab2f-ad754d72910c",
+        "code": "ĐLCV2-24",
+        "ath": -0.14432142390543845,
+        "atv": 0.0032910419130511657,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      },
+      {
+        "id": "e142d86e-e3ab-47ce-a92b-652a69abe067",
+        "code": "ĐLCV2-04",
+        "ath": -0.13220768844443503,
+        "atv": 0.004437452368141372,
+        "duplicate": false,
+        "distance": 12,
+        "sameParity": true
+      },
+      {
+        "id": "e8ae3374-3b84-45de-aad5-827e26e11397",
+        "code": "ĐLCV2-44",
+        "ath": -0.16684264880325197,
+        "atv": 0.0005431144244816092,
+        "duplicate": false,
+        "distance": 28,
+        "sameParity": true
+      }
+    ],
+    "ĐLCV2-38": [
+      {
+        "id": "e8ae3374-3b84-45de-aad5-827e26e11397",
+        "code": "ĐLCV2-44",
+        "ath": -0.16684264880325197,
+        "atv": 0.0005431144244816092,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "df8b66f1-2023-4864-ab2f-ad754d72910c",
+        "code": "ĐLCV2-24",
+        "ath": -0.14432142390543845,
+        "atv": 0.0032910419130511657,
+        "duplicate": false,
+        "distance": 14,
+        "sameParity": true
+      },
+      {
+        "id": "d4b250fb-d097-4223-addd-831e2173dfbb",
+        "code": "ĐLCV2-22",
+        "ath": -0.1430985862972975,
+        "atv": 0.003463003479157122,
+        "duplicate": false,
+        "distance": 16,
+        "sameParity": true
+      },
+      {
+        "id": "8f024a60-b259-4740-8554-bd1943c88f4a",
+        "code": "ĐLCV2-64",
+        "ath": -0.178574248322834,
+        "atv": -0.0009663259566552005,
+        "duplicate": false,
+        "distance": 26,
+        "sameParity": true
+      },
+      {
+        "id": "2682f606-67b8-44b1-89df-0b35eb3cad1f",
+        "code": "ĐLCV2-08",
+        "ath": -0.134691577472125,
+        "atv": 0.004494772875798301,
+        "duplicate": false,
+        "distance": 30,
+        "sameParity": true
+      }
+    ],
+    "ĐLCV2-62": [
+      {
+        "id": "8f024a60-b259-4740-8554-bd1943c88f4a",
+        "code": "ĐLCV2-64",
+        "ath": -0.178574248322834,
+        "atv": -0.0009663259566552005,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "e8ae3374-3b84-45de-aad5-827e26e11397",
+        "code": "ĐLCV2-44",
+        "ath": -0.16684264880325197,
+        "atv": 0.0005431144244816092,
+        "duplicate": false,
+        "distance": 18,
+        "sameParity": true
+      },
+      {
+        "id": "df8b66f1-2023-4864-ab2f-ad754d72910c",
+        "code": "ĐLCV2-24",
+        "ath": -0.14432142390543845,
+        "atv": 0.0032910419130511657,
+        "duplicate": false,
+        "distance": 38,
+        "sameParity": true
+      },
+      {
+        "id": "d4b250fb-d097-4223-addd-831e2173dfbb",
+        "code": "ĐLCV2-22",
+        "ath": -0.1430985862972975,
+        "atv": 0.003463003479157122,
+        "duplicate": false,
+        "distance": 40,
+        "sameParity": true
+      },
+      {
+        "id": "2682f606-67b8-44b1-89df-0b35eb3cad1f",
+        "code": "ĐLCV2-08",
+        "ath": -0.134691577472125,
+        "atv": 0.004494772875798301,
+        "duplicate": false,
+        "distance": 54,
+        "sameParity": true
+      }
+    ],
+    "ĐLCV2-76": [
+      {
+        "id": "8f024a60-b259-4740-8554-bd1943c88f4a",
+        "code": "ĐLCV2-64",
+        "ath": -0.178574248322834,
+        "atv": -0.0009663259566552005,
+        "duplicate": false,
+        "distance": 12,
+        "sameParity": true
+      },
+      {
+        "id": "e8ae3374-3b84-45de-aad5-827e26e11397",
+        "code": "ĐLCV2-44",
+        "ath": -0.16684264880325197,
+        "atv": 0.0005431144244816092,
+        "duplicate": false,
+        "distance": 32,
+        "sameParity": true
+      },
+      {
+        "id": "df8b66f1-2023-4864-ab2f-ad754d72910c",
+        "code": "ĐLCV2-24",
+        "ath": -0.14432142390543845,
+        "atv": 0.0032910419130511657,
+        "duplicate": false,
+        "distance": 52,
+        "sameParity": true
+      },
+      {
+        "id": "d4b250fb-d097-4223-addd-831e2173dfbb",
+        "code": "ĐLCV2-22",
+        "ath": -0.1430985862972975,
+        "atv": 0.003463003479157122,
+        "duplicate": false,
+        "distance": 54,
+        "sameParity": true
+      },
+      {
+        "id": "2682f606-67b8-44b1-89df-0b35eb3cad1f",
+        "code": "ĐLCV2-08",
+        "ath": -0.134691577472125,
+        "atv": 0.004494772875798301,
+        "duplicate": false,
+        "distance": 68,
+        "sameParity": true
+      }
+    ],
+    "ĐLCV3-100": [
+      {
+        "id": "97d7d5c0-9092-4ae3-8279-0abcc9e57698",
+        "code": "ĐLCV3-134",
+        "ath": -0.18860031351595463,
+        "atv": 0.13492080054001873,
+        "duplicate": false,
+        "distance": 34,
+        "sameParity": true
+      }
+    ],
+    "ĐLCV3-124": [
+      {
+        "id": "97d7d5c0-9092-4ae3-8279-0abcc9e57698",
+        "code": "ĐLCV3-134",
+        "ath": -0.18860031351595463,
+        "atv": 0.13492080054001873,
+        "duplicate": false,
+        "distance": 10,
+        "sameParity": true
+      }
+    ],
+    "ĐLCV3-132": [
+      {
+        "id": "97d7d5c0-9092-4ae3-8279-0abcc9e57698",
+        "code": "ĐLCV3-134",
+        "ath": -0.18860031351595463,
+        "atv": 0.13492080054001873,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      }
+    ],
+    "TL-04": [],
+    "TL-06": [],
+    "TL-08": [],
+    "TL-26": [],
+    "TL3-29": [
+      {
+        "id": "fcc7b312-59e0-470f-a8a8-fc502a2f6098",
+        "code": "TL3-31",
+        "ath": -0.009093137473269898,
+        "atv": -0.06786801153881158,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "e5f9e06d-959f-4dcb-803f-255c12e946fb",
+        "code": "TL3-25",
+        "ath": -0.009093137536756888,
+        "atv": -0.07036221838847155,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "fca00e4c-4dc6-440b-9ed5-55f6e818fad4",
+        "code": "TL3-33",
+        "ath": -0.008929964925914068,
+        "atv": -0.06702883914203056,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "02b62bf9-3589-45cd-8bd3-4ff34803459b",
+        "code": "TL3-41",
+        "ath": -0.008567868198852042,
+        "atv": -0.06020126053161905,
+        "duplicate": false,
+        "distance": 12,
+        "sameParity": true
+      },
+      {
+        "id": "46799675-7d9d-48a8-8d4e-84d4a213f7e3",
+        "code": "TL3-43",
+        "ath": -0.008586952948723404,
+        "atv": -0.05901843858896411,
+        "duplicate": false,
+        "distance": 14,
+        "sameParity": true
+      }
+    ],
+    "TL3A-37": [],
+    "TL5-27": [
+      {
+        "id": "e112800f-0a66-4226-8958-f867e7fd3408",
+        "code": "TL5-23",
+        "ath": -0.022099078743009506,
+        "atv": -0.07062786076999891,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "cd0b82b2-6eed-41ec-817a-be8ff68344b6",
+        "code": "TL5-33",
+        "ath": -0.021746818269496832,
+        "atv": -0.06643453806185916,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "fce0ba7b-fb3b-4819-9969-200f5c0d2ea8",
+        "code": "TL5-34",
+        "ath": -0.024870503101992233,
+        "atv": -0.06322490279596082,
+        "duplicate": false,
+        "distance": 7,
+        "sameParity": false
+      },
+      {
+        "id": "9c407e54-183b-45ab-804e-f8a3ed1b8dae",
+        "code": "TL5-35",
+        "ath": -0.021651082955215183,
+        "atv": -0.06557292127505025,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      },
+      {
+        "id": "7f9e80cc-4889-4bad-957e-ac9ed2f0cf35",
+        "code": "TL5-17",
+        "ath": -0.022081892244029847,
+        "atv": -0.07440449337587556,
+        "duplicate": false,
+        "distance": 10,
+        "sameParity": true
+      }
+    ],
+    "TL5-29": [
+      {
+        "id": "cd0b82b2-6eed-41ec-817a-be8ff68344b6",
+        "code": "TL5-33",
+        "ath": -0.021746818269496832,
+        "atv": -0.06643453806185916,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "fce0ba7b-fb3b-4819-9969-200f5c0d2ea8",
+        "code": "TL5-34",
+        "ath": -0.024870503101992233,
+        "atv": -0.06322490279596082,
+        "duplicate": false,
+        "distance": 5,
+        "sameParity": false
+      },
+      {
+        "id": "e112800f-0a66-4226-8958-f867e7fd3408",
+        "code": "TL5-23",
+        "ath": -0.022099078743009506,
+        "atv": -0.07062786076999891,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "9c407e54-183b-45ab-804e-f8a3ed1b8dae",
+        "code": "TL5-35",
+        "ath": -0.021651082955215183,
+        "atv": -0.06557292127505025,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "df85b895-16eb-4364-83f3-f74ef676e702",
+        "code": "TL5-37",
+        "ath": -0.02174681816538827,
+        "atv": -0.06478310587777396,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      }
+    ],
+    "TL8-106": [
+      {
+        "id": "a4d4931d-ccce-47a3-a766-0354db685284",
+        "code": "TL8-103",
+        "ath": -0.040490250447960896,
+        "atv": -0.02455671470333747,
+        "duplicate": false,
+        "distance": 3,
+        "sameParity": false
+      },
+      {
+        "id": "d18b33db-fa4e-4d8e-968a-bf8fd4db733a",
+        "code": "TL8-102",
+        "ath": -0.04390288527307504,
+        "atv": -0.02538143475515545,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "cd852287-10cd-4de8-b41f-3d171391b849",
+        "code": "TL8-101",
+        "ath": -0.04076504378104176,
+        "atv": -0.02549965951167794,
+        "duplicate": false,
+        "distance": 5,
+        "sameParity": false
+      },
+      {
+        "id": "ca97c145-1bfe-4156-a989-50897a1a82df",
+        "code": "TL8-114",
+        "ath": -0.04350977211219854,
+        "atv": -0.019105026853153552,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      },
+      {
+        "id": "a463b56b-77d1-40b8-acf7-4c329b8aac27",
+        "code": "TL8-116",
+        "ath": -0.04327617822488201,
+        "atv": -0.018345846724273644,
+        "duplicate": false,
+        "distance": 10,
+        "sameParity": true
+      }
+    ],
+    "TL8-108": [
+      {
+        "id": "a4d4931d-ccce-47a3-a766-0354db685284",
+        "code": "TL8-103",
+        "ath": -0.040490250447960896,
+        "atv": -0.02455671470333747,
+        "duplicate": false,
+        "distance": 5,
+        "sameParity": false
+      },
+      {
+        "id": "d18b33db-fa4e-4d8e-968a-bf8fd4db733a",
+        "code": "TL8-102",
+        "ath": -0.04390288527307504,
+        "atv": -0.02538143475515545,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "ca97c145-1bfe-4156-a989-50897a1a82df",
+        "code": "TL8-114",
+        "ath": -0.04350977211219854,
+        "atv": -0.019105026853153552,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "cd852287-10cd-4de8-b41f-3d171391b849",
+        "code": "TL8-101",
+        "ath": -0.04076504378104176,
+        "atv": -0.02549965951167794,
+        "duplicate": false,
+        "distance": 7,
+        "sameParity": false
+      },
+      {
+        "id": "a463b56b-77d1-40b8-acf7-4c329b8aac27",
+        "code": "TL8-116",
+        "ath": -0.04327617822488201,
+        "atv": -0.018345846724273644,
+        "duplicate": false,
+        "distance": 8,
+        "sameParity": true
+      }
+    ],
+    "TL11-39": [
+      {
+        "id": "20beef8c-c006-482d-87f8-010bee777801",
+        "code": "TL11-37",
+        "ath": -0.06143660864985682,
+        "atv": -0.06278915859591144,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "61274057-d8ac-4afe-b41c-f52ab13d917b",
+        "code": "TL11-33",
+        "ath": -0.061785523190979935,
+        "atv": -0.06435673717453456,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "4e442728-03f8-41c4-99b7-a79001b36e1e",
+        "code": "TL11-27",
+        "ath": -0.061895563420163086,
+        "atv": -0.06692223287674848,
+        "duplicate": false,
+        "distance": 12,
+        "sameParity": true
+      },
+      {
+        "id": "9c515121-93a1-4b90-bcc5-e60a1e4a3c50",
+        "code": "TL11-51",
+        "ath": -0.06112378346838864,
+        "atv": -0.05272188646574371,
+        "duplicate": false,
+        "distance": 12,
+        "sameParity": true
+      },
+      {
+        "id": "798454ff-e627-41c9-a67c-a3666fef59d3",
+        "code": "TL11-25",
+        "ath": -0.06205873603814655,
+        "atv": -0.06785464666942355,
+        "duplicate": false,
+        "distance": 14,
+        "sameParity": true
+      }
+    ],
+    "TL11-152": [
+      {
+        "id": "cafa5e93-c866-434f-b2d6-510f543bb079",
+        "code": "TL11-146",
+        "ath": -0.06456408561526267,
+        "atv": 0.0009802510364127202,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "38bc7834-ae6d-4b89-9443-92448dc5d2b0",
+        "code": "TL11-162",
+        "ath": -0.06564764715593337,
+        "atv": 0.008952389109263149,
+        "duplicate": false,
+        "distance": 10,
+        "sameParity": true
+      },
+      {
+        "id": "5190209f-d455-4cd4-a1c8-a3cb62ef43c2",
+        "code": "TL11-124",
+        "ath": -0.06325601322451757,
+        "atv": -0.009409868647961136,
+        "duplicate": false,
+        "distance": 28,
+        "sameParity": true
+      },
+      {
+        "id": "fd06d2d3-9d58-4279-a6b2-7cb5ed4626e5",
+        "code": "TL11-121",
+        "ath": -0.0586645638450195,
+        "atv": -0.010558368852087807,
+        "duplicate": false,
+        "distance": 31,
+        "sameParity": false
+      },
+      {
+        "id": "f34e62ed-5c0e-451a-9ced-23b8fcde075b",
+        "code": "TL11-100",
+        "ath": -0.063813898523761,
+        "atv": -0.024254829788604087,
+        "duplicate": false,
+        "distance": 52,
+        "sameParity": true
+      }
+    ],
+    "TL12A-83": [
+      {
+        "id": "36fd750f-7dfe-4342-8bda-b8584176e745",
+        "code": "TL12A-81",
+        "ath": -0.07435546836732623,
+        "atv": -0.0382066855864219,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "5f7e7421-566e-40e7-9146-7c532fe3aa29",
+        "code": "TL12A-79",
+        "ath": -0.07443753370223778,
+        "atv": -0.03910756388803507,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "77a434dd-6767-4eda-84e2-1ebfa9465a95",
+        "code": "TL12A-125",
+        "ath": -0.07329992688101296,
+        "atv": -0.008956788972794191,
+        "duplicate": false,
+        "distance": 42,
+        "sameParity": true
+      },
+      {
+        "id": "00b90c30-3704-41ef-b388-502ae7a3ba7e",
+        "code": "TL12A-41",
+        "ath": -0.06888186116284355,
+        "atv": -0.05715225455695745,
+        "duplicate": false,
+        "distance": 42,
+        "sameParity": true
+      },
+      {
+        "id": "1d450461-f4ec-47ae-a80a-18de1a494d31",
+        "code": "TL12A-127",
+        "ath": -0.07341650687665784,
+        "atv": -0.007999399320796593,
+        "duplicate": false,
+        "distance": 44,
+        "sameParity": true
+      }
+    ],
+    "TL12A-85": [
+      {
+        "id": "36fd750f-7dfe-4342-8bda-b8584176e745",
+        "code": "TL12A-81",
+        "ath": -0.07435546836732623,
+        "atv": -0.0382066855864219,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "5f7e7421-566e-40e7-9146-7c532fe3aa29",
+        "code": "TL12A-79",
+        "ath": -0.07443753370223778,
+        "atv": -0.03910756388803507,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      },
+      {
+        "id": "77a434dd-6767-4eda-84e2-1ebfa9465a95",
+        "code": "TL12A-125",
+        "ath": -0.07329992688101296,
+        "atv": -0.008956788972794191,
+        "duplicate": false,
+        "distance": 40,
+        "sameParity": true
+      },
+      {
+        "id": "1d450461-f4ec-47ae-a80a-18de1a494d31",
+        "code": "TL12A-127",
+        "ath": -0.07341650687665784,
+        "atv": -0.007999399320796593,
+        "duplicate": false,
+        "distance": 42,
+        "sameParity": true
+      },
+      {
+        "id": "00b90c30-3704-41ef-b388-502ae7a3ba7e",
+        "code": "TL12A-41",
+        "ath": -0.06888186116284355,
+        "atv": -0.05715225455695745,
+        "duplicate": false,
+        "distance": 44,
+        "sameParity": true
+      }
+    ],
+    "TL15-61": [
+      {
+        "id": "16b63c13-4521-4622-8672-4ee821fc584e",
+        "code": "TL15-59",
+        "ath": -0.08771970390443722,
+        "atv": -0.047191379562149735,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "7796d746-f946-461a-a201-82e829498ba5",
+        "code": "TL15-63",
+        "ath": -0.08751157993255036,
+        "atv": -0.04552033574996698,
+        "duplicate": false,
+        "distance": 2,
+        "sameParity": true
+      },
+      {
+        "id": "79ce96d5-413c-43c2-8789-675b35607c00",
+        "code": "TL15-57",
+        "ath": -0.0875948270036952,
+        "atv": -0.048065517474597926,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "2eabdcc6-f940-4c63-860f-5e74c8e1e09e",
+        "code": "TL15-65",
+        "ath": -0.08739345621651018,
+        "atv": -0.044386680083695396,
+        "duplicate": false,
+        "distance": 4,
+        "sameParity": true
+      },
+      {
+        "id": "50c38fad-9e6f-46a8-a746-92a5b6f8475a",
+        "code": "TL15-55",
+        "ath": -0.0876156398008474,
+        "atv": -0.0490229066187833,
+        "duplicate": false,
+        "distance": 6,
+        "sameParity": true
+      }
+    ]
+  },
+  "ocrReady": true,
+  "job": {
+    "id": "b71d9caf-4173-4f22-ac56-e0b0e1570fb3",
+    "action": "sync",
+    "status": "completed",
+    "message": "Hoàn tất",
+    "startedAt": "2026-11-07T05:02:28.441Z",
+    "cancellable": false,
+    "updatedAt": "2026-11-07T05:02:29.778Z",
+    "result": {
+      "pending": 140,
+      "assigned": 806
+    },
+    "finishedAt": "2026-11-07T05:02:34.052Z"
+  },
+  "history": [
+    {
+      "at": "2026-11-07T05:02:34.051Z",
+      "action": "sync",
+      "pending": 140,
+      "assigned": 806
+    },
+    {
+      "at": "2026-11-07T04:56:57.649Z",
+      "action": "sync",
+      "pending": 140,
+      "assigned": 806
+    },
+    {
+      "at": "2026-11-07T04:54:42.760Z",
+      "action": "sync",
+      "pending": 140,
+      "assigned": 806
+    },
+    {
+      "at": "2026-11-07T04:48:58.268Z",
+      "action": "approve",
+      "codes": [
+        "AS76-09"
+      ]
+    },
+    {
+      "at": "2026-11-07T04:46:45.400Z",
+      "action": "sync",
+      "pending": 140,
+      "assigned": 806
+    },
+    {
+      "at": "2026-11-07T04:33:36.628Z",
+      "action": "sync",
+      "pending": 140,
+      "assigned": 806
+    }
+  ]
+}
