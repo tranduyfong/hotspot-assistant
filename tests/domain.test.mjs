@@ -1,7 +1,8 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { codeOf, nearestAnchors, pixelToWorld, worldToPixel, tileUrl, normalizeHotspots,
-  normalizeProducts, pendingProducts, approvePosition, assertDraftOwnership, fingerprint, sameWorldPoint } from '../lib/domain.mjs';
+  normalizeProducts, pendingProducts, approvePosition, assertDraftOwnership, fingerprint, sameWorldPoint,
+  calibrateImageWorld, pixelToWorldCalibrated, worldToPixelCalibrated } from '../lib/domain.mjs';
 
 test('giữ nguyên chữ số và số 0 đầu của mã; không suy diễn O thành 0', () => {
   assert.equal(codeOf(' as76-07 '), 'AS76-07');
@@ -25,6 +26,7 @@ test('tọa độ ảnh phẳng khứ hồi ở giữa, cạnh và góc trên �
 });
 test('đường dẫn tile krpano dùng ba chữ số và đúng thứ tự hàng/cột', () => {
   assert.equal(tileUrl('/tours/demo/l8/%00v/l8_%00v_%00h.jpg', 9, 24), 'https://vhub.com.vn/tours/demo/l8/009/l8_009_024.jpg');
+  assert.equal(tileUrl('/tours/demo/l8/%00v/l8_%00v_%00h.jpg', 9, 24, 'https://api.vhub.com.vn'), 'https://api.vhub.com.vn/tours/demo/l8/009/l8_009_024.jpg');
   assert.throws(() => tileUrl('https://other.example/tours/%v/%h.jpg', 1, 1));
 });
 test('đọc lại tọa độ cho phép sai số click nhỏ, chặn điểm bị di chuyển sang ô khác', () => {
@@ -66,4 +68,25 @@ test('không trộn nháp người dùng với nháp của tool', () => {
 test('đổi ảnh hoặc scene làm vô hiệu vị trí đã ghi nhớ', () => {
   assert.notEqual(fingerprint({ scene: 'a' }, Buffer.from('old')), fingerprint({ scene: 'a' }, Buffer.from('new')));
   assert.notEqual(fingerprint({ scene: 'a' }, Buffer.from('old')), fingerprint({ scene: 'b' }, Buffer.from('old')));
+});
+
+test('calibrates scan pixels from nearby hotspot anchors', () => {
+  const map = { width: 60032, height: 42464 };
+  const t = { xAth: 59492, xAtv: 680, xOffset: 30181, yAth: 130, yAtv: 59150, yOffset: 21311 };
+  const anchors = [['AS76-01', .001, .002], ['AS76-03', .014, .003], ['AS76-05', .021, .011],
+    ['AS76-07', .004, .017], ['AS76-09', .018, .020], ['AS76-11', .009, .012]]
+    .map(([code, ath, atv]) => ({ code, ath, atv }));
+  const scan = { left: 29000, top: 20000, candidates: anchors.map(({ code, ath, atv }) => ({
+    code, confidence: .9, polygon: [[0, 0], [10, 0], [10, 10]],
+    x: t.xAth * ath + t.xAtv * atv + t.xOffset - 29000,
+    y: t.yAth * ath + t.yAtv * atv + t.yOffset - 20000,
+  })) };
+  const calibration = calibrateImageWorld(scan, anchors, map, 'AS76-99');
+  const expected = { ath: .012, atv: .009 };
+  const pixel = worldToPixelCalibrated(expected, calibration);
+  const recovered = pixelToWorldCalibrated(pixel, calibration);
+  assert.equal(calibration.anchorCount, anchors.length);
+  assert.ok(Math.abs(recovered.ath - expected.ath) < 1e-10);
+  assert.ok(Math.abs(recovered.atv - expected.atv) < 1e-10);
+  assert.ok(Math.abs(pixel.x - (t.xAth * expected.ath + t.xAtv * expected.atv + t.xOffset)) < 1e-6);
 });

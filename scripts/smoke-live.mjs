@@ -76,7 +76,8 @@ try {
     const native = context.pages().find(p => p.url().includes('/du-an/vinhomes-sai-gon-park/'));
     const actual = await native.evaluate(world => {
       const k = document.getElementById('krpanoSWFObject'), p = k.spheretoscreen(world.ath, world.atv);
-      const r = document.getElementById('lockcan-pano').getBoundingClientRect();
+      const kRect = (k && typeof k.getBoundingClientRect === 'function') ? k.getBoundingClientRect() : null;
+      const r = (kRect && kRect.width > 0 && kRect.height > 0) ? kRect : document.getElementById('lockcan-pano').getBoundingClientRect();
       const el = document.elementFromPoint(p.x + r.left, p.y + r.top);
       const q = k.screentosphere(p.x, p.y);
       return { ath: q.x, atv: q.y, visible: !!el && (!!el.closest('#lockcan-pano') || !!el.closest('.lc-fund-pin')) && !el.closest('aside') };

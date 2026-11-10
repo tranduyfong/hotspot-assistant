@@ -227,15 +227,8 @@ async function showScan(value) {
   $('image-empty').hidden = true;
   const matches = scan.candidates.filter((c) => c.code === selected);
   point = matches.length === 1 ? { x: matches[0].x, y: matches[0].y } : null;
-  const prior = approved();
-  if (
-    prior &&
-    prior.x >= scan.left &&
-    prior.x < scan.left + scan.width &&
-    prior.y >= scan.top &&
-    prior.y < scan.top + scan.height
-  )
-    point = { x: prior.x - scan.left, y: prior.y - scan.top };
+  // Always initialize from the fresh scan. A previous approval may belong to
+  // a neighbouring lot and must never silently replace this scan's result.
   $('preview-note').textContent =
     `${scan.anchorCode ? 'Mốc ' + scan.anchorCode : 'Vùng đang xem'} · ảnh mặt bằng gốc`;
   $('candidates').innerHTML = matches.length
