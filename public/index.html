@@ -162,6 +162,7 @@
               placeholder="Ví dụ: AS76-09"
               autocomplete="off"
             /><button id="approve" class="primary full">Ghi nhớ vị trí</button>
+            <button id="unapprove" class="full quiet" hidden>Xóa vị trí đã ghi nhớ</button>
             <p id="approval-note" class="help">
               Vị trí lưu trên máy, gắn với phiên bản mặt bằng hiện tại.
             </p>
@@ -198,6 +199,7 @@
         VHUB Hotspot Assistant · v0.1 · Dữ liệu vị trí và ảnh xem trước lưu cục bộ trên máy.
       </footer>
     </main>
+    <div class="toast-container" id="toasts" aria-live="polite"></div>
     <script type="module" src="/app.js"></script>
   </body>
 </html>

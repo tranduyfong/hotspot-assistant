@@ -11,6 +11,16 @@ let seenJob = null,
   previewUrl = null,
   busyPost = false,
   polling = false;
+
+/* ── Toast notification system ── */
+function toast(message, type = 'info') {
+  const icons = { success: '✓', warn: '⚠', info: 'ℹ' };
+  const el = document.createElement('div');
+  el.className = `toast ${type}`;
+  el.innerHTML = `<span class="toast-icon">${icons[type] || icons.info}</span>${message.replace(/[<>&"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c])}`;
+  $('toasts').appendChild(el);
+  setTimeout(() => el.remove(), 3600);
+}
 const time = (value) =>
   value
     ? new Intl.DateTimeFormat('vi-VN', {
@@ -90,6 +100,9 @@ function renderList() {
         .join('')
     : '<div class="empty"><span>✓</span><p>Không có căn phù hợp.</p></div>';
   $('selected-count').textContent = checked.size ? `Đã chọn ${checked.size} căn` : 'Chưa chọn căn';
+  /* Auto-scroll active item into view */
+  const activeRow = $('pending-list').querySelector('.lot-row.active');
+  if (activeRow) activeRow.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
 }
 function renderControls() {
   const busy = busyPost || state.job?.status === 'running';

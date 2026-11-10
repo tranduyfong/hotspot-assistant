@@ -117,6 +117,14 @@ async function post(path, body) {
     store.data.approvals[approvalKey(position.mapId, position.code)] = position;
     await store.log('approve', { codes: [position.code] }); return { position };
   }
+  if (path === '/api/unapprove') {
+    const code = codeOf(body.code);
+    const key = approvalKey(driver.map?.id, code);
+    if (!store.data.approvals[key]) throw new Error('Căn này chưa có vị trí đã xác nhận.');
+    if (driver.ownDrafts.has(code)) throw new Error('Căn này đang có bản nháp. Hủy nháp trước khi xóa vị trí.');
+    delete store.data.approvals[key];
+    await store.log('unapprove', { codes: [code] }); return { code };
+  }
   if (path === '/api/zoom') return startJob('zoom', async () => {
     const code = codeOf(body.code);
     const position = store.data.approvals[approvalKey(driver.map?.id, code)];
