@@ -1,14 +1,14 @@
 # VHUB Hotspot Assistant v0.1
 
-Tool Windows hỗ trợ công việc gắn mã căn lên mặt bằng VHUB. Bản đầu dành cho **VINHOMES SÀI GÒN PARK**, scene `scene_mb_quy_can`.
+Tool Windows hỗ trợ công việc gắn mã căn lên mặt bằng VHUB. Tool hiện hỗ trợ **VINHOMES SÀI GÒN PARK** và **VINHOMES GOLDEN CITY**; scene và thông số ảnh được đọc từ dự án đang chọn.
 
-Tool đọc danh sách căn còn hàng chưa gắn, tìm mốc cùng dãy, tải vùng ảnh mặt bằng gốc, nhận diện mã bằng OCR cục bộ và lưu vị trí đã được người dùng xác nhận. Khi đã có vị trí, có thể đặt nháp từ 1 tới 20 căn một lượt, sau đó lưu bằng giao diện gốc của VHUB.
+Tool đọc danh sách căn còn hàng chưa gắn, tìm mốc cùng dãy, tải vùng ảnh mặt bằng gốc, nhận diện mã bằng OCR cục bộ và lưu vị trí đã được người dùng xác nhận. Khi đã có vị trí, có thể đặt nháp từ 1 tới 50 căn một lượt, sau đó lưu bằng giao diện gốc của VHUB.
 
 ## Chạy trên máy hiện tại
 
 1. Mở **CHAY_TOOL.bat** trong thư mục này. Cần Node.js 24 trở lên và Microsoft Edge. Lần đầu file chạy tự cài thư viện Node nếu chưa có.
 2. Giao diện mở tại **http://127.0.0.1:4318**. Giữ cửa sổ lệnh đang chạy tool.
-3. Bấm **Kết nối & đồng bộ**. Nếu được yêu cầu, tự đăng nhập tài khoản có quyền Quản lý hotspot trong cửa sổ Edge rồi kết nối lại.
+3. Chọn dự án ở thanh trên cùng rồi bấm **Kết nối & đồng bộ**. Nếu được yêu cầu, tự đăng nhập tài khoản có quyền Quản lý hotspot trong cửa sổ Edge rồi kết nối lại.
 
 Tool ưu tiên kết nối cửa sổ Edge đã mở trong buổi làm việc qua cổng cục bộ `9228`. Nếu không có cửa sổ này, tool mở Edge riêng và giữ phiên đăng nhập trong `.data/browser-profile`.
 
@@ -22,11 +22,11 @@ Có thể đặt `OCR_PYTHON` tới Python đã cài `requirements-ocr.txt`, `OC
 2. Chọn một căn, bấm **Dò mã**. Tool tìm các mốc cùng dãy, ví dụ `AS76-09` chỉ dùng mốc dãy `AS76`, không nhầm sang `AS7` hay `AS760`.
 3. Đọc mã trên vùng ảnh. Tool đánh dấu các kết quả OCR khớp chính xác mã đang chọn. Có thể đổi mốc, tăng vùng ảnh hoặc bấm **Chỉ lấy ảnh**. Nếu chưa có mốc, tự di chuyển bản đồ tới khu vực đó rồi bấm **Lấy vùng đang xem trên VHUB**.
 4. Bấm đúng điểm trong ô đất nếu cần chỉnh; thanh zoom và thanh cuộn giúp đọc chữ. Có thể dùng phím mũi tên chỉnh điểm, Shift + mũi tên chỉnh nhanh.
-5. Nhập lại mã đã đọc trên ảnh rồi bấm **Ghi nhớ vị trí**. Việc này lưu tọa độ trên máy, chưa gắn hoặc lưu gì trên VHUB.
+5. Đối chiếu mã và ô đất trên ảnh, chỉnh điểm nếu cần rồi bấm **Ghi nhớ vị trí**; không cần nhập lại mã căn. Việc này lưu tọa độ trên máy, chưa gắn hoặc lưu gì trên VHUB.
 6. Bấm **Đặt nháp căn này**, hoặc chọn các căn đã xác nhận rồi bấm **Đặt nháp**. Tool đóng bảng chi tiết và bấm **Bỏ chọn** dưới ô tìm kiếm trước khi đặt, để tag mới hiện ngay. Điểm cần gắn được đưa ra phần mặt bằng không bị bảng quản lý che. Giao diện tự đưa tab VHUB lên trước để xem lại.
 7. Quay lại tab tool, kiểm tra các tag, rồi bấm **Lưu lên VHUB**. Tool kiểm tra lại từng mã, vị trí nháp, gửi lưu bằng nút gốc và đọc lại dữ liệu máy chủ để xác nhận cả mã lẫn tọa độ.
 
-**Dò mã đã chọn** hỗ trợ tối đa 10 căn một lượt, chỉ đọc ảnh. Các căn khác nằm trong cùng vùng đã OCR sẽ được dùng lại từ bộ nhớ đệm. **Đặt nháp** hỗ trợ tối đa 20 căn đã xác nhận một lượt.
+**Dò mã đã chọn** hỗ trợ tối đa 50 căn một lượt, chỉ đọc ảnh. Các căn khác nằm trong cùng vùng đã OCR sẽ được dùng lại từ bộ nhớ đệm. **Đặt nháp** hỗ trợ tối đa 50 căn đã xác nhận một lượt.
 
 Chỉ dùng một lượt điều khiển tại một thời điểm. Trong khi tool đang đặt nháp/lưu, để tool thao tác trên cửa sổ VHUB. Có thể dừng việc dò ảnh bằng **Dừng dò mã**.
 

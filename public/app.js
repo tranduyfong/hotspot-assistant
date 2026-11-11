@@ -1,5 +1,6 @@
 const key = document.querySelector('meta[name=tool-key]').content;
 const $ = (id) => document.getElementById(id);
+const MAX_BATCH = 50;
 const checked = new Set();
 let state = { pending: [], approvals: [], draftCodes: [] },
   selected = null,
@@ -8,6 +9,7 @@ let state = { pending: [], approvals: [], draftCodes: [] },
   image = null;
 let seenJob = null,
   lastListKey = '',
+  lastProjectId = null,
   previewUrl = null,
   busyPost = false,
   polling = false;
@@ -109,22 +111,35 @@ function renderControls() {
   const hasTarget = Boolean(selected && state.pending.some((p) => p.code === selected));
   const known = Boolean(approved());
   $('connect').disabled = busy;
+  $('project-select').disabled = busy;
   for (const item of $('pending-list').querySelectorAll('button, input')) item.disabled = busy;
   $('select-approved').disabled = busy;
   $('clear-selected').disabled = busy;
   $('connect').textContent = state.syncedAt ? '↻ Đồng bộ lại' : 'Kết nối & đồng bộ';
+  if (state.projects?.length && $('project-select').options.length !== state.projects.length) {
+    $('project-select').innerHTML = state.projects.map((p) => `<option value="${escape(p.id)}">${escape(p.name)}</option>`).join('');
+  }
+  if (state.projectId && state.projectId !== lastProjectId) {
+    if (lastProjectId) {
+      checked.clear(); selected = null; scan = null; point = null; image = null;
+      $('target-title').textContent = 'Chọn một căn để bắt đầu';
+      $('map-canvas').hidden = true; $('image-empty').hidden = false;
+    }
+    $('project-select').value = state.projectId;
+    lastProjectId = state.projectId;
+  }
   for (const id of ['scan', 'image-only', 'current-view', 'zoom-vhub'])
     $(id).disabled = busy || !hasTarget;
   $('approve').disabled =
     busy ||
     !point ||
     !scan ||
-    scan.code !== selected ||
-    $('confirm-code').value.trim().toUpperCase() !== selected;
+    scan.code !== selected;
   $('stage-one').disabled = busy || !hasTarget || !known || state.draftCodes.includes(selected);
   $('stage-batch').disabled =
-    busy || !checked.size || [...checked].some((c) => !approved(c) || state.draftCodes.includes(c));
-  $('scan-batch').disabled = busy || !checked.size || checked.size > 10;
+    busy || !checked.size || checked.size > MAX_BATCH || [...checked].some((c) => !approved(c) || state.draftCodes.includes(c));
+  $('scan-batch').disabled = busy || !checked.size || checked.size > MAX_BATCH;
+  $('select-approved').textContent = `Chọn tối đa ${MAX_BATCH} căn đã duyệt`;
   $('save').disabled = busy || !state.draftCodes.length;
   $('discard').disabled = busy || !state.draftCodes.length;
   $('cancel').hidden = !state.job?.cancellable || state.job.status !== 'running';
@@ -192,7 +207,6 @@ function choose(code) {
   point = null;
   image = null;
   $('target-title').textContent = code;
-  $('confirm-code').value = '';
   $('candidates').innerHTML = '<p class="muted">Bấm Dò mã để tìm trên ảnh mặt bằng.</p>';
   $('map-canvas').hidden = true;
   $('image-empty').hidden = false;
@@ -315,7 +329,7 @@ async function poll() {
     polling = false;
   }
 }
-$('connect').onclick = () => action('/api/connect');
+$('connect').onclick = () => action('/api/connect', { projectId: $('project-select').value });
 $('cancel').onclick = () => action('/api/cancel');
 $('filter').oninput = renderList;
 $('pending-list').onclick = (e) => {
@@ -334,7 +348,7 @@ $('select-approved').onclick = () => {
   checked.clear();
   state.pending
     .filter((p) => approved(p.code))
-    .slice(0, 20)
+    .slice(0, MAX_BATCH)
     .forEach((p) => checked.add(p.code));
   renderList();
   renderControls();
@@ -364,11 +378,9 @@ $('zoom-vhub').onclick = () =>
   action('/api/zoom', { code: selected, anchorCode: $('anchor').value || undefined });
 $('save').onclick = () => action('/api/save');
 $('discard').onclick = () => action('/api/discard');
-$('confirm-code').oninput = renderControls;
 $('approve').onclick = () =>
   action('/api/approve', {
     code: selected,
-    typedCode: $('confirm-code').value,
     scanId: scan.id,
     point,
   });

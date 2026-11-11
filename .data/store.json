@@ -1257,9 +1257,2987 @@
         "rms": 20.046255291719834
       },
       "scanId": "289d8b0a-f6d5-4839-a16e-17477325a599"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS77-54": {
+      "code": "AS77-54",
+      "x": 22901.509286511722,
+      "y": 28524.380493250785,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:26:45.333Z",
+      "source": "user-reviewed",
+      "ath": -0.11950437244000682,
+      "atv": 0.11616789314469769,
+      "coordinateCalibration": {
+        "xAth": 59326.127877061364,
+        "xAtv": -1102.762153168899,
+        "xOffset": 30119.346523728876,
+        "yAth": 1070.139609430105,
+        "yAtv": 61085.7946572645,
+        "yOffset": 21556.058789294875,
+        "anchorCount": 47,
+        "rms": 20.868452727249153
+      },
+      "scanId": "ed492fac-dbd4-4023-b5ed-d1304e3c1b8a"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS77-58": {
+      "code": "AS77-58",
+      "x": 22966.589949231107,
+      "y": 28622.5686851593,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:26:52.582Z",
+      "source": "user-reviewed",
+      "ath": -0.1183778627221885,
+      "atv": 0.11775553999096057,
+      "coordinateCalibration": {
+        "xAth": 59326.127877061364,
+        "xAtv": -1102.762153168899,
+        "xOffset": 30119.346523728876,
+        "yAth": 1070.139609430105,
+        "yAtv": 61085.7946572645,
+        "yOffset": 21556.058789294875,
+        "anchorCount": 47,
+        "rms": 20.868452727249153
+      },
+      "scanId": "3b7abbfc-68db-4f44-aba2-b835bd8444b0"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS79-24": {
+      "code": "AS79-24",
+      "x": 22294.81214762547,
+      "y": 28216.72162844592,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:27:02.334Z",
+      "source": "user-reviewed",
+      "ath": -0.13378921317895764,
+      "atv": 0.10839831990483521,
+      "coordinateCalibration": {
+        "xAth": 58327.80390402576,
+        "xAtv": -2079.9192177722157,
+        "xOffset": 30323.902887145898,
+        "yAth": 1984.3398764508847,
+        "yAtv": 61832.015268576906,
+        "yOffset": 21779.71832775206,
+        "anchorCount": 67,
+        "rms": 20.046255291719834
+      },
+      "scanId": "7e63560f-4eb7-4298-9756-84178d01271e"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS79-26": {
+      "code": "AS79-26",
+      "x": 22325.928103229347,
+      "y": 28257.751844606883,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:27:08.070Z",
+      "source": "user-reviewed",
+      "ath": -0.13323272053980265,
+      "atv": 0.10904403629387269,
+      "coordinateCalibration": {
+        "xAth": 58327.80390402576,
+        "xAtv": -2079.9192177722157,
+        "xOffset": 30323.902887145898,
+        "yAth": 1984.3398764508847,
+        "yAtv": 61832.015268576906,
+        "yOffset": 21779.71832775206,
+        "anchorCount": 67,
+        "rms": 20.046255291719834
+      },
+      "scanId": "427bc74f-6be6-4736-9af9-91b0a1dafbd9"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS79-31": {
+      "code": "AS79-31",
+      "x": 22627.70697122101,
+      "y": 28243.275199077954,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:27:13.750Z",
+      "source": "user-reviewed",
+      "ath": -0.1280731314874884,
+      "atv": 0.10864432388397983,
+      "coordinateCalibration": {
+        "xAth": 58327.80390402576,
+        "xAtv": -2079.9192177722157,
+        "xOffset": 30323.902887145898,
+        "yAth": 1984.3398764508847,
+        "yAtv": 61832.015268576906,
+        "yOffset": 21779.71832775206,
+        "anchorCount": 67,
+        "rms": 20.046255291719834
+      },
+      "scanId": "b9c11ed0-ece6-4e57-bc8c-9fd3af56de2c"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS79-32": {
+      "code": "AS79-32",
+      "x": 22230.511202560585,
+      "y": 28243.770708029966,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:27:20.774Z",
+      "source": "user-reviewed",
+      "ath": -0.13089638107422163,
+      "atv": 0.111773766047614,
+      "coordinateCalibration": {
+        "xAth": 59326.127877061364,
+        "xAtv": -1102.762153168899,
+        "xOffset": 30119.346523728876,
+        "yAth": 1070.139609430105,
+        "yAtv": 61085.7946572645,
+        "yOffset": 21556.058789294875,
+        "anchorCount": 47,
+        "rms": 20.868452727249153
+      },
+      "scanId": "8ee6ce28-afa1-43a5-bf06-a1020be35d2c"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS79-37": {
+      "code": "AS79-37",
+      "x": 22520.538161721932,
+      "y": 28216.10875509017,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:27:27.254Z",
+      "source": "user-reviewed",
+      "ath": -0.12601769867076393,
+      "atv": 0.11123546046599615,
+      "coordinateCalibration": {
+        "xAth": 59326.127877061364,
+        "xAtv": -1102.762153168899,
+        "xOffset": 30119.346523728876,
+        "yAth": 1070.139609430105,
+        "yAtv": 61085.7946572645,
+        "yOffset": 21556.058789294875,
+        "anchorCount": 47,
+        "rms": 20.868452727249153
+      },
+      "scanId": "4b3fe4ef-a371-43b1-8bb6-eb9563d74c8d"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS79-51": {
+      "code": "AS79-51",
+      "x": 22793.35706633704,
+      "y": 28544.14046147507,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:27:33.638Z",
+      "source": "user-reviewed",
+      "ath": -0.12132077969146471,
+      "atv": 0.11652319305841252,
+      "coordinateCalibration": {
+        "xAth": 59326.127877061364,
+        "xAtv": -1102.762153168899,
+        "xOffset": 30119.346523728876,
+        "yAth": 1070.139609430105,
+        "yAtv": 61085.7946572645,
+        "yOffset": 21556.058789294875,
+        "anchorCount": 47,
+        "rms": 20.868452727249153
+      },
+      "scanId": "ed1dc370-8926-4079-9f6b-0dd40a36bff6"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS80-01": {
+      "code": "AS80-01",
+      "x": 21707.014151209336,
+      "y": 27579.56217699348,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:27:41.214Z",
+      "source": "user-reviewed",
+      "ath": -0.14227130105667168,
+      "atv": 0.1013262244942614,
+      "coordinateCalibration": {
+        "xAth": 58113.149080567695,
+        "xAtv": -2024.0699119868698,
+        "xOffset": 30179.938841696086,
+        "yAth": 1355.7732443701364,
+        "yAtv": 62098.80267861179,
+        "yOffset": 21480.212579369985,
+        "anchorCount": 33,
+        "rms": 26.890510114370493
+      },
+      "scanId": "c5e5945d-20ad-41d9-893e-426252a12b81"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS80-03": {
+      "code": "AS80-03",
+      "x": 21743.315592742747,
+      "y": 27634.026682768337,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:27:46.926Z",
+      "source": "user-reviewed",
+      "ath": -0.1416165827223982,
+      "atv": 0.10218899243605141,
+      "coordinateCalibration": {
+        "xAth": 58113.149080567695,
+        "xAtv": -2024.0699119868698,
+        "xOffset": 30179.938841696086,
+        "yAth": 1355.7732443701364,
+        "yAtv": 62098.80267861179,
+        "yOffset": 21480.212579369985,
+        "anchorCount": 33,
+        "rms": 26.890510114370493
+      },
+      "scanId": "4eedba66-1b72-422d-918f-287ec50fc369"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS80-05": {
+      "code": "AS80-05",
+      "x": 21774.975266621284,
+      "y": 27674.82774563195,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:27:53.022Z",
+      "source": "user-reviewed",
+      "ath": -0.14104933604148537,
+      "atv": 0.10283364262677819,
+      "coordinateCalibration": {
+        "xAth": 58113.149080567695,
+        "xAtv": -2024.0699119868698,
+        "xOffset": 30179.938841696086,
+        "yAth": 1355.7732443701364,
+        "yAtv": 62098.80267861179,
+        "yOffset": 21480.212579369985,
+        "anchorCount": 33,
+        "rms": 26.890510114370493
+      },
+      "scanId": "9f8bf7db-a2ec-4536-8f7f-d6b46f086052"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS80-07": {
+      "code": "AS80-07",
+      "x": 22088.936809798353,
+      "y": 27647.65304190689,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:34:51.628Z",
+      "source": "user-reviewed",
+      "ath": -0.14047072553537363,
+      "atv": 0.1034400158134224,
+      "coordinateCalibration": {
+        "xAth": 58526.49780564653,
+        "xAtv": -2031.5124061524593,
+        "xOffset": 30520.33609501955,
+        "yAth": 1250.4775599116836,
+        "yAtv": 61959.658921300026,
+        "yOffset": 21414.200433399856,
+        "anchorCount": 52,
+        "rms": 25.021780549747948
+      },
+      "scanId": "32c432f0-a8d4-4666-9650-9702f016909e"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS80-20": {
+      "code": "AS80-20",
+      "x": 22118.811736451917,
+      "y": 28094.22317357558,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:34:59.701Z",
+      "source": "user-reviewed",
+      "ath": -0.13971062959391353,
+      "atv": 0.11063210912879283,
+      "coordinateCalibration": {
+        "xAth": 58526.49780564653,
+        "xAtv": -2031.5124061524593,
+        "xOffset": 30520.33609501955,
+        "yAth": 1250.4775599116836,
+        "yAtv": 61959.658921300026,
+        "yOffset": 21414.200433399856,
+        "anchorCount": 52,
+        "rms": 25.021780549747948
+      },
+      "scanId": "086b1ed1-eefb-430e-9e9b-d1477b5fb3c5"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS80-35": {
+      "code": "AS80-35",
+      "x": 22605.94784813011,
+      "y": 28322.81947648751,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:35:05.268Z",
+      "source": "user-reviewed",
+      "ath": -0.13126513906217355,
+      "atv": 0.11415109890884453,
+      "coordinateCalibration": {
+        "xAth": 58526.49780564653,
+        "xAtv": -2031.5124061524593,
+        "xOffset": 30520.33609501955,
+        "yAth": 1250.4775599116836,
+        "yAtv": 61959.658921300026,
+        "yOffset": 21414.200433399856,
+        "anchorCount": 52,
+        "rms": 25.021780549747948
+      },
+      "scanId": "a7088822-1bad-43e4-a1de-fc196befc23d"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS80-36": {
+      "code": "AS80-36",
+      "x": 22408.146850585938,
+      "y": 28465.28955078125,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:35:10.044Z",
+      "source": "user-reviewed",
+      "ath": -0.13456269731956436,
+      "atv": 0.11651705119859658,
+      "coordinateCalibration": {
+        "xAth": 58526.49780564653,
+        "xAtv": -2031.5124061524593,
+        "xOffset": 30520.33609501955,
+        "yAth": 1250.4775599116836,
+        "yAtv": 61959.658921300026,
+        "yOffset": 21414.200433399856,
+        "anchorCount": 52,
+        "rms": 25.021780549747948
+      },
+      "scanId": "bd9598b6-4d19-4559-a06e-2e1222f56211"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS80-37": {
+      "code": "AS80-37",
+      "x": 22637.259924839647,
+      "y": 28363.725353903534,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:36:12.886Z",
+      "source": "user-reviewed",
+      "ath": -0.1307076061697125,
+      "atv": 0.11480004817119216,
+      "coordinateCalibration": {
+        "xAth": 58526.49707277961,
+        "xAtv": -2031.5137092899665,
+        "xOffset": 30520.33612640828,
+        "yAth": 1250.4782166997697,
+        "yAtv": 61959.66008915893,
+        "yOffset": 21414.200405269592,
+        "anchorCount": 53,
+        "rms": 24.784601674960392
+      },
+      "scanId": "405c545b-de75-43f3-8777-ca8c4380f367"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS80-38": {
+      "code": "AS80-38",
+      "x": 22440.020600435913,
+      "y": 28514.199008647964,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:36:19.508Z",
+      "source": "user-reviewed",
+      "ath": -0.1339910936082153,
+      "atv": 0.11729489052569586,
+      "coordinateCalibration": {
+        "xAth": 58526.49707277961,
+        "xAtv": -2031.5137092899665,
+        "xOffset": 30520.33612640828,
+        "yAth": 1250.4782166997697,
+        "yAtv": 61959.66008915893,
+        "yOffset": 21414.200405269592,
+        "anchorCount": 53,
+        "rms": 24.784601674960392
+      },
+      "scanId": "f865df4e-c393-48be-9e17-bb7a9cceee8d"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS80-40": {
+      "code": "AS80-40",
+      "x": 22471.244366197185,
+      "y": 28555.400201207245,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:36:24.277Z",
+      "source": "user-reviewed",
+      "ath": -0.13343490359015503,
+      "atv": 0.11794863344486398,
+      "coordinateCalibration": {
+        "xAth": 58526.49707277961,
+        "xAtv": -2031.5137092899665,
+        "xOffset": 30520.33612640828,
+        "yAth": 1250.4782166997697,
+        "yAtv": 61959.66008915893,
+        "yOffset": 21414.200405269592,
+        "anchorCount": 53,
+        "rms": 24.784601674960392
+      },
+      "scanId": "8c07d082-94fb-4015-8c7d-7f6b5ca29bfe"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS80-41": {
+      "code": "AS80-41",
+      "x": 22709.42385886116,
+      "y": 28458.611357797854,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:36:28.525Z",
+      "source": "user-reviewed",
+      "ath": -0.1294223365293875,
+      "atv": 0.11630552450970472,
+      "coordinateCalibration": {
+        "xAth": 58526.49707277961,
+        "xAtv": -2031.5137092899665,
+        "xOffset": 30520.33612640828,
+        "yAth": 1250.4782166997697,
+        "yAtv": 61959.66008915893,
+        "yOffset": 21414.200405269592,
+        "anchorCount": 53,
+        "rms": 24.784601674960392
+      },
+      "scanId": "f961e442-7ffd-456c-9a9d-77b9c0292d2c"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS81-01": {
+      "code": "AS81-01",
+      "x": 21721.066868836468,
+      "y": 27755.276337905663,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:36:35.716Z",
+      "source": "user-reviewed",
+      "ath": -0.14669160295748582,
+      "atv": 0.10530255616829587,
+      "coordinateCalibration": {
+        "xAth": 58526.49707277961,
+        "xAtv": -2031.5137092899665,
+        "xOffset": 30520.33612640828,
+        "yAth": 1250.4782166997697,
+        "yAtv": 61959.66008915893,
+        "yOffset": 21414.200405269592,
+        "anchorCount": 53,
+        "rms": 24.784601674960392
+      },
+      "scanId": "c69fb6f3-c5c3-43ee-9d8a-d8b7904b950c"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS83-10": {
+      "code": "AS83-10",
+      "x": 20726.416543574593,
+      "y": 28606.751494689455,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:44:32.828Z",
+      "source": "user-reviewed",
+      "ath": -0.15855181738151775,
+      "atv": 0.11822033328643948,
+      "coordinateCalibration": {
+        "xAth": 58155.25623803959,
+        "xAtv": -1986.2099393107737,
+        "xOffset": 30181.848511405773,
+        "yAth": 1326.3266944176894,
+        "yAtv": 62076.80606654286,
+        "yOffset": 21478.302299986637,
+        "anchorCount": 44,
+        "rms": 23.336363668226337
+      },
+      "scanId": "b3d3754d-7478-4e61-aa04-712b84488a35"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS83-18": {
+      "code": "AS83-18",
+      "x": 20890.810569189878,
+      "y": 28821.30212971592,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:44:37.709Z",
+      "source": "user-reviewed",
+      "ath": -0.15560910987367776,
+      "atv": 0.12161367222979864,
+      "coordinateCalibration": {
+        "xAth": 58155.25623803959,
+        "xAtv": -1986.2099393107737,
+        "xOffset": 30181.848511405773,
+        "yAth": 1326.3266944176894,
+        "yAtv": 62076.80606654286,
+        "yOffset": 21478.302299986637,
+        "anchorCount": 44,
+        "rms": 23.336363668226337
+      },
+      "scanId": "cc2e96f1-3847-4e8b-8c8e-4c08610ee283"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS83-37": {
+      "code": "AS83-37",
+      "x": 21441.668507492737,
+      "y": 29131.56789484281,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:44:44.900Z",
+      "source": "user-reviewed",
+      "ath": -0.14597324337698955,
+      "atv": 0.1264058881477632,
+      "coordinateCalibration": {
+        "xAth": 58155.25623803959,
+        "xAtv": -1986.2099393107737,
+        "xOffset": 30181.848511405773,
+        "yAth": 1326.3266944176894,
+        "yAtv": 62076.80606654286,
+        "yOffset": 21478.302299986637,
+        "anchorCount": 44,
+        "rms": 23.336363668226337
+      },
+      "scanId": "38f43a0b-6434-42dd-a14d-978eb031d5b3"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS81-13": {
+      "code": "AS81-13",
+      "x": 21672.25175358341,
+      "y": 28136.84041543831,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:39:34.685Z",
+      "source": "user-reviewed",
+      "ath": -0.1425580575369649,
+      "atv": 0.11030877885899962,
+      "coordinateCalibration": {
+        "xAth": 58155.25623803959,
+        "xAtv": -1986.2099393107737,
+        "xOffset": 30181.848511405773,
+        "yAth": 1326.3266944176894,
+        "yAtv": 62076.80606654286,
+        "yOffset": 21478.302299986637,
+        "anchorCount": 44,
+        "rms": 23.336363668226337
+      },
+      "scanId": "aa2d25a3-715f-42ca-a503-2fc911f8cfe1"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS81-35": {
+      "code": "AS81-35",
+      "x": 22065.255445773386,
+      "y": 28652.947333448894,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:39:41.829Z",
+      "source": "user-reviewed",
+      "ath": -0.13552140317836228,
+      "atv": 0.11847244009750062,
+      "coordinateCalibration": {
+        "xAth": 58155.25623803959,
+        "xAtv": -1986.2099393107737,
+        "xOffset": 30181.848511405773,
+        "yAth": 1326.3266944176894,
+        "yAtv": 62076.80606654286,
+        "yOffset": 21478.302299986637,
+        "anchorCount": 44,
+        "rms": 23.336363668226337
+      },
+      "scanId": "d708ce57-e8e5-4f7c-bedc-e2f334fcc54b"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS81-41": {
+      "code": "AS81-41",
+      "x": 22007.395765012872,
+      "y": 28808.86429352234,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:43:02.740Z",
+      "source": "user-reviewed",
+      "ath": -0.13360496932574747,
+      "atv": 0.12119723740898555,
+      "coordinateCalibration": {
+        "xAth": 58282.6558491261,
+        "xAtv": -818.2294462683404,
+        "xOffset": 29893.41536041287,
+        "yAth": 1389.867690835697,
+        "yAtv": 61409.52922511637,
+        "yOffset": 21551.892231052825,
+        "anchorCount": 46,
+        "rms": 20.8600712516607
+      },
+      "scanId": "161fecee-f903-4467-b0e3-e7af0d7288d6"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS82-07": {
+      "code": "AS82-07",
+      "x": 21179.540385265293,
+      "y": 28194.19187225414,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:43:11.300Z",
+      "source": "user-reviewed",
+      "ath": -0.15099269337970395,
+      "atv": 0.11141287141521587,
+      "coordinateCalibration": {
+        "xAth": 58155.25623803959,
+        "xAtv": -1986.2099393107737,
+        "xOffset": 30181.848511405773,
+        "yAth": 1326.3266944176894,
+        "yAtv": 62076.80606654286,
+        "yOffset": 21478.302299986637,
+        "anchorCount": 44,
+        "rms": 23.336363668226337
+      },
+      "scanId": "19282d78-3750-4044-8abb-99a6a6cbd266"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS82-14": {
+      "code": "AS82-14",
+      "x": 21086.98110846991,
+      "y": 28480.394991450852,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:43:18.684Z",
+      "source": "user-reviewed",
+      "ath": -0.15242577285141723,
+      "atv": 0.11605395830435825,
+      "coordinateCalibration": {
+        "xAth": 58155.25623803959,
+        "xAtv": -1986.2099393107737,
+        "xOffset": 30181.848511405773,
+        "yAth": 1326.3266944176894,
+        "yAtv": 62076.80606654286,
+        "yOffset": 21478.302299986637,
+        "anchorCount": 44,
+        "rms": 23.336363668226337
+      },
+      "scanId": "a3a3e90f-2c38-43f9-b4fb-1dc92ff07b15"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS82-17": {
+      "code": "AS82-17",
+      "x": 21374.700226950354,
+      "y": 28450.045219858155,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:43:23.228Z",
+      "source": "user-reviewed",
+      "ath": -0.14749863518956566,
+      "atv": 0.11545977880096782,
+      "coordinateCalibration": {
+        "xAth": 58155.25623803959,
+        "xAtv": -1986.2099393107737,
+        "xOffset": 30181.848511405773,
+        "yAth": 1326.3266944176894,
+        "yAtv": 62076.80606654286,
+        "yOffset": 21478.302299986637,
+        "anchorCount": 44,
+        "rms": 23.336363668226337
+      },
+      "scanId": "a9e076af-ee05-47b2-b9ef-72cb97e04d80"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS82-18": {
+      "code": "AS82-18",
+      "x": 21178.997937639822,
+      "y": 28600.672678970917,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:43:28.788Z",
+      "source": "user-reviewed",
+      "ath": -0.15077853858247395,
+      "atv": 0.11795632610032081,
+      "coordinateCalibration": {
+        "xAth": 58155.25623803959,
+        "xAtv": -1986.2099393107737,
+        "xOffset": 30181.848511405773,
+        "yAth": 1326.3266944176894,
+        "yAtv": 62076.80606654286,
+        "yOffset": 21478.302299986637,
+        "anchorCount": 44,
+        "rms": 23.336363668226337
+      },
+      "scanId": "a1410eca-60a0-4d48-9560-0f10ee41e155"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS82-21": {
+      "code": "AS82-21",
+      "x": 21438.62141280353,
+      "y": 28531.934617172068,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:43:34.420Z",
+      "source": "user-reviewed",
+      "ath": -0.14635526823251208,
+      "atv": 0.11675451228179642,
+      "coordinateCalibration": {
+        "xAth": 58155.25623803959,
+        "xAtv": -1986.2099393107737,
+        "xOffset": 30181.848511405773,
+        "yAth": 1326.3266944176894,
+        "yAtv": 62076.80606654286,
+        "yOffset": 21478.302299986637,
+        "anchorCount": 44,
+        "rms": 23.336363668226337
+      },
+      "scanId": "76f125f5-cf23-4f95-99d0-8c682bf4bbf0"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS82-30": {
+      "code": "AS82-30",
+      "x": 21395.940097982584,
+      "y": 28884.193676058447,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:43:39.908Z",
+      "source": "user-reviewed",
+      "ath": -0.1468949877569879,
+      "atv": 0.12244061190040151,
+      "coordinateCalibration": {
+        "xAth": 58155.25623803959,
+        "xAtv": -1986.2099393107737,
+        "xOffset": 30181.848511405773,
+        "yAth": 1326.3266944176894,
+        "yAtv": 62076.80606654286,
+        "yOffset": 21478.302299986637,
+        "anchorCount": 44,
+        "rms": 23.336363668226337
+      },
+      "scanId": "7a37f93d-78dc-43ec-8dbc-174c2b060564"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS82-34": {
+      "code": "AS82-34",
+      "x": 21468.787588577845,
+      "y": 28978.62015014383,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:43:46.220Z",
+      "source": "user-reviewed",
+      "ath": -0.14559134913627467,
+      "atv": 0.12393388175844625,
+      "coordinateCalibration": {
+        "xAth": 58155.25623803959,
+        "xAtv": -1986.2099393107737,
+        "xOffset": 30181.848511405773,
+        "yAth": 1326.3266944176894,
+        "yAtv": 62076.80606654286,
+        "yOffset": 21478.302299986637,
+        "anchorCount": 44,
+        "rms": 23.336363668226337
+      },
+      "scanId": "8a12cb6c-6ca1-40d1-999b-dbd4b222d263"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS82-36": {
+      "code": "AS82-36",
+      "x": 21500.434668001333,
+      "y": 29019.96046046046,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:46:38.040Z",
+      "source": "user-reviewed",
+      "ath": -0.14502483483200956,
+      "atv": 0.12458773334737526,
+      "coordinateCalibration": {
+        "xAth": 58155.25754108443,
+        "xAtv": -1986.2095200684075,
+        "xOffset": 30181.848629568383,
+        "yAth": 1326.3245647483639,
+        "yAtv": 62076.80076420388,
+        "yOffset": 21478.302560727956,
+        "anchorCount": 56,
+        "rms": 20.685474735561655
+      },
+      "scanId": "d9f5cc00-c06e-4765-bd49-98cf9cb04fc1"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS82-44": {
+      "code": "AS82-44",
+      "x": 21654.20339331197,
+      "y": 29222.115972393396,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:46:43.459Z",
+      "source": "user-reviewed",
+      "ath": -0.14227151453710546,
+      "atv": 0.12778544510357853,
+      "coordinateCalibration": {
+        "xAth": 58155.25754108443,
+        "xAtv": -1986.2095200684075,
+        "xOffset": 30181.848629568383,
+        "yAth": 1326.3245647483639,
+        "yAtv": 62076.80076420388,
+        "yOffset": 21478.302560727956,
+        "anchorCount": 56,
+        "rms": 20.685474735561655
+      },
+      "scanId": "94a8a78f-fc7c-456d-ad92-94e7ddb8d613"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS82-45": {
+      "code": "AS82-45",
+      "x": 21891.791001157406,
+      "y": 29124.769849537035,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:46:49.891Z",
+      "source": "user-reviewed",
+      "ath": -0.13824261060050605,
+      "atv": 0.1261312078385728,
+      "coordinateCalibration": {
+        "xAth": 58155.25754108443,
+        "xAtv": -1986.2095200684075,
+        "xOffset": 30181.848629568383,
+        "yAth": 1326.3245647483639,
+        "yAtv": 62076.80076420388,
+        "yOffset": 21478.302560727956,
+        "anchorCount": 56,
+        "rms": 20.685474735561655
+      },
+      "scanId": "dd1d7374-91d4-4e88-b739-48faabe8c03d"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS82-46": {
+      "code": "AS82-46",
+      "x": 21514.136923076923,
+      "y": 29271.285333333333,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:46:54.522Z",
+      "source": "user-reviewed",
+      "ath": -0.14168031858666758,
+      "atv": 0.12868573342342846,
+      "coordinateCalibration": {
+        "xAth": 58631.92330752059,
+        "xAtv": -1478.2494172884903,
+        "xOffset": 30011.356107082025,
+        "yAth": 1089.639690200062,
+        "yAtv": 61956.74730120755,
+        "yOffset": 21452.716364799642,
+        "anchorCount": 53,
+        "rms": 16.41304745954013
+      },
+      "scanId": "1e81c6f3-b505-45d7-b84e-ed7a24c36428"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS82-48": {
+      "code": "AS82-48",
+      "x": 21545.87458249833,
+      "y": 29312.35751503006,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:46:59.771Z",
+      "source": "user-reviewed",
+      "ath": -0.14112254880371278,
+      "atv": 0.129338840879288,
+      "coordinateCalibration": {
+        "xAth": 58631.92330752059,
+        "xAtv": -1478.2494172884903,
+        "xOffset": 30011.356107082025,
+        "yAth": 1089.639690200062,
+        "yAtv": 61956.74730120755,
+        "yOffset": 21452.716364799642,
+        "anchorCount": 53,
+        "rms": 16.41304745954013
+      },
+      "scanId": "bd3182dc-ec8d-4921-a8f8-d9788b772a2f"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS83-20": {
+      "code": "AS83-20",
+      "x": 20922.80065598939,
+      "y": 28862.141840259603,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:47:05.411Z",
+      "source": "user-reviewed",
+      "ath": -0.15503697673629183,
+      "atv": 0.12225933902505043,
+      "coordinateCalibration": {
+        "xAth": 58155.25754108443,
+        "xAtv": -1986.2095200684075,
+        "xOffset": 30181.848629568383,
+        "yAth": 1326.3245647483639,
+        "yAtv": 62076.80076420388,
+        "yOffset": 21478.302560727956,
+        "anchorCount": 56,
+        "rms": 20.685474735561655
+      },
+      "scanId": "b7a496b4-43d4-4999-aa5d-029f5e556310"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS83-22": {
+      "code": "AS83-22",
+      "x": 20953.738139375215,
+      "y": 28903.225197391006,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:47:11.452Z",
+      "source": "user-reviewed",
+      "ath": -0.15448279693893072,
+      "atv": 0.12290931348179052,
+      "coordinateCalibration": {
+        "xAth": 58155.25754108443,
+        "xAtv": -1986.2095200684075,
+        "xOffset": 30181.848629568383,
+        "yAth": 1326.3245647483639,
+        "yAtv": 62076.80076420388,
+        "yOffset": 21478.302560727956,
+        "anchorCount": 56,
+        "rms": 20.685474735561655
+      },
+      "scanId": "2f060195-b4b6-4ff6-b224-05b9af646edd"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS83-26": {
+      "code": "AS83-26",
+      "x": 21016.92263022463,
+      "y": 28985.780374156755,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:47:17.483Z",
+      "source": "user-reviewed",
+      "ath": -0.15335172246978301,
+      "atv": 0.1242150348449233,
+      "coordinateCalibration": {
+        "xAth": 58155.25754108443,
+        "xAtv": -1986.2095200684075,
+        "xOffset": 30181.848629568383,
+        "yAth": 1326.3245647483639,
+        "yAtv": 62076.80076420388,
+        "yOffset": 21478.302560727956,
+        "anchorCount": 56,
+        "rms": 20.685474735561655
+      },
+      "scanId": "7f575778-2b65-4b32-bf5a-35392bc92463"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS83-28": {
+      "code": "AS83-28",
+      "x": 21057.43839137121,
+      "y": 29039.205334007456,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:47:22.779Z",
+      "source": "user-reviewed",
+      "ath": -0.15262617575169174,
+      "atv": 0.12506015973489468,
+      "coordinateCalibration": {
+        "xAth": 58155.25754108443,
+        "xAtv": -1986.2095200684075,
+        "xOffset": 30181.848629568383,
+        "yAth": 1326.3245647483639,
+        "yAtv": 62076.80076420388,
+        "yOffset": 21478.302560727956,
+        "anchorCount": 56,
+        "rms": 20.685474735561655
+      },
+      "scanId": "01139645-1d1d-4725-9762-8868e916a615"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS83-30": {
+      "code": "AS83-30",
+      "x": 21107.41859515675,
+      "y": 29104.968692924213,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:47:28.780Z",
+      "source": "user-reviewed",
+      "ath": -0.15173121988158655,
+      "atv": 0.12610042527962148,
+      "coordinateCalibration": {
+        "xAth": 58155.25754108443,
+        "xAtv": -1986.2095200684075,
+        "xOffset": 30181.848629568383,
+        "yAth": 1326.3245647483639,
+        "yAtv": 62076.80076420388,
+        "yOffset": 21478.302560727956,
+        "anchorCount": 56,
+        "rms": 20.685474735561655
+      },
+      "scanId": "f7c0cccb-0c76-4363-96ed-15c69da48f69"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS83-32": {
+      "code": "AS83-32",
+      "x": 21147.962457822767,
+      "y": 29157.952015627776,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:47:36.227Z",
+      "source": "user-reviewed",
+      "ath": -0.1510054331042296,
+      "atv": 0.1269384306734494,
+      "coordinateCalibration": {
+        "xAth": 58155.25754108443,
+        "xAtv": -1986.2095200684075,
+        "xOffset": 30181.848629568383,
+        "yAth": 1326.3245647483639,
+        "yAtv": 62076.80076420388,
+        "yOffset": 21478.302560727956,
+        "anchorCount": 56,
+        "rms": 20.685474735561655
+      },
+      "scanId": "836282db-93fc-4c88-afe2-82d5fea85f23"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS83-39": {
+      "code": "AS83-39",
+      "x": 21291.728611766077,
+      "y": 29168.66730707653,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:47:44.740Z",
+      "source": "user-reviewed",
+      "ath": -0.1455136749013654,
+      "atv": 0.12709686613523702,
+      "coordinateCalibration": {
+        "xAth": 58631.92330752059,
+        "xAtv": -1478.2494172884903,
+        "xOffset": 30011.356107082025,
+        "yAth": 1089.639690200062,
+        "yAtv": 61956.74730120755,
+        "yOffset": 21452.716364799642,
+        "anchorCount": 53,
+        "rms": 16.41304745954013
+      },
+      "scanId": "a698d137-a904-4ea0-bbb4-dfeb78d7240a"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS83-44": {
+      "code": "AS83-44",
+      "x": 21185.067320506412,
+      "y": 29438.34945027486,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:47:48.979Z",
+      "source": "user-reviewed",
+      "ath": -0.1472223417067323,
+      "atv": 0.13147966520386237,
+      "coordinateCalibration": {
+        "xAth": 58631.92330752059,
+        "xAtv": -1478.2494172884903,
+        "xOffset": 30011.356107082025,
+        "yAth": 1089.639690200062,
+        "yAtv": 61956.74730120755,
+        "yOffset": 21452.716364799642,
+        "anchorCount": 53,
+        "rms": 16.41304745954013
+      },
+      "scanId": "c9f8f34e-1974-4738-9d3c-8628c2ddfe44"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS83-48": {
+      "code": "AS83-48",
+      "x": 21257.251901707154,
+      "y": 29533.284642619274,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:47:53.940Z",
+      "source": "user-reviewed",
+      "ath": -0.14595312394437054,
+      "atv": 0.13298962507700135,
+      "coordinateCalibration": {
+        "xAth": 58631.92330752059,
+        "xAtv": -1478.2494172884903,
+        "xOffset": 30011.356107082025,
+        "yAth": 1089.639690200062,
+        "yAtv": 61956.74730120755,
+        "yOffset": 21452.716364799642,
+        "anchorCount": 53,
+        "rms": 16.41304745954013
+      },
+      "scanId": "71e5c443-4be7-41bb-b5fa-6b1c6ef9950e"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS83-53": {
+      "code": "AS83-53",
+      "x": 21549.89351891876,
+      "y": 29505.16310769142,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:47:59.595Z",
+      "source": "user-reviewed",
+      "ath": -0.14097560943707488,
+      "atv": 0.13244819522868367,
+      "coordinateCalibration": {
+        "xAth": 58631.92330752059,
+        "xAtv": -1478.2494172884903,
+        "xOffset": 30011.356107082025,
+        "yAth": 1089.639690200062,
+        "yAtv": 61956.74730120755,
+        "yOffset": 21452.716364799642,
+        "anchorCount": 53,
+        "rms": 16.41304745954013
+      },
+      "scanId": "ffffcf1a-83ca-4fae-aee5-bcc543da1f7e"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS84-01": {
+      "code": "AS84-01",
+      "x": 20504.463457614544,
+      "y": 28498.747950287518,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:48:05.243Z",
+      "source": "user-reviewed",
+      "ath": -0.16242497300018802,
+      "atv": 0.11656324958922194,
+      "coordinateCalibration": {
+        "xAth": 58155.25754108443,
+        "xAtv": -1986.2095200684075,
+        "xOffset": 30181.848629568383,
+        "yAth": 1326.3245647483639,
+        "yAtv": 62076.80076420388,
+        "yOffset": 21478.302560727956,
+        "anchorCount": 56,
+        "rms": 20.685474735561655
+      },
+      "scanId": "6761c597-715d-4ef9-aaeb-e1cb2c4736a4"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS84-05": {
+      "code": "AS84-05",
+      "x": 20572.483147960902,
+      "y": 28593.719385462307,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:48:11.419Z",
+      "source": "user-reviewed",
+      "ath": -0.16120398998440164,
+      "atv": 0.11806706444853478,
+      "coordinateCalibration": {
+        "xAth": 58155.25754108443,
+        "xAtv": -1986.2095200684075,
+        "xOffset": 30181.848629568383,
+        "yAth": 1326.3245647483639,
+        "yAtv": 62076.80076420388,
+        "yOffset": 21478.302560727956,
+        "anchorCount": 56,
+        "rms": 20.685474735561655
+      },
+      "scanId": "699a0944-a8cd-4968-9a5d-bc25c6fe52a2"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS84-13": {
+      "code": "AS84-13",
+      "x": 20708.041543279214,
+      "y": 28770.235065863373,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:48:16.660Z",
+      "source": "user-reviewed",
+      "ath": -0.15877767065144327,
+      "atv": 0.12085872882773022,
+      "coordinateCalibration": {
+        "xAth": 58155.25754108443,
+        "xAtv": -1986.2095200684075,
+        "xOffset": 30181.848629568383,
+        "yAth": 1326.3245647483639,
+        "yAtv": 62076.80076420388,
+        "yOffset": 21478.302560727956,
+        "anchorCount": 56,
+        "rms": 20.685474735561655
+      },
+      "scanId": "47d788b9-ac07-4a56-b45e-31521c4bc8ef"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS84-20": {
+      "code": "AS84-20",
+      "x": 20634.75484937422,
+      "y": 29082.54491785582,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:48:22.275Z",
+      "source": "user-reviewed",
+      "ath": -0.15986523996611812,
+      "atv": 0.12591298932485442,
+      "coordinateCalibration": {
+        "xAth": 58155.25754108443,
+        "xAtv": -1986.2095200684075,
+        "xOffset": 30181.848629568383,
+        "yAth": 1326.3245647483639,
+        "yAtv": 62076.80076420388,
+        "yOffset": 21478.302560727956,
+        "anchorCount": 56,
+        "rms": 20.685474735561655
+      },
+      "scanId": "18c5a28b-b29a-4ea0-81a1-e16b60e52e3e"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS84-22": {
+      "code": "AS84-22",
+      "x": 20666.103564246583,
+      "y": 29123.882532418,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:48:28.964Z",
+      "source": "user-reviewed",
+      "ath": -0.15930385426978083,
+      "atv": 0.12656690567400747,
+      "coordinateCalibration": {
+        "xAth": 58155.25754108443,
+        "xAtv": -1986.2095200684075,
+        "xOffset": 30181.848629568383,
+        "yAth": 1326.3245647483639,
+        "yAtv": 62076.80076420388,
+        "yOffset": 21478.302560727956,
+        "anchorCount": 56,
+        "rms": 20.685474735561655
+      },
+      "scanId": "4d726f8b-b0fb-4321-9940-d6b2fa9ccfef"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS84-25": {
+      "code": "AS84-25",
+      "x": 20925.91351507284,
+      "y": 29055.062281840474,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:48:34.491Z",
+      "source": "user-reviewed",
+      "ath": -0.15487742501826895,
+      "atv": 0.12536370042650063,
+      "coordinateCalibration": {
+        "xAth": 58155.25754108443,
+        "xAtv": -1986.2095200684075,
+        "xOffset": 30181.848629568383,
+        "yAth": 1326.3245647483639,
+        "yAtv": 62076.80076420388,
+        "yOffset": 21478.302560727956,
+        "anchorCount": 56,
+        "rms": 20.685474735561655
+      },
+      "scanId": "4d784944-0154-48a4-bf80-3efce848aeaf"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS84-38": {
+      "code": "AS84-38",
+      "x": 20874.089507096087,
+      "y": 29463.457539801242,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:48:40.483Z",
+      "source": "user-reviewed",
+      "ath": -0.15465363647549552,
+      "atv": 0.13303637798683784,
+      "coordinateCalibration": {
+        "xAth": 58226.01287113135,
+        "xAtv": 270.34281126597756,
+        "xOffset": 29842.98870665995,
+        "yAth": 1626.6128140058956,
+        "yAtv": 60122.59315514177,
+        "yOffset": 21716.527098088583,
+        "anchorCount": 39,
+        "rms": 25.31280042536015
+      },
+      "scanId": "7f0175ae-190e-4b97-96fd-ceb77a66fb55"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS85-02": {
+      "code": "AS85-02",
+      "x": 19930.847677178706,
+      "y": 28836.080524471574,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:48:49.052Z",
+      "source": "user-reviewed",
+      "ath": -0.17080687989619744,
+      "atv": 0.1230384402557972,
+      "coordinateCalibration": {
+        "xAth": 58226.01287113135,
+        "xAtv": 270.34281126597756,
+        "xOffset": 29842.98870665995,
+        "yAth": 1626.6128140058956,
+        "yAtv": 60122.59315514177,
+        "yOffset": 21716.527098088583,
+        "anchorCount": 39,
+        "rms": 25.31280042536015
+      },
+      "scanId": "647f77a8-7d93-41ae-845e-4e456d047c40"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS85-07": {
+      "code": "AS85-07",
+      "x": 20233.866096627266,
+      "y": 28816.37910414396,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:48:54.867Z",
+      "source": "user-reviewed",
+      "ath": -0.16560052843464976,
+      "atv": 0.1225698952904047,
+      "coordinateCalibration": {
+        "xAth": 58226.01287113135,
+        "xAtv": 270.34281126597756,
+        "xOffset": 29842.98870665995,
+        "yAth": 1626.6128140058956,
+        "yAtv": 60122.59315514177,
+        "yOffset": 21716.527098088583,
+        "anchorCount": 39,
+        "rms": 25.31280042536015
+      },
+      "scanId": "3e1dad60-fb08-4644-9528-f5aab5b1c47d"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS85-09": {
+      "code": "AS85-09",
+      "x": 20265.523752358087,
+      "y": 28857.488109529528,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:48:59.891Z",
+      "source": "user-reviewed",
+      "ath": -0.1650599322227462,
+      "atv": 0.1232390225277524,
+      "coordinateCalibration": {
+        "xAth": 58226.01287113135,
+        "xAtv": 270.34281126597756,
+        "xOffset": 29842.98870665995,
+        "yAth": 1626.6128140058956,
+        "yAtv": 60122.59315514177,
+        "yOffset": 21716.527098088583,
+        "anchorCount": 39,
+        "rms": 25.31280042536015
+      },
+      "scanId": "306fa9ec-7d3d-4323-9296-82cabfa9b565"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS85-11": {
+      "code": "AS85-11",
+      "x": 20296.995317554913,
+      "y": 28898.254356092853,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:49:04.940Z",
+      "source": "user-reviewed",
+      "ath": -0.16452250594273587,
+      "atv": 0.12390253452875241,
+      "coordinateCalibration": {
+        "xAth": 58226.01287113135,
+        "xAtv": 270.34281126597756,
+        "xOffset": 29842.98870665995,
+        "yAth": 1626.6128140058956,
+        "yAtv": 60122.59315514177,
+        "yOffset": 21716.527098088583,
+        "anchorCount": 39,
+        "rms": 25.31280042536015
+      },
+      "scanId": "ff86ad16-0418-4ade-87b3-bd0578f1b09e"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS85-13": {
+      "code": "AS85-13",
+      "x": 20337.86119922235,
+      "y": 28952.23677478768,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:49:10.420Z",
+      "source": "user-reviewed",
+      "ath": -0.16382473788584945,
+      "atv": 0.12478152888776026,
+      "coordinateCalibration": {
+        "xAth": 58226.01287113135,
+        "xAtv": 270.34281126597756,
+        "xOffset": 29842.98870665995,
+        "yAth": 1626.6128140058956,
+        "yAtv": 60122.59315514177,
+        "yOffset": 21716.527098088583,
+        "anchorCount": 39,
+        "rms": 25.31280042536015
+      },
+      "scanId": "6f91e575-1c23-4805-8601-ed89e1c7bac2"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS85-14": {
+      "code": "AS85-14",
+      "x": 20140.575368667858,
+      "y": 29103.409205898686,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:49:17.939Z",
+      "source": "user-reviewed",
+      "ath": -0.1672251158665322,
+      "atv": 0.12738792893278966,
+      "coordinateCalibration": {
+        "xAth": 58226.01287113135,
+        "xAtv": 270.34281126597756,
+        "xOffset": 29842.98870665995,
+        "yAth": 1626.6128140058956,
+        "yAtv": 60122.59315514177,
+        "yOffset": 21716.527098088583,
+        "anchorCount": 39,
+        "rms": 25.31280042536015
+      },
+      "scanId": "cf0e60cf-2ec2-4d0f-bbcf-483e092ae70d"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS85-18": {
+      "code": "AS85-18",
+      "x": 20232.36058939504,
+      "y": 29223.675625194563,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:49:23.795Z",
+      "source": "user-reviewed",
+      "ath": -0.1656578455295622,
+      "atv": 0.12934587969813657,
+      "coordinateCalibration": {
+        "xAth": 58226.01287113135,
+        "xAtv": 270.34281126597756,
+        "xOffset": 29842.98870665995,
+        "yAth": 1626.6128140058956,
+        "yAtv": 60122.59315514177,
+        "yOffset": 21716.527098088583,
+        "anchorCount": 39,
+        "rms": 25.31280042536015
+      },
+      "scanId": "76d5b5b2-ce7f-46d7-adc6-f79a41daf74b"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS85-22": {
+      "code": "AS85-22",
+      "x": 20295.13481888482,
+      "y": 29306.060134310133,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:49:27.755Z",
+      "source": "user-reviewed",
+      "ath": -0.16458595992036137,
+      "atv": 0.1306871552821821,
+      "coordinateCalibration": {
+        "xAth": 58226.01287113135,
+        "xAtv": 270.34281126597756,
+        "xOffset": 29842.98870665995,
+        "yAth": 1626.6128140058956,
+        "yAtv": 60122.59315514177,
+        "yOffset": 21716.527098088583,
+        "anchorCount": 39,
+        "rms": 25.31280042536015
+      },
+      "scanId": "293e77ba-3b82-47ff-aaae-acc23857857a"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS85-28": {
+      "code": "AS85-28",
+      "x": 20399.9855513308,
+      "y": 29441.296577946767,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:49:32.379Z",
+      "source": "user-reviewed",
+      "ath": -0.1627954245690733,
+      "atv": 0.13288805728833553,
+      "coordinateCalibration": {
+        "xAth": 58226.01287113135,
+        "xAtv": 270.34281126597756,
+        "xOffset": 29842.98870665995,
+        "yAth": 1626.6128140058956,
+        "yAtv": 60122.59315514177,
+        "yOffset": 21716.527098088583,
+        "anchorCount": 39,
+        "rms": 25.31280042536015
+      },
+      "scanId": "9d40e4a9-f6ea-43f2-962d-09785cd8a71c"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS85-32": {
+      "code": "AS85-32",
+      "x": 20490.90343738196,
+      "y": 29559.429758593455,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:49:38.203Z",
+      "source": "user-reviewed",
+      "ath": -0.16124288734244238,
+      "atv": 0.1348109251759749,
+      "coordinateCalibration": {
+        "xAth": 58226.01287113135,
+        "xAtv": 270.34281126597756,
+        "xOffset": 29842.98870665995,
+        "yAth": 1626.6128140058956,
+        "yAtv": 60122.59315514177,
+        "yOffset": 21716.527098088583,
+        "anchorCount": 39,
+        "rms": 25.31280042536015
+      },
+      "scanId": "4dd3e01b-a601-46d7-a05c-58e90ed5321a"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS85-34": {
+      "code": "AS85-34",
+      "x": 20522.515199326812,
+      "y": 29600.591879667612,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:49:43.971Z",
+      "source": "user-reviewed",
+      "ath": -0.1607030835326885,
+      "atv": 0.13548095730809226,
+      "coordinateCalibration": {
+        "xAth": 58226.01287113135,
+        "xAtv": 270.34281126597756,
+        "xOffset": 29842.98870665995,
+        "yAth": 1626.6128140058956,
+        "yAtv": 60122.59315514177,
+        "yOffset": 21716.527098088583,
+        "anchorCount": 39,
+        "rms": 25.31280042536015
+      },
+      "scanId": "8678c09c-75a0-4ba0-a901-73f7d3ca0600"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS85-36": {
+      "code": "AS85-36",
+      "x": 20553.785635852037,
+      "y": 29641.71474161005,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:49:49.603Z",
+      "source": "user-reviewed",
+      "ath": -0.16016913950505196,
+      "atv": 0.1361504949915592,
+      "coordinateCalibration": {
+        "xAth": 58226.01287113135,
+        "xAtv": 270.34281126597756,
+        "xOffset": 29842.98870665995,
+        "yAth": 1626.6128140058956,
+        "yAtv": 60122.59315514177,
+        "yOffset": 21716.527098088583,
+        "anchorCount": 39,
+        "rms": 25.31280042536015
+      },
+      "scanId": "beb01c1e-599a-4d32-9575-05ed1c4451e3"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS86-01": {
+      "code": "AS86-01",
+      "x": 19846.07874015748,
+      "y": 28900.759172189806,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:49:54.467Z",
+      "source": "user-reviewed",
+      "ath": -0.1722679184981687,
+      "atv": 0.12415374796810637,
+      "coordinateCalibration": {
+        "xAth": 58226.01287113135,
+        "xAtv": 270.34281126597756,
+        "xOffset": 29842.98870665995,
+        "yAth": 1626.6128140058956,
+        "yAtv": 60122.59315514177,
+        "yOffset": 21716.527098088583,
+        "anchorCount": 39,
+        "rms": 25.31280042536015
+      },
+      "scanId": "d0a29a0c-5089-49f7-a637-c2449b34d7f5"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS86-03": {
+      "code": "AS86-03",
+      "x": 19882.123123377358,
+      "y": 28955.092815216165,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:49:58.843Z",
+      "source": "user-reviewed",
+      "ath": -0.17165299457623082,
+      "atv": 0.12504082547252593,
+      "coordinateCalibration": {
+        "xAth": 58226.01287113135,
+        "xAtv": 270.34281126597756,
+        "xOffset": 29842.98870665995,
+        "yAth": 1626.6128140058956,
+        "yAtv": 60122.59315514177,
+        "yOffset": 21716.527098088583,
+        "anchorCount": 39,
+        "rms": 25.31280042536015
+      },
+      "scanId": "87160996-b5c4-4cc8-9825-6143d95b8b2a"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS86-11": {
+      "code": "AS86-11",
+      "x": 20008.737980417944,
+      "y": 29119.353499926932,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:50:03.236Z",
+      "source": "user-reviewed",
+      "ath": -0.16949086699091154,
+      "atv": 0.1277144250602913,
+      "coordinateCalibration": {
+        "xAth": 58226.01287113135,
+        "xAtv": 270.34281126597756,
+        "xOffset": 29842.98870665995,
+        "yAth": 1626.6128140058956,
+        "yAtv": 60122.59315514177,
+        "yOffset": 21716.527098088583,
+        "anchorCount": 39,
+        "rms": 25.31280042536015
+      },
+      "scanId": "cdaa9285-7447-4534-93b8-286550dd2238"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS86-19": {
+      "code": "AS86-19",
+      "x": 20172.868532582415,
+      "y": 29334.122507608725,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:50:07.066Z",
+      "source": "user-reviewed",
+      "ath": -0.16668824788102493,
+      "atv": 0.13121078508891548,
+      "coordinateCalibration": {
+        "xAth": 58226.01287113135,
+        "xAtv": 270.34281126597756,
+        "xOffset": 29842.98870665995,
+        "yAth": 1626.6128140058956,
+        "yAtv": 60122.59315514177,
+        "yOffset": 21716.527098088583,
+        "anchorCount": 39,
+        "rms": 25.31280042536015
+      },
+      "scanId": "28368e37-31b8-4140-ae12-0ce7c64ddb82"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS86-55": {
+      "code": "AS86-55",
+      "x": 20815.08846600402,
+      "y": 30173.41874097358,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:50:11.203Z",
+      "source": "user-reviewed",
+      "ath": -0.15572190837964922,
+      "atv": 0.14487383922381394,
+      "coordinateCalibration": {
+        "xAth": 58226.01287113135,
+        "xAtv": 270.34281126597756,
+        "xOffset": 29842.98870665995,
+        "yAth": 1626.6128140058956,
+        "yAtv": 60122.59315514177,
+        "yOffset": 21716.527098088583,
+        "anchorCount": 39,
+        "rms": 25.31280042536015
+      },
+      "scanId": "35b82e80-5de5-4d47-8280-7f68e730bdde"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:TL9-37": {
+      "code": "TL9-37",
+      "x": 27620.57265329846,
+      "y": 17814.43010752688,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:50:25.371Z",
+      "source": "user-reviewed",
+      "ath": -0.048206751981180886,
+      "atv": -0.06375408161728266,
+      "coordinateCalibration": {
+        "xAth": 59490.25448472688,
+        "xAtv": 614.8545937377319,
+        "xOffset": 30527.60408649294,
+        "yAth": -33.3110156074335,
+        "yAtv": 60030.637197997225,
+        "yOffset": 21640.02243511785,
+        "anchorCount": 63,
+        "rms": 38.525385498874606
+      },
+      "scanId": "b69a8ce8-5e00-4661-b6aa-81752daa181c"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:TL9-39": {
+      "code": "TL9-39",
+      "x": 27620.081311366284,
+      "y": 17866.663538026292,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:50:30.708Z",
+      "source": "user-reviewed",
+      "ath": -0.0482240040328834,
+      "atv": -0.06288397831246899,
+      "coordinateCalibration": {
+        "xAth": 59490.25448472688,
+        "xAtv": 614.8545937377319,
+        "xOffset": 30527.60408649294,
+        "yAth": -33.3110156074335,
+        "yAtv": 60030.637197997225,
+        "yOffset": 21640.02243511785,
+        "anchorCount": 63,
+        "rms": 38.525385498874606
+      },
+      "scanId": "61b1532c-f97d-403a-87c4-043894aa71b4"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:TL10-07": {
+      "code": "TL10-07",
+      "x": 27195.390427870792,
+      "y": 16994.33285980044,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:50:36.483Z",
+      "source": "user-reviewed",
+      "ath": -0.05521260728453048,
+      "atv": -0.07741928089171518,
+      "coordinateCalibration": {
+        "xAth": 59490.25448472688,
+        "xAtv": 614.8545937377319,
+        "xOffset": 30527.60408649294,
+        "yAth": -33.3110156074335,
+        "yAtv": 60030.637197997225,
+        "yOffset": 21640.02243511785,
+        "anchorCount": 63,
+        "rms": 38.525385498874606
+      },
+      "scanId": "758f7a73-0bac-49ca-bab8-0fd1495c6ec2"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:TL12-49": {
+      "code": "TL12-49",
+      "x": 26433.506940802126,
+      "y": 18426.721039197175,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:50:47.092Z",
+      "source": "user-reviewed",
+      "ath": -0.06826600664243672,
+      "atv": -0.05356557178174814,
+      "coordinateCalibration": {
+        "xAth": 59490.25448472688,
+        "xAtv": 614.8545937377319,
+        "xOffset": 30527.60408649294,
+        "yAth": -33.3110156074335,
+        "yAtv": 60030.637197997225,
+        "yOffset": 21640.02243511785,
+        "anchorCount": 63,
+        "rms": 38.525385498874606
+      },
+      "scanId": "548fdf60-3edc-4594-90a8-8e91ccaf3ae3"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:TL12A-83": {
+      "code": "TL12A-83",
+      "x": 26090.71935403839,
+      "y": 19567.56864469856,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:50:58.100Z",
+      "source": "user-reviewed",
+      "ath": -0.07285562108108533,
+      "atv": -0.03297476599995494,
+      "coordinateCalibration": {
+        "xAth": 56417.95856366955,
+        "xAtv": -532.9928771189248,
+        "xOffset": 30183.50944991883,
+        "yAth": -104.45044698869519,
+        "yAtv": 60111.42278462245,
+        "yOffset": 21542.118942758287,
+        "anchorCount": 50,
+        "rms": 25.867394066601396
+      },
+      "scanId": "3c76086d-f25b-49f7-89ec-ed20c082d311"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:TL14-53": {
+      "code": "TL14-53",
+      "x": 25644.438707366913,
+      "y": 18436.612462870504,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:51:05.220Z",
+      "source": "user-reviewed",
+      "ath": -0.08094375566099832,
+      "atv": -0.05180315066746554,
+      "coordinateCalibration": {
+        "xAth": 56417.95856366955,
+        "xAtv": -532.9928771189248,
+        "xOffset": 30183.50944991883,
+        "yAth": -104.45044698869519,
+        "yAtv": 60111.42278462245,
+        "yOffset": 21542.118942758287,
+        "anchorCount": 50,
+        "rms": 25.867394066601396
+      },
+      "scanId": "83715142-64e3-4c4a-875c-9eab70a20e9e"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:TL15-61": {
+      "code": "TL15-61",
+      "x": 25275.724224643756,
+      "y": 18760.394942721432,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:51:11.803Z",
+      "source": "user-reviewed",
+      "ath": -0.08742838572947263,
+      "atv": -0.0464280465296148,
+      "coordinateCalibration": {
+        "xAth": 56417.95856366955,
+        "xAtv": -532.9928771189248,
+        "xOffset": 30183.50944991883,
+        "yAth": -104.45044698869519,
+        "yAtv": 60111.42278462245,
+        "yOffset": 21542.118942758287,
+        "anchorCount": 50,
+        "rms": 25.867394066601396
+      },
+      "scanId": "ba57731e-163a-4f5b-b13b-feae7aabb7dc"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:TL38-34": {
+      "code": "TL38-34",
+      "x": 19872.7889482751,
+      "y": 21352.613822754243,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:51:20.012Z",
+      "source": "user-reviewed",
+      "ath": -0.1721879146702946,
+      "atv": -0.006714732170044271,
+      "coordinateCalibration": {
+        "xAth": 60607.173164834334,
+        "xAtv": 157.22417735052224,
+        "xOffset": 30309.66742783093,
+        "yAth": -1282.1966485403145,
+        "yAtv": 60903.532474513864,
+        "yOffset": 21540.7859644208,
+        "anchorCount": 9,
+        "rms": 37.95231161102355
+      },
+      "scanId": "4bc29ca4-71d0-422c-81b8-d2ff56915217"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:TL38-62": {
+      "code": "TL38-62",
+      "x": 19057.29727680998,
+      "y": 21247.024500128722,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-10T09:51:38.819Z",
+      "source": "user-reviewed",
+      "ath": -0.18563804815779933,
+      "atv": -0.008731610891438996,
+      "coordinateCalibration": {
+        "xAth": 60607.173164834334,
+        "xAtv": 157.22417735052224,
+        "xOffset": 30309.66742783093,
+        "yAth": -1282.1966485403145,
+        "yAtv": 60903.532474513864,
+        "yOffset": 21540.7859644208,
+        "anchorCount": 9,
+        "rms": 37.95231161102355
+      },
+      "scanId": "04f98ff4-5ea2-4fdd-b1e9-03f05de52718"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS48A-01": {
+      "code": "AS48A-01",
+      "x": 30843.00038652945,
+      "y": 20463.402522104654,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-11T03:05:49.677Z",
+      "source": "user-reviewed",
+      "ath": 0.011870497037558807,
+      "atv": -0.017042682964244524,
+      "coordinateCalibration": {
+        "xAth": 58887.87650382304,
+        "xAtv": -976.745233894174,
+        "xOffset": 30127.325663584594,
+        "yAth": 708.2702596629698,
+        "yAtv": 60679.71522498617,
+        "yOffset": 21489.140151025615,
+        "anchorCount": 40,
+        "rms": 29.339123113520156
+      },
+      "scanId": "b965187d-c3ee-44ee-af13-7ce03df7ee7e"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:ĐLCV3-102": {
+      "code": "ĐLCV3-102",
+      "x": 19567.3724809626,
+      "y": 30295.27104632084,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-11T03:06:04.325Z",
+      "source": "user-reviewed",
+      "ath": -0.17676184983272017,
+      "atv": 0.1437885282520958,
+      "coordinateCalibration": {
+        "xAth": 57452.79686353852,
+        "xAtv": -843.4157369710582,
+        "xOffset": 29844.108640148897,
+        "yAth": 2733.3185170056504,
+        "yAtv": 60964.13244744874,
+        "yOffset": 22012.474602784292,
+        "anchorCount": 16,
+        "rms": 14.603645577155076
+      },
+      "scanId": "06502dbe-d8d6-4770-a203-ec17ff92c0d5"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:TL5-29": {
+      "code": "TL5-29",
+      "x": 29049.4946192053,
+      "y": 17348.645177980132,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-11T03:11:59.908Z",
+      "source": "user-reviewed",
+      "ath": -0.021814709544822605,
+      "atv": -0.06806532115420608,
+      "coordinateCalibration": {
+        "xAth": 60070.729144869176,
+        "xAtv": 97.05557182939769,
+        "xOffset": 30366.526246312704,
+        "yAth": 30.152731521160078,
+        "yAtv": 60144.785788878195,
+        "yOffset": 21443.077111531173,
+        "anchorCount": 39,
+        "rms": 6.03474402289533
+      },
+      "scanId": "ed711394-8597-4b30-bd1e-78ad783bdca9"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:TL3A-37": {
+      "code": "TL3A-37",
+      "x": 29442.990887921434,
+      "y": 17536.16351118761,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-11T03:12:06.195Z",
+      "source": "user-reviewed",
+      "ath": -0.01526919237394313,
+      "atv": -0.06495082061141429,
+      "coordinateCalibration": {
+        "xAth": 60070.729144869176,
+        "xAtv": 97.05557182939769,
+        "xOffset": 30366.526246312704,
+        "yAth": 30.152731521160078,
+        "yAtv": 60144.785788878195,
+        "yOffset": 21443.077111531173,
+        "anchorCount": 39,
+        "rms": 6.03474402289533
+      },
+      "scanId": "aa2754e0-f7b4-40e8-87f7-7744501d6bd1"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:TL3-29": {
+      "code": "TL3-29",
+      "x": 29816.031561863325,
+      "y": 17310.485824786767,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-11T03:12:10.155Z",
+      "source": "user-reviewed",
+      "ath": -0.009053100817537234,
+      "atv": -0.06870617721595007,
+      "coordinateCalibration": {
+        "xAth": 60070.729144869176,
+        "xAtv": 97.05557182939769,
+        "xOffset": 30366.526246312704,
+        "yAth": 30.152731521160078,
+        "yAtv": 60144.785788878195,
+        "yOffset": 21443.077111531173,
+        "anchorCount": 39,
+        "rms": 6.03474402289533
+      },
+      "scanId": "1fa18777-6444-4478-9130-4eafd2623294"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:TL6-09": {
+      "code": "TL6-09",
+      "x": 28640.755630146024,
+      "y": 16822.63823622228,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-11T03:12:19.932Z",
+      "source": "user-reviewed",
+      "ath": -0.028604880206299865,
+      "atv": -0.07680759519622525,
+      "coordinateCalibration": {
+        "xAth": 60070.729144869176,
+        "xAtv": 97.05557182939769,
+        "xOffset": 30366.526246312704,
+        "yAth": 30.152731521160078,
+        "yAtv": 60144.785788878195,
+        "yOffset": 21443.077111531173,
+        "anchorCount": 39,
+        "rms": 6.03474402289533
+      },
+      "scanId": "9a1df09d-fc37-47bc-9774-f9e81208b972"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:TL12-111": {
+      "code": "TL12-111",
+      "x": 26215.10471531175,
+      "y": 20636.76305471705,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-11T03:19:12.427Z",
+      "source": "user-reviewed",
+      "ath": -0.06671547726429465,
+      "atv": -0.018027828676972762,
+      "coordinateCalibration": {
+        "xAth": 58766.96548648557,
+        "xAtv": 408.1267661552339,
+        "xOffset": 30143.1285045357,
+        "yAth": 11.898041108113881,
+        "yAtv": 59998.83174118714,
+        "yOffset": 21719.205497656723,
+        "anchorCount": 71,
+        "rms": 32.777563807348066
+      },
+      "scanId": "cbb4615c-e49d-416e-8da6-aee2550e67cb"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:TL12A-85": {
+      "code": "TL12A-85",
+      "x": 25791.351118878723,
+      "y": 19805.764641376238,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-11T03:19:16.356Z",
+      "source": "user-reviewed",
+      "ath": -0.07383004433095529,
+      "atv": -0.03187666105947049,
+      "coordinateCalibration": {
+        "xAth": 58766.96548648557,
+        "xAtv": 408.1267661552339,
+        "xOffset": 30143.1285045357,
+        "yAth": 11.898041108113881,
+        "yAtv": 59998.83174118714,
+        "yOffset": 21719.205497656723,
+        "anchorCount": 71,
+        "rms": 32.777563807348066
+      },
+      "scanId": "f0a6a941-ecc1-48b7-92c8-d47c5d2ee848"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:TL14-95": {
+      "code": "TL14-95",
+      "x": 25424.09744799303,
+      "y": 20129.210216527485,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-11T03:19:19.667Z",
+      "source": "user-reviewed",
+      "ath": -0.08011681331337436,
+      "atv": -0.026484549813328484,
+      "coordinateCalibration": {
+        "xAth": 58766.96548648557,
+        "xAtv": 408.1267661552339,
+        "xOffset": 30143.1285045357,
+        "yAth": 11.898041108113881,
+        "yAtv": 59998.83174118714,
+        "yOffset": 21719.205497656723,
+        "anchorCount": 71,
+        "rms": 32.777563807348066
+      },
+      "scanId": "2c846585-23ff-443c-8353-49d4de3d0b3b"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:TL14-135": {
+      "code": "TL14-135",
+      "x": 25654.637099128406,
+      "y": 21269.069581717336,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-11T03:24:13.699Z",
+      "source": "user-reviewed",
+      "ath": -0.08001643386090876,
+      "atv": -0.003895317282496475,
+      "coordinateCalibration": {
+        "xAth": 60132.06929555669,
+        "xAtv": -1138.0671785043503,
+        "xOffset": 30461.75771208683,
+        "yAth": -3.402268567301896,
+        "yAtv": 60148.3992269882,
+        "yOffset": 21503.09444334293,
+        "anchorCount": 53,
+        "rms": 21.96959648300933
+      },
+      "scanId": "468bdd69-23c3-4629-b7bf-be73b68cb52d"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:TL14-141": {
+      "code": "TL14-141",
+      "x": 25634.33364473047,
+      "y": 21438.55733167255,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-11T03:24:19.427Z",
+      "source": "user-reviewed",
+      "ath": -0.08030075131596043,
+      "atv": -0.0010775069199752225,
+      "coordinateCalibration": {
+        "xAth": 60132.06929555669,
+        "xAtv": -1138.0671785043503,
+        "xOffset": 30461.75771208683,
+        "yAth": -3.402268567301896,
+        "yAtv": 60148.3992269882,
+        "yOffset": 21503.09444334293,
+        "anchorCount": 53,
+        "rms": 21.96959648300933
+      },
+      "scanId": "d5fb6834-6e50-46ca-936e-27386c7749a3"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:TL15-15": {
+      "code": "TL15-15",
+      "x": 25134.255548554225,
+      "y": 17230.777147658056,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-11T03:37:11.147Z",
+      "source": "user-reviewed",
+      "ath": -0.08817115238256958,
+      "atv": -0.07191430471536382,
+      "coordinateCalibration": {
+        "xAth": 60889.04521529562,
+        "xAtv": 1765.329268421721,
+        "xOffset": 30629.865259593455,
+        "yAth": 51.136949382086065,
+        "yAtv": 60108.998390917666,
+        "yOffset": 21557.98277783417,
+        "anchorCount": 40,
+        "rms": 33.67498214885036
+      },
+      "scanId": "2d3f25de-7ea7-42d1-9229-668a73b652db"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:TL10-111": {
+      "code": "TL10-111",
+      "x": 27041.119701523472,
+      "y": 20544.41935260994,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-11T03:37:19.004Z",
+      "source": "user-reviewed",
+      "ath": -0.05264899854921573,
+      "atv": -0.019569709793061232,
+      "coordinateCalibration": {
+        "xAth": 58766.96548648557,
+        "xAtv": 408.1267661552339,
+        "xOffset": 30143.1285045357,
+        "yAth": 11.898041108113881,
+        "yAtv": 59998.83174118714,
+        "yOffset": 21719.205497656723,
+        "anchorCount": 71,
+        "rms": 32.777563807348066
+      },
+      "scanId": "7a426adc-8a7e-4623-8799-3af9ef15c549"
+    },
+    "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9:AS50-14": {
+      "code": "AS50-14",
+      "x": 30564.61074259491,
+      "y": 21112.084105131413,
+      "mapId": "53eea428b26827d31ad8c9c8a822c4bbeeec7d27db6213f3bce99e00e7b152c9",
+      "verifiedAt": "2026-11-11T03:44:42.203Z",
+      "source": "user-reviewed",
+      "ath": 0.007321239364096539,
+      "atv": -0.006299328522626421,
+      "coordinateCalibration": {
+        "xAth": 58887.87647762836,
+        "xAtv": -976.7453439991277,
+        "xOffset": 30127.325663454045,
+        "yAth": 708.2703399605065,
+        "yAtv": 60679.71556250323,
+        "yOffset": 21489.140151425807,
+        "anchorCount": 41,
+        "rms": 28.979120114296258
+      },
+      "scanId": "f6040345-1771-45cc-9b75-775aeab891c1"
     }
   },
   "history": [
+    {
+      "at": "2026-11-11T10:18:56.602Z",
+      "action": "sync",
+      "pending": 298,
+      "assigned": 427
+    },
+    {
+      "at": "2026-11-11T03:44:42.204Z",
+      "action": "approve",
+      "codes": [
+        "AS50-14"
+      ]
+    },
+    {
+      "at": "2026-11-11T03:40:16.829Z",
+      "action": "sync",
+      "pending": 38,
+      "assigned": 975
+    },
+    {
+      "at": "2026-11-11T03:38:24.687Z",
+      "action": "stage",
+      "codes": [
+        "AS48A-01",
+        "ĐLCV3-102",
+        "TL3-29",
+        "TL3A-37",
+        "TL5-29",
+        "TL6-09",
+        "TL10-111",
+        "TL12-111",
+        "TL12A-85",
+        "TL14-95",
+        "TL14-135",
+        "TL14-141",
+        "TL15-15"
+      ]
+    },
+    {
+      "at": "2026-11-11T03:37:19.004Z",
+      "action": "approve",
+      "codes": [
+        "TL10-111"
+      ]
+    },
+    {
+      "at": "2026-11-11T03:37:11.147Z",
+      "action": "approve",
+      "codes": [
+        "TL15-15"
+      ]
+    },
+    {
+      "at": "2026-11-11T03:24:19.428Z",
+      "action": "approve",
+      "codes": [
+        "TL14-141"
+      ]
+    },
+    {
+      "at": "2026-11-11T03:24:13.700Z",
+      "action": "approve",
+      "codes": [
+        "TL14-135"
+      ]
+    },
+    {
+      "at": "2026-11-11T03:19:19.668Z",
+      "action": "approve",
+      "codes": [
+        "TL14-95"
+      ]
+    },
+    {
+      "at": "2026-11-11T03:19:16.356Z",
+      "action": "approve",
+      "codes": [
+        "TL12A-85"
+      ]
+    },
+    {
+      "at": "2026-11-11T03:19:12.428Z",
+      "action": "approve",
+      "codes": [
+        "TL12-111"
+      ]
+    },
+    {
+      "at": "2026-11-11T03:12:19.933Z",
+      "action": "approve",
+      "codes": [
+        "TL6-09"
+      ]
+    },
+    {
+      "at": "2026-11-11T03:12:10.156Z",
+      "action": "approve",
+      "codes": [
+        "TL3-29"
+      ]
+    },
+    {
+      "at": "2026-11-11T03:12:06.196Z",
+      "action": "approve",
+      "codes": [
+        "TL3A-37"
+      ]
+    },
+    {
+      "at": "2026-11-11T03:11:59.909Z",
+      "action": "approve",
+      "codes": [
+        "TL5-29"
+      ]
+    },
+    {
+      "at": "2026-11-11T03:06:04.326Z",
+      "action": "approve",
+      "codes": [
+        "ĐLCV3-102"
+      ]
+    },
+    {
+      "at": "2026-11-11T03:05:49.678Z",
+      "action": "approve",
+      "codes": [
+        "AS48A-01"
+      ]
+    },
+    {
+      "at": "2026-11-11T01:56:42.905Z",
+      "action": "sync",
+      "pending": 53,
+      "assigned": 962
+    },
+    {
+      "at": "2026-11-10T09:56:00.812Z",
+      "action": "save",
+      "codes": [
+        "TL9-39",
+        "TL10-07",
+        "TL12-49",
+        "TL12A-83",
+        "TL14-53",
+        "TL15-61",
+        "TL38-34",
+        "TL38-62"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:55:41.709Z",
+      "action": "stage",
+      "codes": [
+        "TL9-39",
+        "TL10-07",
+        "TL12-49",
+        "TL12A-83",
+        "TL14-53",
+        "TL15-61",
+        "TL38-34",
+        "TL38-62"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:55:12.316Z",
+      "action": "save",
+      "codes": [
+        "AS84-25",
+        "AS84-38",
+        "AS85-02",
+        "AS85-07",
+        "AS85-09",
+        "AS85-11",
+        "AS85-13",
+        "AS85-14",
+        "AS85-18",
+        "AS85-22",
+        "AS85-28",
+        "AS85-32",
+        "AS85-34",
+        "AS85-36",
+        "AS86-01",
+        "AS86-03",
+        "AS86-11",
+        "AS86-19",
+        "AS86-55",
+        "TL9-37"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:54:34.995Z",
+      "action": "stage",
+      "codes": [
+        "AS84-25",
+        "AS84-38",
+        "AS85-02",
+        "AS85-07",
+        "AS85-09",
+        "AS85-11",
+        "AS85-13",
+        "AS85-14",
+        "AS85-18",
+        "AS85-22",
+        "AS85-28",
+        "AS85-32",
+        "AS85-34",
+        "AS85-36",
+        "AS86-01",
+        "AS86-03",
+        "AS86-11",
+        "AS86-19",
+        "AS86-55",
+        "TL9-37"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:53:33.298Z",
+      "action": "save",
+      "codes": [
+        "AS82-36",
+        "AS82-44",
+        "AS82-45",
+        "AS82-46",
+        "AS82-48",
+        "AS83-20",
+        "AS83-22",
+        "AS83-26",
+        "AS83-28",
+        "AS83-30",
+        "AS83-32",
+        "AS83-39",
+        "AS83-44",
+        "AS83-48",
+        "AS83-53",
+        "AS84-01",
+        "AS84-05",
+        "AS84-13",
+        "AS84-20",
+        "AS84-22"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:52:48.645Z",
+      "action": "stage",
+      "codes": [
+        "AS82-36",
+        "AS82-44",
+        "AS82-45",
+        "AS82-46",
+        "AS82-48",
+        "AS83-20",
+        "AS83-22",
+        "AS83-26",
+        "AS83-28",
+        "AS83-30",
+        "AS83-32",
+        "AS83-39",
+        "AS83-44",
+        "AS83-48",
+        "AS83-53",
+        "AS84-01",
+        "AS84-05",
+        "AS84-13",
+        "AS84-20",
+        "AS84-22"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:51:38.819Z",
+      "action": "approve",
+      "codes": [
+        "TL38-62"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:51:20.012Z",
+      "action": "approve",
+      "codes": [
+        "TL38-34"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:51:11.803Z",
+      "action": "approve",
+      "codes": [
+        "TL15-61"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:51:05.221Z",
+      "action": "approve",
+      "codes": [
+        "TL14-53"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:50:58.100Z",
+      "action": "approve",
+      "codes": [
+        "TL12A-83"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:50:47.093Z",
+      "action": "approve",
+      "codes": [
+        "TL12-49"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:50:36.483Z",
+      "action": "approve",
+      "codes": [
+        "TL10-07"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:50:30.708Z",
+      "action": "approve",
+      "codes": [
+        "TL9-39"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:50:25.371Z",
+      "action": "approve",
+      "codes": [
+        "TL9-37"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:50:11.204Z",
+      "action": "approve",
+      "codes": [
+        "AS86-55"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:50:07.067Z",
+      "action": "approve",
+      "codes": [
+        "AS86-19"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:50:03.236Z",
+      "action": "approve",
+      "codes": [
+        "AS86-11"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:49:58.844Z",
+      "action": "approve",
+      "codes": [
+        "AS86-03"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:49:54.467Z",
+      "action": "approve",
+      "codes": [
+        "AS86-01"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:49:49.604Z",
+      "action": "approve",
+      "codes": [
+        "AS85-36"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:49:43.971Z",
+      "action": "approve",
+      "codes": [
+        "AS85-34"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:49:38.203Z",
+      "action": "approve",
+      "codes": [
+        "AS85-32"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:49:32.380Z",
+      "action": "approve",
+      "codes": [
+        "AS85-28"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:49:27.755Z",
+      "action": "approve",
+      "codes": [
+        "AS85-22"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:49:23.795Z",
+      "action": "approve",
+      "codes": [
+        "AS85-18"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:49:17.940Z",
+      "action": "approve",
+      "codes": [
+        "AS85-14"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:49:10.420Z",
+      "action": "approve",
+      "codes": [
+        "AS85-13"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:49:04.940Z",
+      "action": "approve",
+      "codes": [
+        "AS85-11"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:48:59.891Z",
+      "action": "approve",
+      "codes": [
+        "AS85-09"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:48:54.867Z",
+      "action": "approve",
+      "codes": [
+        "AS85-07"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:48:49.052Z",
+      "action": "approve",
+      "codes": [
+        "AS85-02"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:48:40.484Z",
+      "action": "approve",
+      "codes": [
+        "AS84-38"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:48:34.491Z",
+      "action": "approve",
+      "codes": [
+        "AS84-25"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:48:28.964Z",
+      "action": "approve",
+      "codes": [
+        "AS84-22"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:48:22.275Z",
+      "action": "approve",
+      "codes": [
+        "AS84-20"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:48:16.661Z",
+      "action": "approve",
+      "codes": [
+        "AS84-13"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:48:11.419Z",
+      "action": "approve",
+      "codes": [
+        "AS84-05"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:48:05.244Z",
+      "action": "approve",
+      "codes": [
+        "AS84-01"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:47:59.595Z",
+      "action": "approve",
+      "codes": [
+        "AS83-53"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:47:53.941Z",
+      "action": "approve",
+      "codes": [
+        "AS83-48"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:47:48.980Z",
+      "action": "approve",
+      "codes": [
+        "AS83-44"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:47:44.740Z",
+      "action": "approve",
+      "codes": [
+        "AS83-39"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:47:36.228Z",
+      "action": "approve",
+      "codes": [
+        "AS83-32"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:47:28.780Z",
+      "action": "approve",
+      "codes": [
+        "AS83-30"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:47:22.780Z",
+      "action": "approve",
+      "codes": [
+        "AS83-28"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:47:17.483Z",
+      "action": "approve",
+      "codes": [
+        "AS83-26"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:47:11.452Z",
+      "action": "approve",
+      "codes": [
+        "AS83-22"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:47:05.411Z",
+      "action": "approve",
+      "codes": [
+        "AS83-20"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:46:59.771Z",
+      "action": "approve",
+      "codes": [
+        "AS82-48"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:46:54.523Z",
+      "action": "approve",
+      "codes": [
+        "AS82-46"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:46:49.891Z",
+      "action": "approve",
+      "codes": [
+        "AS82-45"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:46:43.459Z",
+      "action": "approve",
+      "codes": [
+        "AS82-44"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:46:38.041Z",
+      "action": "approve",
+      "codes": [
+        "AS82-36"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:46:17.478Z",
+      "action": "save",
+      "codes": [
+        "AS81-13",
+        "AS81-35",
+        "AS81-41",
+        "AS82-07",
+        "AS82-14",
+        "AS82-17",
+        "AS82-18",
+        "AS82-21",
+        "AS82-30",
+        "AS82-34"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:45:52.578Z",
+      "action": "stage",
+      "codes": [
+        "AS81-13",
+        "AS81-35",
+        "AS81-41",
+        "AS82-07",
+        "AS82-14",
+        "AS82-17",
+        "AS82-18",
+        "AS82-21",
+        "AS82-30",
+        "AS82-34"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:45:09.811Z",
+      "action": "save",
+      "codes": [
+        "AS83-10",
+        "AS83-18",
+        "AS83-37"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:44:44.900Z",
+      "action": "approve",
+      "codes": [
+        "AS83-37"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:44:37.709Z",
+      "action": "approve",
+      "codes": [
+        "AS83-18"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:44:32.829Z",
+      "action": "approve",
+      "codes": [
+        "AS83-10"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:43:46.220Z",
+      "action": "approve",
+      "codes": [
+        "AS82-34"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:43:39.909Z",
+      "action": "approve",
+      "codes": [
+        "AS82-30"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:43:34.420Z",
+      "action": "approve",
+      "codes": [
+        "AS82-21"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:43:28.788Z",
+      "action": "approve",
+      "codes": [
+        "AS82-18"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:43:23.228Z",
+      "action": "approve",
+      "codes": [
+        "AS82-17"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:43:18.684Z",
+      "action": "approve",
+      "codes": [
+        "AS82-14"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:43:11.300Z",
+      "action": "approve",
+      "codes": [
+        "AS82-07"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:43:02.740Z",
+      "action": "approve",
+      "codes": [
+        "AS81-41"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:39:41.829Z",
+      "action": "approve",
+      "codes": [
+        "AS81-35"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:39:34.686Z",
+      "action": "approve",
+      "codes": [
+        "AS81-13"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:39:13.783Z",
+      "action": "stage",
+      "codes": [
+        "AS83-37"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:39:05.332Z",
+      "action": "approve",
+      "codes": [
+        "AS83-37"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:38:56.007Z",
+      "action": "stage",
+      "codes": [
+        "AS83-18"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:38:45.509Z",
+      "action": "approve",
+      "codes": [
+        "AS83-18"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:38:37.454Z",
+      "action": "stage",
+      "codes": [
+        "AS83-10"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:38:27.989Z",
+      "action": "approve",
+      "codes": [
+        "AS83-10"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:38:14.054Z",
+      "action": "save",
+      "codes": [
+        "AS77-52",
+        "AS77-54",
+        "AS77-58",
+        "AS79-24",
+        "AS79-26",
+        "AS79-31",
+        "AS79-32",
+        "AS79-37",
+        "AS79-51",
+        "AS80-01",
+        "AS80-03",
+        "AS80-05",
+        "AS80-07",
+        "AS80-20",
+        "AS80-35",
+        "AS80-37",
+        "AS80-38",
+        "AS80-40",
+        "AS80-41",
+        "AS81-01"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:37:37.369Z",
+      "action": "stage",
+      "codes": [
+        "AS77-52",
+        "AS77-54",
+        "AS77-58",
+        "AS79-24",
+        "AS79-26",
+        "AS79-31",
+        "AS79-32",
+        "AS79-37",
+        "AS79-51",
+        "AS80-01",
+        "AS80-03",
+        "AS80-05",
+        "AS80-07",
+        "AS80-20",
+        "AS80-35",
+        "AS80-37",
+        "AS80-38",
+        "AS80-40",
+        "AS80-41",
+        "AS81-01"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:36:35.716Z",
+      "action": "approve",
+      "codes": [
+        "AS81-01"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:36:28.525Z",
+      "action": "approve",
+      "codes": [
+        "AS80-41"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:36:24.277Z",
+      "action": "approve",
+      "codes": [
+        "AS80-40"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:36:19.508Z",
+      "action": "approve",
+      "codes": [
+        "AS80-38"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:36:12.886Z",
+      "action": "approve",
+      "codes": [
+        "AS80-37"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:35:46.551Z",
+      "action": "save",
+      "codes": [
+        "AS80-36"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:35:27.147Z",
+      "action": "stage",
+      "codes": [
+        "AS80-36"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:35:10.044Z",
+      "action": "approve",
+      "codes": [
+        "AS80-36"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:35:05.268Z",
+      "action": "approve",
+      "codes": [
+        "AS80-35"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:34:59.701Z",
+      "action": "approve",
+      "codes": [
+        "AS80-20"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:34:51.628Z",
+      "action": "approve",
+      "codes": [
+        "AS80-07"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:27:53.022Z",
+      "action": "approve",
+      "codes": [
+        "AS80-05"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:27:46.927Z",
+      "action": "approve",
+      "codes": [
+        "AS80-03"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:27:41.214Z",
+      "action": "approve",
+      "codes": [
+        "AS80-01"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:27:33.638Z",
+      "action": "approve",
+      "codes": [
+        "AS79-51"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:27:27.254Z",
+      "action": "approve",
+      "codes": [
+        "AS79-37"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:27:20.774Z",
+      "action": "approve",
+      "codes": [
+        "AS79-32"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:27:13.750Z",
+      "action": "approve",
+      "codes": [
+        "AS79-31"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:27:08.070Z",
+      "action": "approve",
+      "codes": [
+        "AS79-26"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:27:02.334Z",
+      "action": "approve",
+      "codes": [
+        "AS79-24"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:26:52.582Z",
+      "action": "approve",
+      "codes": [
+        "AS77-58"
+      ]
+    },
+    {
+      "at": "2026-11-10T09:26:45.334Z",
+      "action": "approve",
+      "codes": [
+        "AS77-54"
+      ]
+    },
     {
       "at": "2026-11-10T09:22:13.246Z",
       "action": "approve",
@@ -2674,272 +5652,6 @@
       "codes": [
         "AS76-14"
       ]
-    },
-    {
-      "at": "2026-11-09T06:56:09.254Z",
-      "action": "stage",
-      "codes": [
-        "AS77-09"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:56:00.583Z",
-      "action": "approve",
-      "codes": [
-        "AS77-09"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:55:47.903Z",
-      "action": "approve",
-      "codes": [
-        "AS77-13"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:55:02.104Z",
-      "action": "stage",
-      "codes": [
-        "AS77-13"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:54:51.966Z",
-      "action": "approve",
-      "codes": [
-        "AS77-13"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:54:36.500Z",
-      "action": "stage",
-      "codes": [
-        "AS75-19"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:54:28.183Z",
-      "action": "approve",
-      "codes": [
-        "AS75-19"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:54:14.770Z",
-      "action": "stage",
-      "codes": [
-        "AS75-17"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:54:05.399Z",
-      "action": "approve",
-      "codes": [
-        "AS75-17"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:53:47.428Z",
-      "action": "stage",
-      "codes": [
-        "AS75-13"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:53:34.111Z",
-      "action": "approve",
-      "codes": [
-        "AS75-13"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:53:17.053Z",
-      "action": "stage",
-      "codes": [
-        "AS75-02"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:53:04.174Z",
-      "action": "approve",
-      "codes": [
-        "AS75-02"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:51:14.342Z",
-      "action": "save",
-      "codes": [
-        "AS48A-18"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:50:56.798Z",
-      "action": "stage",
-      "codes": [
-        "AS48A-18"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:50:43.263Z",
-      "action": "approve",
-      "codes": [
-        "AS48A-18"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:50:24.967Z",
-      "action": "save",
-      "codes": [
-        "AS48-02"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:49:23.221Z",
-      "action": "stage",
-      "codes": [
-        "AS48-02"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:49:16.511Z",
-      "action": "approve",
-      "codes": [
-        "AS48-02"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:48:59.150Z",
-      "action": "sync",
-      "pending": 182,
-      "assigned": 809
-    },
-    {
-      "at": "2026-11-09T06:45:08.382Z",
-      "action": "sync",
-      "pending": 182,
-      "assigned": 809
-    },
-    {
-      "at": "2026-11-09T05:34:10.716Z",
-      "action": "approve",
-      "codes": [
-        "AS48-02"
-      ]
-    },
-    {
-      "at": "2026-11-09T05:33:57.383Z",
-      "action": "sync",
-      "pending": 182,
-      "assigned": 809
-    },
-    {
-      "at": "2026-11-09T05:22:43.102Z",
-      "action": "approve",
-      "codes": [
-        "AS48-02"
-      ]
-    },
-    {
-      "at": "2026-11-09T05:22:29.421Z",
-      "action": "sync",
-      "pending": 182,
-      "assigned": 809
-    },
-    {
-      "at": "2026-11-09T05:21:13.910Z",
-      "action": "approve",
-      "codes": [
-        "AS48-02"
-      ]
-    },
-    {
-      "at": "2026-11-09T05:21:12.301Z",
-      "action": "approve",
-      "codes": [
-        "AS48-02"
-      ]
-    },
-    {
-      "at": "2026-11-09T05:18:08.517Z",
-      "action": "approve",
-      "codes": [
-        "AS48-02"
-      ]
-    },
-    {
-      "at": "2026-11-09T05:17:50.737Z",
-      "action": "sync",
-      "pending": 182,
-      "assigned": 809
-    },
-    {
-      "at": "2026-11-09T05:12:45.118Z",
-      "action": "approve",
-      "codes": [
-        "AS48-02"
-      ]
-    },
-    {
-      "at": "2026-11-09T03:22:07.962Z",
-      "action": "sync",
-      "pending": 182,
-      "assigned": 809
-    },
-    {
-      "at": "2026-11-09T03:21:04.093Z",
-      "action": "sync",
-      "pending": 183,
-      "assigned": 808
-    },
-    {
-      "at": "2026-11-09T03:18:45.660Z",
-      "action": "sync",
-      "pending": 183,
-      "assigned": 808
-    },
-    {
-      "at": "2026-11-07T05:03:03.598Z",
-      "action": "sync",
-      "pending": 140,
-      "assigned": 806
-    },
-    {
-      "at": "2026-11-07T05:02:34.051Z",
-      "action": "sync",
-      "pending": 140,
-      "assigned": 806
-    },
-    {
-      "at": "2026-11-07T04:56:57.649Z",
-      "action": "sync",
-      "pending": 140,
-      "assigned": 806
-    },
-    {
-      "at": "2026-11-07T04:54:42.760Z",
-      "action": "sync",
-      "pending": 140,
-      "assigned": 806
-    },
-    {
-      "at": "2026-11-07T04:48:58.268Z",
-      "action": "approve",
-      "codes": [
-        "AS76-09"
-      ]
-    },
-    {
-      "at": "2026-11-07T04:46:45.400Z",
-      "action": "sync",
-      "pending": 140,
-      "assigned": 806
-    },
-    {
-      "at": "2026-11-07T04:33:36.628Z",
-      "action": "sync",
-      "pending": 140,
-      "assigned": 806
     }
   ]
 }

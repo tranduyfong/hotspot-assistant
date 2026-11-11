@@ -53,10 +53,10 @@ test('căn chờ gắn loại sold, hidden, đã gắn; mã trùng làm đồng 
 });
 test('xác nhận chặn nhầm mã, ảnh cũ và điểm nằm ngoài vùng ảnh', () => {
   const scan = { code: 'AS76-09', mapId: 'map-1', left: 100, top: 200, width: 1000, height: 800 };
-  const body = { code: 'AS76-09', typedCode: 'AS76-09', point: { x: 50, y: 60 }, scan, currentMapId: 'map-1' };
+  const body = { code: 'AS76-09', point: { x: 50, y: 60 }, scan, currentMapId: 'map-1' };
   const result = approvePosition(body);
   assert.equal(result.x, 150); assert.equal(result.y, 260); assert.equal(result.source, 'user-reviewed');
-  assert.throws(() => approvePosition({ ...body, typedCode: 'AS76-08' }));
+  assert.throws(() => approvePosition({ ...body, code: 'AS76-08' }));
   assert.throws(() => approvePosition({ ...body, currentMapId: 'map-2' }));
   assert.throws(() => approvePosition({ ...body, point: { x: 1000, y: 5 } }));
 });

@@ -13,7 +13,7 @@
         <span class="brand-icon">V</span>
         <div><strong>Trợ lý gắn căn</strong><small>VHUB · Công cụ cục bộ</small></div>
       </div>
-      <div class="project"><span class="dot"></span> VINHOMES SÀI GÒN PARK</div>
+      <label class="project"><span class="dot"></span><span>Dự án</span><select id="project-select" aria-label="Chọn dự án VHUB"></select></label>
       <div class="header-actions">
         <span id="connection" class="muted">Chưa kết nối</span
         ><button id="connect" class="primary">Kết nối & đồng bộ</button>
@@ -68,7 +68,7 @@
             ><input id="filter" placeholder="Tìm mã, dãy căn…" aria-label="Lọc căn cần xử lý"
           /></label>
           <div class="list-tools">
-            <button id="select-approved" class="text-button">Chọn 20 căn đã duyệt</button
+            <button id="select-approved" class="text-button">Chọn tối đa 50 căn đã duyệt</button
             ><button id="clear-selected" class="text-button">Bỏ chọn</button>
           </div>
           <div id="pending-list" class="pending-list">
@@ -155,13 +155,7 @@
               <p class="muted">Kết quả nhận diện sẽ xuất hiện ở đây.</p>
             </div>
             <p class="step-label">2 · XÁC NHẬN ĐÚNG Ô</p>
-            <label class="field-label" for="confirm-code">Nhập lại mã bạn đọc trên ảnh</label
-            ><input
-              id="confirm-code"
-              class="code-input"
-              placeholder="Ví dụ: AS76-09"
-              autocomplete="off"
-            /><button id="approve" class="primary full">Ghi nhớ vị trí</button>
+            <button id="approve" class="primary full">Ghi nhớ vị trí</button>
             <button id="unapprove" class="full quiet" hidden>Xóa vị trí đã ghi nhớ</button>
             <p id="approval-note" class="help">
               Vị trí lưu trên máy, gắn với phiên bản mặt bằng hiện tại.

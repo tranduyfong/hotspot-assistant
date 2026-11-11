@@ -3,7 +3,7 @@ import { randomUUID, randomBytes } from 'node:crypto';
 import { readFile, mkdir, writeFile, readdir } from 'node:fs/promises';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { VhubDriver } from './lib/driver.mjs';
+import { VhubDriver, PROJECTS } from './lib/driver.mjs';
 import { Store } from './lib/store.mjs';
 import { buildPatch } from './lib/tiles.mjs';
 import { ocrConfig, readLabels } from './lib/ocr.mjs';
@@ -11,6 +11,7 @@ import { codeOf, nearestAnchors, worldToPixel, worldToPixelCalibrated, pixelToWo
   calibrateImageWorld, approvalKey, approvePosition } from './lib/domain.mjs';
 
 const root = dirname(fileURLToPath(import.meta.url)), dataRoot = join(root, '.data');
+const MAX_BATCH = 50;
 await mkdir(join(dataRoot, 'scans'), { recursive: true });
 const store = new Store(dataRoot); await store.init();
 const scans = new Map();
@@ -37,7 +38,7 @@ function state() {
   const approvals = Object.values(store.data.approvals).filter(p => p.mapId === driver.map?.id);
   const recognizedCodes = [...new Set([...scans.values()].filter(s => s.mapId === driver.map?.id)
     .flatMap(s => s.candidates.map(c => c.code)))];
-  return { ...summary, approvals, recognizedCodes, anchorOptions, ocrReady: ocrConfig().ready, job,
+  return { ...summary, projects: Object.values(PROJECTS), approvals, recognizedCodes, anchorOptions, ocrReady: ocrConfig().ready, job,
     history: store.data.history.slice(0, 25) };
 }
 function worldToMapPixel(world) {
@@ -102,13 +103,28 @@ async function post(path, body) {
     notify('Đang dừng dò mã…'); abort.abort(); return { ok: true };
   }
   if (path === '/api/connect' || path === '/api/sync') return startJob('sync', async () => {
+    if (body.projectId && body.projectId !== driver.projectId) {
+      if (driver.ownDrafts.size) throw new Error('Hãy lưu hoặc hủy nháp do tool tạo trước khi đổi dự án.');
+      if (driver.page && driver.connected && driver.map) {
+        try {
+          await driver.ensureManager();
+          if (await driver.nativeDraftCount())
+            throw new Error('VHUB còn bản nháp ở dự án hiện tại. Hãy xử lý nháp rồi mới đổi dự án.');
+        } catch (error) {
+          if (error.message.includes('còn bản nháp')) throw error;
+          throw new Error(`Không kiểm tra được bản nháp ở dự án hiện tại: ${error.message}`);
+        }
+      }
+      driver.setProject(body.projectId);
+      if (driver.page && !driver.page.isClosed()) await driver.page.goto(driver.url, { waitUntil: 'domcontentloaded' });
+    }
     const result = await driver.sync(); await store.log('sync', { pending: result.pending.length, assigned: result.assignedCount });
     return { pending: result.pending.length, assigned: result.assignedCount };
   });
   if (path === '/api/scan') return startJob('scan', signal => scanCode(body, signal), true);
   if (path === '/api/scan-batch') return startJob('scan-batch', async signal => {
     const codes = [...new Set((body.codes || []).map(codeOf))];
-    if (!codes.length || codes.length > 10) throw new Error('Chọn từ 1 tới 10 căn mỗi lượt dò.');
+    if (!codes.length || codes.length > MAX_BATCH) throw new Error(`Chọn từ 1 tới ${MAX_BATCH} căn mỗi lượt dò.`);
     const results = [];
     for (const code of codes) { signal.throwIfAborted(); results.push(await scanCode({ code, radius: body.radius }, signal)); }
     return { scanIds: results.map(s => s.id), codes };

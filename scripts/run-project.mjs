@@ -81,7 +81,7 @@ try {
       const {result:scan}=await job('/api/scan',{code});
       const c=item.candidate;
       const point={x:c.x+c.left-scan.left,y:c.y+c.top-scan.top};
-      await api('/api/approve',{code,typedCode:code,scanId:scan.id,point});
+      await api('/api/approve',{code,scanId:scan.id,point});
       console.log('APPROVED',code,'sheet',item.sheet,'cell',item.cell);
     }
     await snapshot();

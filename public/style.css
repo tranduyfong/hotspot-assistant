@@ -133,6 +133,15 @@ input[type='range'] {
   align-items: center;
   gap: 9px;
 }
+.project select {
+  max-width: 220px;
+  padding: 6px 8px;
+  color: #f2ead9;
+  border: 1px solid #526264;
+  border-radius: 5px;
+  background: #263d40;
+  letter-spacing: 0;
+}
 .dot {
   width: 6px;
   height: 6px;

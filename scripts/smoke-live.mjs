@@ -56,7 +56,6 @@ try {
   assert.deepEqual(errors, []);
   await mkdir('.data/qa', { recursive: true });
   if (process.argv.includes('--review-local')) {
-    await page.locator('#confirm-code').fill('AS76-09');
     assert.equal(await page.locator('#approve').isEnabled(), true);
     const pending = page.waitForResponse(r => new URL(r.url()).pathname === '/api/approve' && r.request().method() === 'POST');
     await page.locator('#approve').click();
