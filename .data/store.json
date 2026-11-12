@@ -3252,9 +3252,115 @@
         "rms": 28.979120114296258
       },
       "scanId": "f6040345-1771-45cc-9b75-775aeab891c1"
+    },
+    "f59e79b832e8497835f0e3c64a5ce3bfcc59aed02fcf7715c36d6577309bfd1d:AS10-03": {
+      "code": "AS10-03",
+      "x": 6703,
+      "y": 6572.333333333333,
+      "mapId": "f59e79b832e8497835f0e3c64a5ce3bfcc59aed02fcf7715c36d6577309bfd1d",
+      "verifiedAt": "2026-11-11T18:31:55.847Z",
+      "source": "user-reviewed",
+      "ath": -0.12053050867536497,
+      "atv": 0.09082705878392217,
+      "scanId": "0c7aedf6-6db6-4f4b-8805-2965752748f2"
+    },
+    "f59e79b832e8497835f0e3c64a5ce3bfcc59aed02fcf7715c36d6577309bfd1d:AS10-85": {
+      "code": "AS10-85",
+      "x": 5253.610466187581,
+      "y": 6478.625391560715,
+      "mapId": "f59e79b832e8497835f0e3c64a5ce3bfcc59aed02fcf7715c36d6577309bfd1d",
+      "verifiedAt": "2026-11-12T00:01:10.130Z",
+      "source": "user-reviewed",
+      "ath": -0.20258522762747902,
+      "atv": 0.08552157918881806,
+      "scanId": "19704b67-caa7-43ab-bb3e-894ba59ce90e"
+    },
+    "f59e79b832e8497835f0e3c64a5ce3bfcc59aed02fcf7715c36d6577309bfd1d:AS10-87": {
+      "code": "AS10-87",
+      "x": 5225.32107563664,
+      "y": 6475.929874572406,
+      "mapId": "f59e79b832e8497835f0e3c64a5ce3bfcc59aed02fcf7715c36d6577309bfd1d",
+      "verifiedAt": "2026-11-12T00:01:31.642Z",
+      "source": "user-reviewed",
+      "ath": -0.20418677609982988,
+      "atv": 0.08536896867044236,
+      "scanId": "448e6806-5cb6-4d2b-975c-feba596f300a"
     }
   },
   "history": [
+    {
+      "at": "2026-11-12T00:02:39.532Z",
+      "action": "sync",
+      "pending": 295,
+      "assigned": 430
+    },
+    {
+      "at": "2026-11-12T00:02:00.304Z",
+      "action": "save",
+      "codes": [
+        "AS10-85",
+        "AS10-87"
+      ]
+    },
+    {
+      "at": "2026-11-12T00:01:40.325Z",
+      "action": "stage",
+      "codes": [
+        "AS10-85",
+        "AS10-87"
+      ]
+    },
+    {
+      "at": "2026-11-12T00:01:31.642Z",
+      "action": "approve",
+      "codes": [
+        "AS10-87"
+      ]
+    },
+    {
+      "at": "2026-11-12T00:01:10.130Z",
+      "action": "approve",
+      "codes": [
+        "AS10-85"
+      ]
+    },
+    {
+      "at": "2026-11-11T18:36:58.486Z",
+      "action": "sync",
+      "pending": 297,
+      "assigned": 428
+    },
+    {
+      "at": "2026-11-11T18:34:25.658Z",
+      "action": "sync",
+      "pending": 297,
+      "assigned": 428
+    },
+    {
+      "at": "2026-11-11T18:31:55.847Z",
+      "action": "approve",
+      "codes": [
+        "AS10-03"
+      ]
+    },
+    {
+      "at": "2026-11-11T18:17:45.301Z",
+      "action": "sync",
+      "pending": 298,
+      "assigned": 427
+    },
+    {
+      "at": "2026-11-11T18:13:58.164Z",
+      "action": "sync",
+      "pending": 298,
+      "assigned": 427
+    },
+    {
+      "at": "2026-11-11T17:55:15.798Z",
+      "action": "sync",
+      "pending": 298,
+      "assigned": 427
+    },
     {
       "at": "2026-11-11T10:18:56.602Z",
       "action": "sync",
@@ -5569,88 +5675,6 @@
       "action": "approve",
       "codes": [
         "AS77-28"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:59:18.598Z",
-      "action": "approve",
-      "codes": [
-        "AS77-17"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:59:03.983Z",
-      "action": "approve",
-      "codes": [
-        "AS77-17"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:58:52.358Z",
-      "action": "approve",
-      "codes": [
-        "AS76-14"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:58:45.582Z",
-      "action": "approve",
-      "codes": [
-        "AS76-13"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:58:37.360Z",
-      "action": "approve",
-      "codes": [
-        "AS76-11"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:58:28.864Z",
-      "action": "approve",
-      "codes": [
-        "AS75-23"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:57:32.823Z",
-      "action": "save",
-      "codes": [
-        "AS75-02",
-        "AS75-13",
-        "AS75-17",
-        "AS75-19",
-        "AS77-13",
-        "AS77-09"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:57:03.311Z",
-      "action": "approve",
-      "codes": [
-        "AS75-23"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:56:54.518Z",
-      "action": "approve",
-      "codes": [
-        "AS76-11"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:56:46.606Z",
-      "action": "approve",
-      "codes": [
-        "AS76-13"
-      ]
-    },
-    {
-      "at": "2026-11-09T06:56:18.631Z",
-      "action": "approve",
-      "codes": [
-        "AS76-14"
       ]
     }
   ]

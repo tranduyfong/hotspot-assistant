@@ -7,8 +7,7 @@ import { VhubDriver, PROJECTS } from './lib/driver.mjs';
 import { Store } from './lib/store.mjs';
 import { buildPatch } from './lib/tiles.mjs';
 import { ocrConfig, readLabels } from './lib/ocr.mjs';
-import { codeOf, nearestAnchors, worldToPixel, worldToPixelCalibrated, pixelToWorldCalibrated,
-  calibrateImageWorld, approvalKey, approvePosition } from './lib/domain.mjs';
+import { codeOf, nearestAnchors, worldToPixel, pixelToWorld, approvalKey, approvePosition } from './lib/domain.mjs';
 
 const root = dirname(fileURLToPath(import.meta.url)), dataRoot = join(root, '.data');
 const MAX_BATCH = 50;
@@ -42,8 +41,7 @@ function state() {
     history: store.data.history.slice(0, 25) };
 }
 function worldToMapPixel(world) {
-  const calibration = Object.values(store.data.approvals).find(p => p.mapId === driver.map?.id && p.coordinateCalibration)?.coordinateCalibration;
-  return calibration ? worldToPixelCalibrated(world, calibration) : worldToPixel(world, driver.map);
+  return worldToPixel(world, driver.map);
 }
 function startJob(action, callback, cancellable = false) {
   if (job?.status === 'running') throw new Error('Tool đang xử lý một việc khác.');
@@ -88,7 +86,7 @@ async function scanCode(body, signal) {
   // Keep the readable patch even if OCR is cancelled or its dependencies are absent.
   await persistScan(scan);
   if (body.ocr !== false && ocrConfig().ready) {
-    scan.candidates = (await readLabels(output, notify, signal, code)).map(c => ({ ...c, id: randomUUID() }));
+    scan.candidates = (await readLabels(output, notify, signal, code, driver.projectId)).map(c => ({ ...c, id: randomUUID() }));
   } else scan.warning = 'Vùng ảnh đã sẵn sàng. Có thể chọn vị trí trực tiếp; chạy CAI_OCR.bat để bật dò mã tự động.';
   return persistScan(scan);
 }
@@ -136,9 +134,8 @@ async function post(path, body) {
     if (!scan) throw new Error('Không tìm thấy ảnh xem trước. Hãy dò lại.');
     if (!driver.pending.some(p => p.code === body.code)) throw new Error('Căn này không còn chờ gắn.');
     const position = approvePosition({ ...body, scan, currentMapId: driver.map?.id });
-    const calibration = calibrateImageWorld(scan, driver.hotspots, driver.map, position.code);
-    const world = pixelToWorldCalibrated({ x: position.x, y: position.y }, calibration);
-    position.ath = world.ath; position.atv = world.atv; position.coordinateCalibration = calibration;
+    const world = pixelToWorld(position, driver.map);
+    position.ath = world.ath; position.atv = world.atv;
     position.scanId = scan.id;
     store.data.approvals[approvalKey(position.mapId, position.code)] = position;
     await store.log('approve', { codes: [position.code] }); return { position };
@@ -166,11 +163,17 @@ async function post(path, body) {
     if (positions.some(p => !p)) throw new Error('Chỉ đặt các căn đã xác nhận vị trí.');
     for (const position of positions) {
       const scan = position.scanId && scans.get(position.scanId);
-      if (!scan || scan.sessionId !== scanSessionId || !position.coordinateCalibration ||
+      if (!scan || scan.sessionId !== scanSessionId ||
           !Number.isFinite(position.ath) || !Number.isFinite(position.atv))
-        throw new Error(`Vị trí ${position.code} cần được dò và xác nhận lại để hiệu chuẩn bản đồ.`);
+        throw new Error(`Vị trí ${position.code} cần được dò và xác nhận lại trong phiên hiện tại.`);
     }
-    const result = await driver.stage(positions); await store.log('stage', { codes }); return result;
+    try {
+      const result = await driver.stage(positions);
+      if (!result.saved?.length) await store.log('stage', { codes });
+      return result;
+    } finally {
+      if (driver.lastSaved?.length) await store.log('save', { codes: driver.lastSaved });
+    }
   });
   if (path === '/api/save') return startJob('save', async () => {
     const result = await driver.commit(); await store.log('save', { codes: result.saved }); return { saved: result.saved };

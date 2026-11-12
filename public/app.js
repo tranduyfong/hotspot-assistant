@@ -108,6 +108,16 @@ function renderList() {
 }
 function renderControls() {
   const busy = busyPost || state.job?.status === 'running';
+  const immediate = state.writeMode === 'immediate';
+  const automatic = state.writeMode === 'auto';
+  $('stage-one').textContent = automatic ? 'Gắn căn này' : immediate ? 'Gắn & lưu căn này' : 'Đặt nháp căn này';
+  $('stage-batch').textContent = automatic ? 'Gắn các căn' : immediate ? 'Gắn & lưu' : 'Đặt nháp';
+  $('write-note').textContent = immediate
+    ? 'VHUB đang lưu ngay khi gắn. Tool kiểm tra lại mã và tọa độ trên máy chủ sau từng căn.'
+    : automatic ? 'Tool kiểm tra kết quả sau khi gắn: nếu VHUB tạo nháp, xem lại rồi bấm Lưu lên VHUB; nếu lưu ngay, tool đọc lại mã và tọa độ.'
+    : 'Đặt nháp chưa lưu lên máy chủ. Xem lại các tag trước khi bấm Lưu lên VHUB.';
+  $('save').hidden = immediate;
+  $('discard').hidden = immediate;
   const hasTarget = Boolean(selected && state.pending.some((p) => p.code === selected));
   const known = Boolean(approved());
   $('connect').disabled = busy;
@@ -146,14 +156,14 @@ function renderControls() {
   $('target-status').textContent = known ? '✓ Vị trí đã xác nhận' : 'Chờ xác nhận';
   $('target-status').classList.toggle('approved', known);
   $('approval-note').textContent = known
-    ? `Đã ghi nhớ lúc ${time(approved().verifiedAt)}. Có thể đặt nháp hoặc chọn cùng các căn khác.`
+    ? `Đã ghi nhớ lúc ${time(approved().verifiedAt)}. ${immediate ? 'Sẵn sàng gắn và lưu lên VHUB.' : 'Có thể đặt nháp hoặc chọn cùng các căn khác.'}`
     : 'Vị trí lưu trên máy, gắn với phiên bản mặt bằng hiện tại.';
   $('draft-title').textContent = state.draftCodes.length
     ? `${state.draftCodes.length} căn đang có bản nháp`
-    : 'Chưa có bản nháp do tool tạo';
+    : immediate ? 'VHUB đang ở chế độ lưu ngay' : 'Chưa có bản nháp do tool tạo';
   $('draft-note').textContent = state.draftCodes.length
     ? state.draftCodes.join(' · ')
-    : 'Các căn đã xác nhận vị trí có thể chọn để đặt nháp cùng một lượt.';
+    : immediate ? 'Mỗi căn được đọc lại từ máy chủ để xác nhận sau khi gắn.' : 'Các căn đã xác nhận vị trí có thể chọn để đặt nháp cùng một lượt.';
 }
 function renderState() {
   $('pending-count').textContent = state.syncedAt ? state.pending.length : '—';
@@ -175,7 +185,7 @@ function renderState() {
       sync: 'Đồng bộ dữ liệu VHUB',
       scan: 'Dò vị trí mã căn',
       'scan-batch': 'Dò danh sách căn',
-      stage: 'Đặt nháp trên VHUB',
+      stage: state.writeMode === 'immediate' ? 'Gắn, lưu và kiểm tra trên VHUB' : 'Đặt nháp trên VHUB',
       save: 'Lưu và kiểm tra trên máy chủ',
       zoom: 'Mở vị trí trên VHUB',
       discard: 'Hủy bản nháp',
