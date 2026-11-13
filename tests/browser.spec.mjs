@@ -37,6 +37,11 @@ test('đặt hai nháp, lưu một lần và xác minh đọc lại; chặn vị
     const page = await context.newPage();
     const errors = []; page.on('pageerror', e => errors.push(e.message));
     await page.goto('https://vhub.com.vn/du-an/vinhomes-sai-gon-park/mat-bang-quy-can');
+    await page.evaluate(() => {
+      const originalRender = window.render;
+      window.render = () => { originalRender(); document.getElementById('manager').insertAdjacentHTML('beforeend', '<p>Dữ liệu lưu lên server khi thao tác</p>'); };
+      render();
+    });
     const driver = new VhubDriver('unused'); driver.browser = browser; driver.page = page;
     assert.deepEqual(errors, []);
     assert.equal(await driver.panel().isVisible(), true, await page.locator('body').innerText());
@@ -48,7 +53,8 @@ test('đặt hai nháp, lưu một lần và xác minh đọc lại; chặn vị
     };
     const descriptor = await driver.descriptor();
     driver.map = { ...descriptor, id: fingerprint({ tour: driver.tour, scene: driver.scene, ...descriptor }, Buffer.from('overview')) };
-    const position = code => ({ code, x: 1600, y: 1100, mapId: driver.map.id, source: 'user-reviewed' });
+    const position = code => ({ code, x: code === 'AS76-11' ? 1700 : 1600, y: 1100, mapId: driver.map.id, source: 'user-reviewed' });
+    await page.evaluate(() => { const k = document.getElementById('krpanoSWFObject'), set = k.set; k.set = (name, value) => { set(name, value); render(); }; });
     await assert.rejects(driver.stage([{ ...position('AS76-09'), mapId: 'old-map' }]), /chưa được duyệt/);
     await page.evaluate(() => { window.fixture.drafts.push({ productCode: 'AS76-01' }); render(); });
     await assert.rejects(driver.stage([position('AS76-09')]), /Bản nháp/);
@@ -70,6 +76,53 @@ test('đặt hai nháp, lưu một lần và xác minh đọc lại; chặn vị
     assert.equal(driver.pending.length, 0);
     assert.equal(driver.hotspots.length, 2);
     await assert.rejects(driver.stage([position('AS76-09')]), /đã gắn/);
+  } finally { await browser.close(); }
+});
+
+test('native immediate saves use the exact product row and verify each server record', { timeout: 45000 }, async () => {
+  const browser = await chromium.launch({ channel: 'msedge', headless: true });
+  try {
+    const context = await browser.newContext({ viewport: { width: 1600, height: 1000 } });
+    await context.route('**/*', route => route.request().isNavigationRequest()
+      ? route.fulfill({ contentType: 'text/html; charset=utf-8', body: fixture })
+      : route.request().method() === 'POST'
+        ? route.fulfill({ contentType: 'application/json', headers: { 'Access-Control-Allow-Origin': '*' }, body: '{"success":true}' })
+        : route.request().method() === 'OPTIONS'
+          ? route.fulfill({ status: 204, headers: { 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Headers': 'Content-Type', 'Access-Control-Allow-Methods': 'POST' } })
+          : route.abort());
+    const page = await context.newPage();
+    await page.goto('https://vhub.com.vn/du-an/vinhomes-sai-gon-park/mat-bang-quy-can');
+    await page.evaluate(() => {
+      window.fixture.products.unshift({ id: 'prefix-collision', productCode: 'AS76-090', stateLine: 'available' });
+      const originalRender = window.render;
+      window.render = () => { originalRender(); document.getElementById('manager').insertAdjacentHTML('beforeend', '<p>Dữ liệu lưu lên server khi thao tác</p>'); };
+      const k = document.getElementById('krpanoSWFObject'), set = k.set;
+      k.set = (name, value) => { set(name, value); render(); };
+      document.querySelector('canvas').onclick = async event => {
+        const f = window.fixture; if (!f.armed) return;
+        const r = k.getBoundingClientRect(), point = k.screentosphere(event.clientX - r.left, event.clientY - r.top);
+        f.posts++;
+        await fetch('https://api.vhub.com.vn/tours/vinhomes-sai-gon-park/hotspots', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: '{}' });
+        f.hotspots.push({ id: f.armed, productCode: f.armed, sceneName: 'scene_mb_quy_can', ath: point.x, atv: point.y });
+        f.armed = null; render();
+      };
+      render();
+    });
+    const driver = new VhubDriver('unused'); driver.browser = browser; driver.page = page;
+    driver.context = { request: { get: async () => ({ ok: () => true, body: async () => Buffer.from('overview') }) } };
+    driver.readApi = async path => {
+      const f = await page.evaluate(() => window.fixture);
+      const data = path.includes('/products/published') ? f.products : f.hotspots;
+      return { data, meta: { total: data.length, hasNextPage: false } };
+    };
+    const descriptor = await driver.descriptor();
+    driver.map = { ...descriptor, id: fingerprint({ tour: driver.tour, scene: driver.scene, ...descriptor }, Buffer.from('overview')) };
+    const result = await driver.stage(['AS76-09', 'AS76-11'].map((code, i) => ({ code, x: 1600 + i * 100, y: 1100, mapId: driver.map.id, source: 'user-reviewed' })));
+    assert.deepEqual(result.saved, ['AS76-09', 'AS76-11']);
+    assert.deepEqual(result.draftCodes, []);
+    assert.equal(await page.evaluate(() => window.fixture.posts), 2);
+    assert.deepEqual(driver.hotspots.map(h => h.code), ['AS76-09', 'AS76-11']);
+    assert.ok(driver.pending.some(p => p.code === 'AS76-090'));
   } finally { await browser.close(); }
 });
 

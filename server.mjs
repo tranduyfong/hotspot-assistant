@@ -187,7 +187,13 @@ async function post(path, body) {
           !Number.isFinite(position.ath) || !Number.isFinite(position.atv))
         throw new Error(`Vị trí ${position.code} cần được dò và xác nhận lại với ảnh đã sửa tọa độ.`);
     }
-    const result = await driver.stage(positions); await store.log('stage', { codes }); return result;
+    try {
+      const result = await driver.stage(positions);
+      if (!result.saved?.length) await store.log('stage', { codes });
+      return result;
+    } finally {
+      if (driver.lastSaved?.length) await store.log('save', { codes: driver.lastSaved });
+    }
   });
   if (path === '/api/save') return startJob('save', async () => {
     const result = await driver.commit(); await store.log('save', { codes: result.saved }); return { saved: result.saved };

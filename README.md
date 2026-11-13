@@ -4,7 +4,7 @@
 
 Tool Windows hỗ trợ công việc gắn mã căn lên mặt bằng VHUB. Tool hiện hỗ trợ **VINHOMES SÀI GÒN PARK** và **VINHOMES GOLDEN CITY**; scene và thông số ảnh được đọc từ dự án đang chọn.
 
-Tool đọc danh sách căn còn hàng chưa gắn, tìm mốc cùng dãy, tải vùng ảnh mặt bằng gốc, nhận diện mã bằng OCR cục bộ và lưu vị trí đã được người dùng xác nhận. Khi đã có vị trí, có thể đặt nháp từ 1 tới 50 căn một lượt, sau đó lưu bằng giao diện gốc của VHUB.
+Tool đọc danh sách căn còn hàng chưa gắn, tìm mốc cùng dãy, tải vùng ảnh mặt bằng gốc, nhận diện mã bằng OCR cục bộ và lưu vị trí đã được người dùng xác nhận. Có thể gắn từ 1 tới 50 căn một lượt. Tool kiểm tra kết quả thực tế để nhận biết VHUB tạo nháp hay lưu ngay; với nháp, xem lại các tag rồi bấm Lưu lên VHUB.
 
 ## Chạy trên máy hiện tại
 
@@ -31,6 +31,10 @@ Có thể đặt `OCR_PYTHON` tới Python đã cài `requirements-ocr.txt`, `OC
 **Dò mã đã chọn** hỗ trợ tối đa 50 căn một lượt, chỉ đọc ảnh. Các căn khác nằm trong cùng vùng đã OCR sẽ được dùng lại từ bộ nhớ đệm. **Đặt nháp** hỗ trợ tối đa 50 căn đã xác nhận một lượt.
 
 Chỉ dùng một lượt điều khiển tại một thời điểm. Trong khi tool đang đặt nháp/lưu, để tool thao tác trên cửa sổ VHUB. Có thể dừng việc dò ảnh bằng **Dừng dò mã**.
+
+Trên Golden City, dòng “Dữ liệu lưu lên server khi thao tác” của VHUB vẫn có thể xuất hiện khi đang tạo nháp. Tool dựa vào nháp và phản hồi máy chủ để xác nhận chế độ. Nút gắn sẽ cập nhật theo chế độ đã xác minh; khi VHUB lưu ngay, tool đọc lại từng mã và tọa độ sau khi gắn.
+
+Ảnh ghép được cắt sau khi hoàn tất ghép các ô ảnh để giữ đúng tọa độ gốc. Các ảnh và vị trí đã ghi nhớ bằng bản trước sửa lỗi này cần được dò và xác nhận lại. OCR hỗ trợ chữ xoay dọc, viền ô đất mảnh/đứt nét và ô góc màu hồng; kết quả vẫn cần được đối chiếu trên ảnh trước khi ghi nhớ.
 
 ## Dữ liệu và khôi phục
 
