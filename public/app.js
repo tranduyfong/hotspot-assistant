@@ -107,7 +107,7 @@ function renderList() {
   if (activeRow) activeRow.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
 }
 function renderControls() {
-  const busy = busyPost || state.job?.status === 'running';
+  const busy = busyPost || state.reviewBusy || state.job?.status === 'running';
   const hasTarget = Boolean(selected && state.pending.some((p) => p.code === selected));
   const known = Boolean(approved());
   $('connect').disabled = busy;

@@ -1,5 +1,7 @@
 # VHUB Hotspot Assistant v0.1
 
+**Mới: [Polygon 2D → 360](docs/polygon-360.md)** — mở `/mapping` để vẽ/nhập polygon, chấm cặp mốc, xem trước trên VHUB, chỉnh X/Y và yaw/pitch/roll, lưu profile và xuất tọa độ cầu.
+
 Tool Windows hỗ trợ công việc gắn mã căn lên mặt bằng VHUB. Tool hiện hỗ trợ **VINHOMES SÀI GÒN PARK** và **VINHOMES GOLDEN CITY**; scene và thông số ảnh được đọc từ dự án đang chọn.
 
 Tool đọc danh sách căn còn hàng chưa gắn, tìm mốc cùng dãy, tải vùng ảnh mặt bằng gốc, nhận diện mã bằng OCR cục bộ và lưu vị trí đã được người dùng xác nhận. Khi đã có vị trí, có thể đặt nháp từ 1 tới 50 căn một lượt, sau đó lưu bằng giao diện gốc của VHUB.

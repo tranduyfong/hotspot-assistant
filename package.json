@@ -8,8 +8,8 @@
   "scripts": {
     "start": "node server.mjs",
     "test": "node --test tests/*.test.mjs",
-    "test:e2e": "node --test tests/browser.spec.mjs",
-    "check": "node --check server.mjs && node --check public/app.js && npm test"
+    "test:e2e": "node --test tests/*browser.spec.mjs",
+    "check": "node --check server.mjs && node --check public/app.js && node --check public/mapping.js && node --check lib/mapping.mjs && npm test"
   },
   "dependencies": {
     "playwright": "1.64.1",
